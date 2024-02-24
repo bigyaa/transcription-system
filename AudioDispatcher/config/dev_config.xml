@@ -1,0 +1,11 @@
+<config>
+    <library>whisper</library>
+    <audiodir>./sample</audiodir>
+    <output_dir>./transcriptions</output_dir>
+    <model_size>medium</model_size>
+    <verbosity>true</verbosity>
+    <hf_token>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</hf_token>
+    <extensions>['mp3', 'wav']</extensions>
+    <device>cpu</device>
+    <compute_type>int8</compute_type>
+</config>

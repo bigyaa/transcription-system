@@ -1,0 +1,18 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="config">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="library" type="xs:string" minOccurs="0"/>
+        <xs:element name="audiodir" type="xs:string" minOccurs="0"/>
+        <xs:element name="output_dir" type="xs:string" minOccurs="0"/>
+        <xs:element name="model_size" type="xs:string" minOccurs="0"/>
+        <xs:element name="verbosity" type="xs:boolean" minOccurs="0"/>
+        <xs:element name="hf_token" type="xs:string" minOccurs="0"/>
+        <xs:element name="extensions" type="xs:string" minOccurs="0"/>
+        <xs:element name="device" type="xs:string" minOccurs="0"/>
+        <xs:element name="compute_type" type="xs:string" minOccurs="0"/>
+        <xs:element name="batch_size" type="xs:string" minOccurs="0"/>
+ </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
