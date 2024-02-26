@@ -87,32 +87,8 @@ class TranscriptionConfig():
                               'configxml', DEFAULT_CONFIG_FILE)
         parsed_xml_file = XML.XMLFile(config_file)
 
-        # if os.path.isfile(config_file):
-        #     with open(config_file, 'rb') as file:
-        #         self.root = ET.parse(file).getroot()
-        # else:
-        #     err_msg = f"Config file not found: {config_file}"
-        #     logger.error(err_msg)
-        #     if hasattr(self.command_line_args, 'configxml'):
-        #         raise ConfigurationError(ExitStatus.missing_file())
-
-        # if hasattr(self, 'root'):
-        #     try:
-        #         validate_configxml(logger, config_file, DEFAULT_CONFIG_FILE_SCHEMA)
-        #         self.config_data.update({child.tag: child.text for child in self.root})
-        #     except Exception as e:
-        #         logger.error(f"Error loading config file: {config_file} - {format_error_message(e)}")
-        #         raise ConfigurationError(ExitStatus.file_format_error())
-
-
-        (config_data, file_missing, file_malformed, schema_missing,
+        (self.config_data, file_missing, file_malformed, schema_missing,
          schema_malformed, file_invalid) = parsed_xml_file.contents()
-
-        self.config_data = config_data
-
-        for key, value in self.command_line_args.items():
-            if value is not None and key not in self.config_data:
-                self.config_data[key] = value
 
         fatal_errors = '\n'.join((file_missing if config_file else [
         ]) + file_malformed + schema_malformed + file_invalid)
@@ -131,15 +107,15 @@ class TranscriptionConfig():
         Get the value for the specified key in the configuration file.
         """
         try:
-            if key in self.config_data:
+            if key in self.command_line_args and self.command_line_args[key] is not None:
+                return self.command_line_args[key]
+            elif key in self.config_data:
                 return self.config_data[key]
-            else:
-                if default is not None:
-                    return default
-                else:
-                    logger.error(
-                        f'Could not find element in configuration file: {key}')
-                    STATUS.ExitStatus.internal_error()
+            elif default is not None:
+                return default
+            logger.error(
+                    f'Could not find element in configuration file: {key}')
+            STATUS.ExitStatus.internal_error()
         except Exception as e:
             logger.error(
                 f'Error accessing configuration file: {format_error_message(e)}')
