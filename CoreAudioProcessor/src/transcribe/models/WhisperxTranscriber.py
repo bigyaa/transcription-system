@@ -87,8 +87,8 @@ import time
 from whisperx import (DiarizationPipeline, load_audio,
                       load_align_model, load_model, align, assign_word_speakers)
 
-from config.DEFAULTS import DEFAULT_WHISPER_CONFIG
 from src.utils.helperFunctions import format_error_message
+from src.utils import applicationStatusManagement as STATUS
 
 # ***************************************************************************************************************************
 #  logging support
@@ -132,15 +132,19 @@ class WhisperxTranscriber:
             logger (logging.Logger): Logging object for capturing status messages.
         """
         # Set operating parameters
-        self.audio_file = config_dict.get('audio', DEFAULT_WHISPER_CONFIG['audio'])
-        self.batch_size = config_dict.get('batch_size', DEFAULT_WHISPER_CONFIG['batch_size'])
-        self.compute_type = config_dict.get('compute_type', DEFAULT_WHISPER_CONFIG['compute_type'])
-        self.device = config_dict.get('device', DEFAULT_WHISPER_CONFIG['device'])
-        self.enable_diarization = config_dict.get('diarize', DEFAULT_WHISPER_CONFIG['diarize'])
-        self.hf_token = config_dict.get('hf_token', DEFAULT_WHISPER_CONFIG['hf_token'])
-        self.model_size = config_dict.get('model_size', DEFAULT_WHISPER_CONFIG['model_size'])
-        self.output_dir = config_dict.get('output_dir', DEFAULT_WHISPER_CONFIG['output_dir'])
+        self.audio_file = config_dict.get('audio')
+        self.batch_size = config_dict.get('batch_size')
+        self.compute_type = config_dict.get('compute_type')
+        self.device = config_dict.get('device')
+        self.enable_diarization = config_dict.get('enable_diarization')
+        self.hf_token = config_dict.get('hf_token')
+        self.model_size = config_dict.get('model_size')
+        self.output_dir = config_dict.get('output_dir')
         self.logger = logger
+
+        # Set file name for specific status message 
+        STATUS.statusmsg.filename= self.audio_file
+        STATUS.errmsg.filename= self.audio_file
 
         # Set up operations
         self.logger.info(f"Loading {self.model_size} model")
@@ -148,7 +152,8 @@ class WhisperxTranscriber:
             self.model = load_model(self.model_size, self.device, compute_type=self.compute_type)
         except Exception as e:
             self.logger.critical(f"Error while loading whisper model:\n {format_error_message(e)}")
-            sys.exit(1)
+            print( STATUS.errmsg( "WhisperxTranscriber: " + format_error_message(e) ), file=sys.stderr )
+            sys.exit(STATUS.ExitStatus.internal_error())
 
     def transcribe(self):
         """
@@ -167,7 +172,17 @@ class WhisperxTranscriber:
 
             audio_path = os.path.abspath(audio)
             p = pathlib.PurePath(audio_path)
-            output_dir = str(p.parents[0]) + str(self.output_dir.split('.')[1])
+            # Check if there are at least one parent directory
+            if len(p.parents) >= 1:
+                output_dir = str(p.parents[0])
+            else:
+                # Handle the case when there are no parent directories
+                output_dir = ""
+
+            # Check if the output_dir is not empty and the output_dir.split('.') has at least two elements
+            if output_dir and len(self.output_dir.split('.')) >= 2:
+                output_dir += self.output_dir.split('.')[1]
+
             base_name = p.name.split('.')[0] + '.txt'
             output_filename = os.path.join(output_dir, base_name)
             audio_end_time = time.time()
@@ -183,6 +198,8 @@ class WhisperxTranscriber:
 
         except Exception as e:
             self.logger.critical(f"Error during {'diarization' if self.enable_diarization else 'transcription'}: {format_error_message(e)}")
+            print( STATUS.errmsg( "WhisperxTranscriber: " + format_error_message(e) ), file=sys.stderr )
+            sys.exit(STATUS.ExitStatus.internal_error())
 
     def diarize_and_write(self, output_dir, output_filename, result, audio):
         """
@@ -208,7 +225,9 @@ class WhisperxTranscriber:
 
         except Exception as e:
             self.logger.critical(f"Error while diarizing: {format_error_message(e)}")
-            
+            print( STATUS.errmsg( "WhisperxTranscriber: " + format_error_message(e) ), file=sys.stderr )
+            sys.exit(STATUS.ExitStatus.internal_error())
+
     def transcribe_and_write(self, output_dir, output_filename, result):
         """
         Transcribe the audio file and write the transcription.
@@ -224,7 +243,9 @@ class WhisperxTranscriber:
             self.write_transcription(output_dir, output_filename, result)
 
         except Exception as e:
-            self.logger.error(f"Error during transcription: {format_error_message(e)}")
+            # self.logger.error(f"Error during transcription: {format_error_message(e)}")
+            print( STATUS.errmsg( "WhisperxTranscriber: " + format_error_message(e) ), file=sys.stderr )
+            sys.exit(STATUS.ExitStatus.internal_error())
 
     def write_transcription(self, output_dir, output_filename, result):
         """
@@ -251,4 +272,6 @@ class WhisperxTranscriber:
             self.logger.info(f"Finished writing {'diarization' if self.enable_diarization else 'transcription'} to file: {output_filename}")
 
         except Exception as e:
-            self.logger.error(f"Error during {'diarization' if self.enable_diarization else 'transcription'}: {format_error_message(e)}")
+            # self.logger.error(f"Error during {'diarization' if self.enable_diarization else 'transcription'}: {format_error_message(e)}")
+            print( STATUS.errmsg( "WhisperxTranscriber: " + format_error_message(e) ), file=sys.stderr )
+            sys.exit(STATUS.ExitStatus.internal_error())

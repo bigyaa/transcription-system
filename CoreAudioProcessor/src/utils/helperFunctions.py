@@ -26,7 +26,6 @@
 # ***********************************************
 # imports
 # ***********************************************
-    parser.add_argument("-lf", "--logfile", help="The file used to log application output", dest="logfile", default= DEFAULT_WHISPER_CONFIG['logfile'])
 
 # argparse - command-line parsing library
 #    ArgumentParser - class to parse command-line options
@@ -39,11 +38,13 @@
 
 import argparse
 import logging
+import sys
 
 from lxml import etree
 
 from config.DEFAULTS import (DEFAULT_AUDIO_FILE_EXTENSIONS,
                              DEFAULT_CONFIG_FILE, DEFAULT_CONFIG_FILE_SCHEMA, DEFAULT_WHISPER_CONFIG)
+from src.utils import applicationStatusManagement as STATUS
 
 # ***********************************************
 #  auxiliary functions
@@ -78,15 +79,16 @@ def parse_command_line_args():
     parser = argparse.ArgumentParser(
         description="Process command-line arguments for audio transcription.")
     #
-    parser.add_argument("-au", "--audio", help="The input audio file or file directory", dest='audiodir', default=DEFAULT_WHISPER_CONFIG['audio'])
+    parser.add_argument("-au", "--audio", help="The input audio file or file directory", dest='audio', default=DEFAULT_WHISPER_CONFIG['audio'])
     parser.add_argument("-cx", "--configxml", help="An alternative xml config file", dest='configxml', default=DEFAULT_CONFIG_FILE)
     parser.add_argument("-ct", "--compute_type", help="Specifices the computation type", dest='compute_type', default=DEFAULT_WHISPER_CONFIG['compute_type'])
     parser.add_argument("-dv", "--device", help="Hardware device for diarization", dest='device', default= DEFAULT_WHISPER_CONFIG['device'])
-    parser.add_argument("-ed", "--enable_diarization", help="If true, diarize output after transcription", dest="diarize", type=str2bool, default= DEFAULT_WHISPER_CONFIG['diarize'])
-    parser.add_argument("-ex", "--extensions", nargs='+', help="List of audio extensions in audiodir", dest='extensions', default=DEFAULT_AUDIO_FILE_EXTENSIONS)
+    parser.add_argument("-ed", "--enable_diarization", help="If true, diarize output after transcription", dest="enable_diarization", type=str2bool, default= DEFAULT_WHISPER_CONFIG['enable_diarization'])
+    parser.add_argument("-ex", "--extensions", nargs='+', help="List of audio extensions in audio", dest='extensions', default=DEFAULT_AUDIO_FILE_EXTENSIONS)
     parser.add_argument("-ht", "--hf_token", help="The user token needed for diarization", dest="hf_token", default= DEFAULT_WHISPER_CONFIG['hf_token'])
     parser.add_argument("-ms", "--model_size", help="The model size for transcription", dest="model_size", default= DEFAULT_WHISPER_CONFIG['model_size'])
     parser.add_argument("-od", "--output_dir", help="The directory to store transcriptions", dest="output_dir", default= DEFAULT_WHISPER_CONFIG['output_dir'])
+    parser.add_argument("-bs", "--batch_size", help="The batch size for transcription", dest="batch_size", default= DEFAULT_WHISPER_CONFIG['batch_size'])
     
     return vars(parser.parse_args())
 
@@ -134,8 +136,14 @@ def validate_configxml(logger, xml_file=DEFAULT_CONFIG_FILE, xsd_schema=DEFAULT_
         logger.info(f"XML document ({xml_file}) is valid according to the schema ({xsd_schema}).")
     except etree.XMLSchemaParseError as xspe:
         logger.critical(f"XML Schema is not valid: {xspe}")
+        print( STATUS.errmsg( "helperFunctions: " + e ), file=sys.stderr )
+        sys.exit(STATUS.ExitStatus.file_type_error())
     except etree.DocumentInvalid as di:
         logger.critical(f"XML document is not valid: {di}")
+        print( STATUS.errmsg( "helperFunctions: " + e ), file=sys.stderr )
+        sys.exit(STATUS.ExitStatus.file_format_error())
     except Exception as e:
         logger.critical(f"An error occurred during XML validation: {format_error_message(e)}")
+        print( STATUS.errmsg( "helperFunctions: " + e ), file=sys.stderr )
+        sys.exit(STATUS.ExitStatus.file_access_error())
 

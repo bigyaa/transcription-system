@@ -37,9 +37,12 @@ FAILURE = 1
 #   exit – exit, returning a final status code
 # threading - 
 #    current_thread - identify current thread
+# copy -
+#    deepcopy - make full copy of specified object
 
 import sys
 import threading
+import copy
 
 # Custom packages for the transcription model and utilities
 #
@@ -54,7 +57,7 @@ from src.transcribe.models.WhisperxTranscriber import WhisperxTranscriber
 from src.utils.ISCLogWrapper import ISCLogWrapper, logging
 from src.utils.TranscriptionConfig import TranscriptionConfig
 from src.utils.helperFunctions import format_error_message 
-
+from config import DEFAULTS
 
 # ***********************************************
 # program main
@@ -67,8 +70,11 @@ if __name__ == '__main__':
     config = TranscriptionConfig()
 
     # Configure logging for the application.
+    logfile_config = copy.deepcopy(DEFAULTS.LOGFILE_CONFIG)
+    console_config = copy.deepcopy(DEFAULTS.LOGGING_CONSOLE_CONFIG)
+    log_record_format_config = copy.deepcopy(DEFAULTS.LOG_RECORD_FORMAT_CONFIG)
 
-    isc_log_wrapper = ISCLogWrapper(config)
+    isc_log_wrapper = ISCLogWrapper(console_config, logfile_config, log_record_format_config)
     if not isc_log_wrapper.set_up_logging():
         print(f"?? {threading.current_thread().name}: Failed to set up logging, aborting.")
         sys.exit(FAILURE)
@@ -77,8 +83,8 @@ if __name__ == '__main__':
     try:
         model = WhisperxTranscriber(config, logger)
         model.transcribe() 
-        logger.info(f"Processing of {config.get('audiodir')} completed. ") 
+        logger.info(f"Processing of {config.get('audio')} completed. ")
         sys.exit(SUCCESS)
     except Exception as e:
-        logger.critical(f"Processing of {config.get('audiodir')} failed due to error: {format_error_message(e)}")
+        logger.critical(f"Processing of {config.get('audio')} failed due to error: {format_error_message(e)}")
         sys.exit(FAILURE)

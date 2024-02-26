@@ -1,17 +1,20 @@
 import logging
+import sys
+
 # The importlib module provides a way to import other modules dynamically
 from importlib import import_module
 # The inspect module provides functions for inspecting live objects such as modules, classes, and functions
 from inspect import getmembers, isabstract, isclass
 
-from src.transcribe.models import Transcribe
+from src.transcribe.models import WhisperxTranscriber
+from src.utils import applicationStatusManagement as STATUS
 
 logger = logging.getLogger(__name__)
 
 # Define the TranscribeFactory class
 class TranscribeFactory:
     @staticmethod
-    def load_class(module_name) -> Transcribe:
+    def load_class(module_name) -> WhisperxTranscriber:
         try:
             # Attempt to import the specified module
             # The "." prefix means that the module should be searched for in the same package as this file
@@ -21,7 +24,8 @@ class TranscribeFactory:
         except ImportError as e:
             # If there's an ImportError, print an error message and return None
             logger.error("Error importing module " + module_name, e)
-            return 
+            print( STATUS.errmsg( "TranscribeFactory: " + e ), file=sys.stderr )
+            sys.exit(STATUS.ExitStatus.internal_error()) 
 
         # Get all classes defined in the module that are not abstract
         # and are subclasses of Transcribe

@@ -1,7 +1,7 @@
 <config>
     <library>whisper</library>
-    <audiodir>./sample/sample.mp3</audiodir>
-    <output_dir>./transcriptions</output_dir>
+    <audio>CoreAudioProcessor/sample/sample.mp3</audio>
+    <output_dir>CoreAudioProcessor/transcriptions</output_dir>
     <model_size>medium</model_size>
     <verbosity>true</verbosity>
     <hf_token>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</hf_token>

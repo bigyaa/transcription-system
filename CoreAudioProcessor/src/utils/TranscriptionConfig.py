@@ -53,10 +53,8 @@ import sys
 # XMLProcessor - manipulate XML files and content
 #   XMLFile - parse and validate XML files
 
-from src.utils.applicationStatusManagement import ExitStatus, FileFormatError, ConfigurationError
 import src.utils.applicationStatusManagement as STATUS
-from config.DEFAULTS import (DEFAULT_CONFIG_FILE, DEFAULT_CONFIG_FILE_SCHEMA,
-                             DEFAULT_WHISPER_CONFIG)
+from config.DEFAULTS import (DEFAULT_CONFIG_FILE)
 from src.utils.helperFunctions import (format_error_message, logger,
                                        parse_command_line_args)
 import src.utils.XMLProcessor as XML
@@ -106,26 +104,26 @@ class TranscriptionConfig():
         #         logger.error(f"Error loading config file: {config_file} - {format_error_message(e)}")
         #         raise ConfigurationError(ExitStatus.file_format_error())
 
-        # for key, value in self.command_line_args.items():
-        #     if value is not None:
-        #         self.config_data[key] = value
 
-        # print(f"Config data: {self.config_data}")
         (config_data, file_missing, file_malformed, schema_missing,
          schema_malformed, file_invalid) = parsed_xml_file.contents()
 
-        setattr(self, 'config_data', config_data)
+        self.config_data = config_data
+
+        for key, value in self.command_line_args.items():
+            if value is not None and key not in self.config_data:
+                self.config_data[key] = value
 
         fatal_errors = '\n'.join((file_missing if config_file else [
         ]) + file_malformed + schema_malformed + file_invalid)
         if fatal_errors:
-            print(STATUS.app_errmsg("ConfigManager: " +
+            print(STATUS.errmsg("TranscriptionConfig: " +
                   fatal_errors), file=sys.stderr)
             sys.exit(STATUS.ExitStatus.missing_file())
 
         warnings = '\n'.join(file_missing + schema_missing)
         if warnings:
-            print(STATUS.app_infomsg(warnings), file=sys.stderr)
+            print(STATUS.errmsg(warnings), file=sys.stderr)
             STATUS.ExitStatus.missing_default_file()
 
     def get(self, key, default=None):
@@ -137,7 +135,6 @@ class TranscriptionConfig():
                 return self.config_data[key]
             else:
                 if default is not None:
-                    logger.info(f'Using default values for {key}')
                     return default
                 else:
                     logger.error(
