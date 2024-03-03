@@ -5,29 +5,23 @@
 #   Usage:
 #      python main.py --audio [path_to_audio_file] --configxml [path_to_config_file] [Other_Arguments]
 #      Arguments and defaults:
-#         -au, --audio [audio path] : Path to the audio file for transcription.
+#         -au, --audio_file [path] : Path to the audio file for transcription
+#         -bs, --batch_size [size] :  Batch size for transcription
 #         -cx, --configxml [path] : XML configuration file. Default is 'config/default_config.xml'
-#         -dv. --device : hardware device for diarization.  Defaults to 'cpu'
-#         -ex, --extensions [ext] : List of allowed audio file extensions. Defaults to ['.mp3', '.wav', '.aac'].
+#         -ct, --compute_type : The computation type
+#         -dv, --device : hardware device for diarization.  Defaults to 'cpu'
+#         -el, --enable-logfile : If included, write log messages to log file, as well as console.
 #         -ht, --hf_token [token] : Hugging Face token for model access with diarization.  Defaults to None.
 #         -lf, --logfile [path] : Name of log file to which to write.  Defaults to sys.stderr.
-#         -mt, --model_type [type] : Whisper model type for transcription. Defaults to 'base'.
+#         -ms, --model_size [size] : Whisper model size for transcription. Defaults to 'base'.
 #         -od, --output_dir [dir] : Directory to store transcription files. Defaults to 'transcriptions'.
 #      Outputs:
 #         Processes and transcribes audio files, outputting transcription files in the specified directory.
 #         Application activity and errors are logged.
 # ---------------------------------------------------------------------------------------------------------------------
-#   last updated:  January 2024
+#   last updated:  March 1 2024
 #   authors:       Ruben Maharjan, Bigya Bajarcharya, Mofeoluwa Jide-Jegede, Phil Pfeiffer
 # *************************************************************************************************************************
-
-# ***********************************************
-# program constants
-# ***********************************************
-#  PROGRAM EXIT CODES
-
-SUCCESS = 0
-FAILURE = 1
 
 # ***********************************************
 # imports
@@ -35,29 +29,27 @@ FAILURE = 1
 
 # sys –
 #   exit – exit, returning a final status code
-# threading - 
-#    current_thread - identify current thread
-# copy -
-#    deepcopy - make full copy of specified object
 
 import sys
-import threading
-import copy
 
-# Custom packages for the transcription model and utilities
+# --------------------------------------------------------------------------------------
+#   custom
+# --------------------------------------------------------------------------------------
 #
-# src.transcribe.models.WhisperxTranscriber - custom package for the transcription model
-#   WhisperxTranscriber - class to handle transcription process using Whisper models
-# src.utils.ISCLogWrapper - custom wrapper for logging functionalities
+# DEFAULTS - supporting definitions for forms parsing
+#   CONFIG_FILE -         XML file for overriding selected default values
+#   CONFIG_FILE_SCHEMA -  XML file for validating configuration files
+# ISCLogWrapper - wrapper for logging functionalities
 #   ISCLogWrapper - class to configure and initiate logging
 #   logging.getLogger - method to return a logger instance with the specified name
-# src.utils.TranscriptionConfig - custom configuration handler for transcription settings
+# TranscriptionConfig - configuration handler for transcription settings
 #   TranscriptionConfig - class to manage transcription configuration from an XML file
-from src.transcribe.models.WhisperxTranscriber import WhisperxTranscriber
-from src.utils.ISCLogWrapper import ISCLogWrapper, logging
-from src.utils.TranscriptionConfig import TranscriptionConfig
-from src.utils.helperFunctions import format_error_message 
-from config import DEFAULTS
+# WhisperxTranscriber - package for the transcription model
+#   WhisperxTranscriber - class to handle transcription process using Whisper models
+
+import src.StatusManager as STATUS
+from src.TranscriptionConfig import TranscriptionConfig
+from src.WhisperxTranscriber import WhisperxTranscriber
 
 # ***********************************************
 # program main
@@ -66,25 +58,17 @@ from config import DEFAULTS
 if __name__ == '__main__':
 
     # Configure program execution.
-
     config = TranscriptionConfig()
+    logger = config.logger()
 
-    # Configure logging for the application.
-    logfile_config = copy.deepcopy(DEFAULTS.LOGFILE_CONFIG)
-    console_config = copy.deepcopy(DEFAULTS.LOGGING_CONSOLE_CONFIG)
-    log_record_format_config = copy.deepcopy(DEFAULTS.LOG_RECORD_FORMAT_CONFIG)
-
-    isc_log_wrapper = ISCLogWrapper(console_config, logfile_config, log_record_format_config)
-    if not isc_log_wrapper.set_up_logging():
-        print(f"?? {threading.current_thread().name}: Failed to set up logging, aborting.")
-        sys.exit(FAILURE)
-    logger = logging.getLogger(__name__)
-
+    # Transcribe the input
     try:
         model = WhisperxTranscriber(config, logger)
         model.transcribe() 
-        logger.info(f"Processing of {config.get('audio')} completed. ")
-        sys.exit(SUCCESS)
+        status_msg = STATUS.statusmsg( 'Processing completed.' )
+        logger.info( status_msg )
+        sys.exit( STATUS.ExitStatus.status )
     except Exception as e:
-        logger.critical(f"Processing of {config.get('audio')} failed due to error: {format_error_message(e)}")
-        sys.exit(FAILURE)
+        err_msg = STATUS.errmsg( f'?? exiting: {STATUS.err_to_str(e)}' )
+        logger.error( err_msg )
+        sys.exit( STATUS.ExitStatus.uncertain_error() )

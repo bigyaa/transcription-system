@@ -1,4 +1,0 @@
-[2024-02-25 22:54:34.244] [MainThread] [ERROR   ] [TranscriptionConfig.py:142] Could not find element in configuration file: audio
-[2024-02-25 22:54:34.245] [MainThread] [ERROR   ] [TranscriptionConfig.py:142] Could not find element in configuration file: batch_size
-[2024-02-25 22:54:34.245] [MainThread] [ERROR   ] [TranscriptionConfig.py:142] Could not find element in configuration file: diarize
-[2024-02-25 22:54:37.603] [MainThread] [CRITICAL] [main.py:89] Processing of ./sample/sample.mp3 failed due to error: can only concatenate str (not "TypeError") to str

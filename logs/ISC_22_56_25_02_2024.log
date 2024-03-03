@@ -1,2 +1,0 @@
-[2024-02-25 22:56:38.340] [MainThread] [ERROR   ] [TranscriptionConfig.py:140] Could not find element in configuration file: batch_size
-[2024-02-25 22:56:38.341] [MainThread] [ERROR   ] [TranscriptionConfig.py:140] Could not find element in configuration file: diarize

@@ -1,0 +1,11 @@
+<config>
+    <!-- batch_size -->
+    <compute_type>int8</compute_type>
+    <device>cpu</device>
+    <!-- enable_diarization -->
+    <!-- enable_logging -->    
+    <hf_token>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</hf_token>
+    <!-- logfile -->    
+    <model_size>medium</model_size>
+    <output_dir>transcriptions</output_dir>
+</config>

@@ -11,7 +11,7 @@
 #   -.  Default settings include file extensions for audio files, model types for transcription, and logging configurations.
 #   -.  The datetime module is used to timestamp log files.
 # ---------------------------------------------------------------------------------------------------------------------
-#   last updated: February 2024
+#   last updated: 1 March 2024
 #   authors: Bigya Bajarcharya, Mofeoluwa Jide-Jegede, Phil Pfeiffer
 # *************************************************************************************************************************
 
@@ -19,32 +19,40 @@
 # imports
 # ***********************************************
 
+# ===============================================
+# Python library
+# ===============================================
+#
 # datetime - module for manipulating dates and times
 #    datetime.now - function to get the current date and time
 # logging – access logging level definitions (CRITICAL, etc.)
+# os – operating system primitives
+#    devnull - the POSIX null output device
 
 from datetime import datetime
 import logging
+import os
 
-# ***********************************************
-# Default values
-# ***********************************************
+# ====================================================================================
+# Logging
+# ====================================================================================
 
-DEFAULT_CONFIG_FILE = "CoreAudioProcessor/config/dev_config.xml"
-DEFAULT_CONFIG_FILE_SCHEMA = 'CoreAudioProcessor/config/config_schema.xsd'
+# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# Logging file system defaults
 #
-DEFAULT_AUDIO = 'CoreAudioProcessor/sample/sample.mp3'  # Default audio directory if no other source is specified
-DEFAULT_AUDIO_FILE_EXTENSIONS = ['.mp3', '.wav', '.aac']
-DEFAULT_XML_PATH = "CoreAudioProcessor/config/dev_config.xml"
+# -.  ENABLE_LOGFILE - if false, disable logging to a file
+# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-# ===============================================
+ENABLE_LOGFILE = False
+
+# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 #  Log record format defaults
 #     Log format:
 #       color_codes – colorization for log records
 #       reset – for absence of color
 #       line_format – format for log entries
 #       date_format – format for dating
-# ===============================================
+# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 LOG_RECORD_FORMAT_CONFIG = {
     'color_codes':  {
@@ -71,7 +79,9 @@ LOG_RECORD_FORMAT_CONFIG = {
 #       name – name of file
 #       log_level – minimum level at which to log logfile messages
 #       colorize – whether to colorize logfile  messages
-# ===============================================
+#     NO_LOGFILE_CONFIG:
+#       write all messages to os.devnull; output becomes irrelevant
+# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 LOGGING_CONSOLE_CONFIG = {
     'output': 'stderr',
@@ -86,6 +96,12 @@ LOGFILE_CONFIG = {
     'colorize': False
 }
 
+NO_LOGFILE_CONFIG = {
+    'dir': '',
+    'name': os.devnull,
+    'log_level': "critical",
+    'colorize': False
+}
 
 # ===============================================
 #  Whisper defaults
@@ -100,13 +116,23 @@ LOGFILE_CONFIG = {
 # ===============================================
 
 ALLOWED_MODEL_TYPES = ['tiny', 'base', 'small', 'medium', 'large']
-DEFAULT_WHISPER_CONFIG = {
+WHISPER_CONFIG = {
     'batch_size': 1,
+    'configxml': "CoreAudioProcessor/config/dev_config.xml",
     'compute_type': 'int8',
     'device':  'cpu',
     'enable_diarization':  False,
+    'enable_logfile':  False,
     'hf_token': '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',
     'model_size': 'small',
-    'audio': 'CoreAudioProcessor/sample/branch1/rec.wav',
     'output_dir': 'CoreAudioProcessor/transcriptions/'
 }
+
+
+# ***********************************************
+# Additional Default Values
+# ***********************************************
+
+CONFIG_FILE = 'transcription_config_schema.xsd'
+CONFIG_FILE_SCHEMA = 'transcription_config_schema.xsd'
+

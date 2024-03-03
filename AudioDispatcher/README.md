@@ -45,7 +45,7 @@ This will run the transcription process based on the configuration that has been
 
 4. Once the process is complete, the transcribed text will be saved to a text file in the output directory.
 
-Note: Make sure to update the configuration file (config.xml) with the correct settings before running the code. You can also specify the audio files you want to transcribe by adding their file paths to the audio_files list in main.py.
+Note: Make sure to update the configuration file (config.xml) with the correct settings before running the code. You can also specify the audio files you want to transcribe by adding their file paths to the audio_path list in main.py.
 
 If you encounter any issues or have any questions, please refer to the Contributing Guidelines or contact the project maintainers.
 
