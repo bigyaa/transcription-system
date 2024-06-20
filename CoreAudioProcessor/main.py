@@ -56,7 +56,6 @@ from src.WhisperxTranscriber import WhisperxTranscriber
 # ***********************************************
 
 if __name__ == '__main__':
-
     # Configure program execution.
     config = TranscriptionConfig()
     logger = config.logger()

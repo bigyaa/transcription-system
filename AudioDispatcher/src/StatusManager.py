@@ -10,7 +10,7 @@
 #   -.  The module stands alone because of the need for cross-module management of program status messages,
 #          particularly before applicationPreparser.py's logging has been enabled
 # -----------------------------------------------------------------------------------------------------------------
-#   last updated:  1 March 2024
+#   last updated:  3 March 2024
 #   author: Phil Pfeiffer
 # *****************************************************************************************************************
 

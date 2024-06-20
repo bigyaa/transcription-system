@@ -49,7 +49,7 @@ import sys
 
 import src.StatusManager as STATUS
 from src.TranscriptionConfig import TranscriptionConfig
-from src.WhisperxTranscriber import WhisperxTranscriber
+from src.Transcribe import Transcribe
 
 # ***********************************************
 # program main
@@ -63,8 +63,7 @@ if __name__ == '__main__':
 
     # Transcribe the input
     try:
-        model = WhisperxTranscriber(config, logger)
-        model.transcribe()
+        Transcribe(config, logger)
         status_msg = STATUS.statusmsg('Processing completed.')
         logger.info(status_msg)
         sys.exit(STATUS.ExitStatus.status)

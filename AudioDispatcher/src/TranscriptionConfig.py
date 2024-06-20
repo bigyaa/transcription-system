@@ -20,7 +20,7 @@
 #   -.  Custom utility functions are used for command-line parsing and XML validation.
 #   -.  The logging module provides feedback and error reporting.
 # ---------------------------------------------------------------------------------------------------------------------
-#   last updated:  1 March 2024
+#   last updated:  3 March 2024
 #   authors: Ruben Maharjan, Bigya Bajarcharya, Mofeoluwa Jide-Jegede, Phil Pfeiffer
 # *************************************************************************************************************************
 

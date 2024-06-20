@@ -18,7 +18,7 @@
 #   -.  LogRecordFormatter is a custom formatter class that extends logging.Formatter to add color support.
 #   -.  ISCLogWrapper sets up logging according to the configuration provided and applies the LogFormatter.
 # ---------------------------------------------------------------------------------------------------------------------
-#   last updated: 1 March 2024
+#   last updated: 3 March 2024
 #   authors: Ruben Maharjan, Bigya Bajarcharya, Mofeoluwa Jide-Jegede, Phil Pfeiffer
 # *************************************************************************************************************************
 
@@ -61,7 +61,7 @@ import threading
 #     a collection of setter routines
 #     status() - return final status
 #
-import config.DEFAULTS as DEFAULT
+import src.DEFAULTS as DEFAULT
 import src.StatusManager as STATUS
 
 # ***************************************************************************************************************************

@@ -8,7 +8,7 @@
 #   Design Notes:
 #   -.  This module was tested using Python 3.12.  It hasn't been tested with earlier versions of Python.
 # --------------------------------------------------------------------------------------------------------------------------
-#   last updated:  1 March 2024
+#   last updated:  3 March 2024
 #   author: Phil Pfeiffer
 # *************************************************************************************************************************
 
@@ -53,7 +53,7 @@ from xml.etree import ElementTree as ET
 #   CONFIG_FILE_SCHEMA -  XML file for validating configuration files
 
 import src.StatusManager as STATUS
-import config.DEFAULTS as DEFAULT
+import src.DEFAULTS as DEFAULT
 
 # ---------------------------------------------------------------------------------------------------------------------
 #   PyPi (i.e. pip) repository

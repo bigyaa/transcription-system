@@ -8,7 +8,7 @@
 #   Design Notes:
 #   -.  This module was tested using Python 3.12.  It hasn't been tested with earlier versions of Python.
 # --------------------------------------------------------------------------------------------------------------------------
-#   last updated:  1 March 2024
+#   last updated:  3 March 2024
 #   author: Phil Pfeiffer
 # *************************************************************************************************************************
 

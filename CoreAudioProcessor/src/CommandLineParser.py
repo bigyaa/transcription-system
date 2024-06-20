@@ -17,7 +17,7 @@
 #   -.  The module is designed to be used as a utility in a larger audio transcription application.
 #   -.  Logging is configured to provide info and critical feedback for the operations performed.
 # ---------------------------------------------------------------------------------------------------------------------
-#   last updated:  1 March 2024
+#   last updated:  3 March 2024
 #   authors:  Bigya Bajarcharya, Mofeoluwa Jide-Jegede, Phil Pfeiffer
 # *************************************************************************************************************************
 
@@ -82,8 +82,8 @@ def parse_command_line_args():
     parser = argparse.ArgumentParser( description="Process command-line arguments for audio transcription." )
     #
     parser.add_argument("-au", "--audio_file",         help="The input audio file or file directory", dest='audio_file', required=True)
-    parser.add_argument("-bs", "--batch_size",         help="The batch size for transcription", dest="batch_size")
     parser.add_argument("-cx", "--configxml",          help="An alternative xml config file", dest='configxml')
+    parser.add_argument("-bs", "--batch_size",         help="The batch size for transcription", dest="batch_size")
     parser.add_argument("-ct", "--compute_type",       help="Specifies the computation type", dest='compute_type')
     parser.add_argument("-dv", "--device",             help="Hardware device for diarization", dest='device')
     parser.add_argument("-ed", "--enable_diarization", help="If true, diarize after transcription", dest="enable_diarization", const='True', choices=['True', 'False'], nargs='?' )

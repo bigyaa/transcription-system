@@ -41,7 +41,7 @@
 #   -.  Outputs include aligned segments with speaker labels to enhance transcript readability.
 
 # -------------------------------------------------------------------------------------------------------------------------
-#   last updated: 1 March 2024
+#   last updated: 3 March 2024
 #   authors: Ruben Maharjan, Bigya Bajarcharya, Mofeoluwa Jide-Jegede, Phil Pfeiffer
 # *************************************************************************************************************************
 

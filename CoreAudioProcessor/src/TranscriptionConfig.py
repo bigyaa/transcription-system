@@ -20,7 +20,7 @@
 #   -.  Custom utility functions are used for command-line parsing and XML validation.
 #   -.  The logging module provides feedback and error reporting.
 # ---------------------------------------------------------------------------------------------------------------------
-#   last updated:  1 March 2024
+#   last updated:  3 March 2024
 #   authors: Ruben Maharjan, Bigya Bajarcharya, Mofeoluwa Jide-Jegede, Phil Pfeiffer
 # *************************************************************************************************************************
 
@@ -64,7 +64,7 @@ import sys
 #   XMLFile - parse and validate XML files
 
 import src.CommandLineParser as CL_PARSE
-import config.DEFAULTS as DEFAULT
+import src.DEFAULTS as DEFAULT
 import src.ISCLogWrapper as LOGGER
 import src.StatusManager as STATUS
 import src.XMLProcessor as XML
@@ -78,12 +78,12 @@ import src.XMLProcessor as XML
 # =======================================================================================================
 
 class TranscriptionConfig():
-    def __init__(self, audio=None):
+    def __init__(self):
       # *** *** parse the command line *** ****  
       self.command_line_args = copy.deepcopy( CL_PARSE.parse_command_line_args() )
       
       # *** *** set up file name for informational and error messages *** ***
-      self.audio_file = audio if audio else self.command_line_args['audio_file']
+      self.audio_file = self.command_line_args['audio_file']
       STATUS.statusmsg.filename = self.audio_file
       STATUS.errmsg.filename = self.audio_file
       
