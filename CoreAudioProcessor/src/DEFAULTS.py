@@ -118,11 +118,10 @@ NO_LOGFILE_CONFIG = {
 ALLOWED_MODEL_TYPES = ['tiny', 'base', 'small', 'medium', 'large']
 WHISPER_CONFIG = {
     'batch_size': 1,
-    'configxml': "CoreAudioProcessor/config/dev_config.xml",
     'compute_type': 'int8',
     'device':  'cpu',
     'enable_diarization':  False,
-    'enable_logfile':  False,
+    'enable_logfile':  True,
     'hf_token': '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',
     'model_size': 'small',
     'output_dir': 'CoreAudioProcessor/transcriptions/'

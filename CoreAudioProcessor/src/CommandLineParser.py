@@ -18,7 +18,7 @@
 #   -.  Logging is configured to provide info and critical feedback for the operations performed.
 # ---------------------------------------------------------------------------------------------------------------------
 #   last updated:  3 March 2024
-#   authors:  Bigya Bajarcharya, Mofeoluwa Jide-Jegede, Phil Pfeiffer
+#   authors:  Bigya Bajarcharya, Phil Pfeiffer
 # *************************************************************************************************************************
 
 # ***********************************************

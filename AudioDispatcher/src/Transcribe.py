@@ -83,9 +83,10 @@ from src.IscFileSearch import IscFileSearch
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("WhisperxTranscriber")
 
+
 def Transcribe(config_dict, logger):
     """
-    Initialize the WhisperxTranscriber with specified configuration.
+    Initialize the CoreAudioProcessor with specified configuration.
 
     Args:
         config_dict (dict): object with a get() method for accessing parameters.
@@ -116,29 +117,48 @@ def Transcribe(config_dict, logger):
 
     try:
         start_time = time.time()
-        if os.path.isdir(audio_path):
-            logger.info("Traversing if audio_path is a directory")
-            file_search = IscFileSearch(audio_path)
-            audio_path = file_search.traverse_directory()
-        else:
-            audio_path = [audio_path]
+        audio_paths = [audio_path] if not os.path.isdir(
+            audio_path) else IscFileSearch(audio_path).traverse_directory()
 
         main_script_path = os.path.abspath("CoreAudioProcessor/main.py")
         python_interpreter = "/usr/local/bin/python3"
-        for audio in audio_path:
-            print("Current audio file", audio)
-            subprocess.run(
-                [python_interpreter, main_script_path, "-au", audio]+ [f"{flag}={value}" for flag, value in flags.items()],
-                capture_output=True,
-            )
-            print(f"Processing of {audio} completed successfully.")
+        failure_counter = 0
+        for audio in audio_paths:
+            logger.info(f"Processing audio file: {audio}")
+            try:
+                process_start_time = time.time()
+                subprocess.run(
+                    [python_interpreter, main_script_path, "-au", audio] +
+                    [f"{flag}={value}" for flag, value in flags.items()],
+                    capture_output=True,
+                    check=True  # Raises CalledProcessError for non-zero exit status
+                )
+                process_end_time = time.time()
+                process_elapsed_time = process_end_time - process_start_time
+                logger.info(
+                    f"Run time for {audio}: {process_elapsed_time} seconds")
+                logger.info(f"Processing of {audio} completed successfully.")
+                failure_counter = 0
+            except subprocess.CalledProcessError as e:
+                logger.error(
+                    f"Command '{e.cmd}' returned non-zero exit status {e.returncode}.")
+                failure_counter += 1
+                if failure_counter >= 5:
+                    logger.error("Exceeded maximum failure limit. Exiting.")
+                    break
+            except Exception as e:
+                logger.error(
+                    f"Exception occurred during processing {audio}: {e}")
+                failure_counter += 1
+                if failure_counter >= 5:
+                    logger.error("Exceeded maximum failure limit. Exiting.")
+                    break
+
         end_time = time.time()
         total_elapsed_time = (end_time - start_time) / 60
         logger.info(
-            f"Total elapsed time for all audio files: {total_elapsed_time} minutes"
-        )
+            f"Total elapsed time for all audio files: {total_elapsed_time} minutes")
 
     except Exception as e:
         logger.critical(
-            f"Error during {'diarization' if enable_diarization else 'transcription'}: {STATUS.err_to_str(e)}"
-        )
+            f"Error during {'diarization' if enable_diarization else 'transcription'}: {STATUS.err_to_str(e)}")

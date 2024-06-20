@@ -19,7 +19,7 @@
 #         Processes and transcribes audio files, outputting transcription files in the specified directory.
 #         Application activity and errors are logged.
 # ---------------------------------------------------------------------------------------------------------------------
-#   last updated:  March 1 2024
+#   last updated:  March 4 2024
 #   authors:       Ruben Maharjan, Bigya Bajarcharya, Mofeoluwa Jide-Jegede, Phil Pfeiffer
 # *************************************************************************************************************************
 
@@ -36,16 +36,11 @@ import sys
 #   custom
 # --------------------------------------------------------------------------------------
 #
-# DEFAULTS - supporting definitions for forms parsing
-#   CONFIG_FILE -         XML file for overriding selected default values
-#   CONFIG_FILE_SCHEMA -  XML file for validating configuration files
-# ISCLogWrapper - wrapper for logging functionalities
-#   ISCLogWrapper - class to configure and initiate logging
-#   logging.getLogger - method to return a logger instance with the specified name
+# StatusManager - supporting definitions for error management
 # TranscriptionConfig - configuration handler for transcription settings
 #   TranscriptionConfig - class to manage transcription configuration from an XML file
-# WhisperxTranscriber - package for the transcription model
-#   WhisperxTranscriber - class to handle transcription process using Whisper models
+# Transcribe - package for the transcription model
+#   Transcribe - class to handle transcription process using CoreAudioProcessor module
 
 import src.StatusManager as STATUS
 from src.TranscriptionConfig import TranscriptionConfig

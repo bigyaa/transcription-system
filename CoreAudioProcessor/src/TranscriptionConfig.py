@@ -21,7 +21,7 @@
 #   -.  The logging module provides feedback and error reporting.
 # ---------------------------------------------------------------------------------------------------------------------
 #   last updated:  3 March 2024
-#   authors: Ruben Maharjan, Bigya Bajarcharya, Mofeoluwa Jide-Jegede, Phil Pfeiffer
+#   authors: Ruben Maharjan, Bigya Bajarcharya, Phil Pfeiffer
 # *************************************************************************************************************************
 
 # ***********************************************

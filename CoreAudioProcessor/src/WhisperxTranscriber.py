@@ -42,7 +42,7 @@
 
 # -------------------------------------------------------------------------------------------------------------------------
 #   last updated: 3 March 2024
-#   authors: Ruben Maharjan, Bigya Bajarcharya, Mofeoluwa Jide-Jegede, Phil Pfeiffer
+#   authors: Ruben Maharjan, Bigya Bajarcharya, Phil Pfeiffer
 # *************************************************************************************************************************
 
 # ***********************************************
@@ -150,7 +150,7 @@ class WhisperxTranscriber:
         """
         # Set operating parameters
         self.audio_file = config_dict.get('audio_file')
-        self.batch_size = config_dict.get('batch_size')
+        self.batch_size = int(config_dict.get('batch_size'))
         self.compute_type = config_dict.get('compute_type')
         self.device = config_dict.get('device')
         self.enable_diarization = config_dict.get('enable_diarization')
@@ -183,6 +183,10 @@ class WhisperxTranscriber:
             start_time = time.time()
             audio = self.audio_file
 
+            if os.path.isdir(audio):
+                self.logger.error( STATUS.errmsg( "This function does not accept a directory." ) )
+                sys.exit(STATUS.ExitStatus.internal_error())
+
             self.logger.info(f"{'Diarizing' if self.enable_diarization else 'Transcribing'} audio file: {audio}")
             audio_start_time = time.time()
             waveform = load_audio(audio)
@@ -213,7 +217,6 @@ class WhisperxTranscriber:
             end_time = time.time()
             self.total_elapsed_time = (end_time - start_time) / 60
             self.logger.info(f"Total elapsed time for the audio file: {self.total_elapsed_time} minutes")
-
         except Exception as e:
             err_msg = f"Error during {'diarization' if self.enable_diarization else 'transcription'}: {STATUS.err_to_str(e)}"
             self.logger.error( STATUS.errmsg( err_msg ) )

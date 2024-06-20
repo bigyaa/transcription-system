@@ -8,7 +8,7 @@
 #   Design Notes:
 #   -.  This module was tested using Python 3.12.  It hasn't been tested with earlier versions of Python.
 # --------------------------------------------------------------------------------------------------------------------------
-#   last updated:  3 March 2024
+#   last updated:  4 March 2024
 #   author: Phil Pfeiffer
 # *************************************************************************************************************************
 
@@ -25,6 +25,9 @@
 #    exists - test is argument exists in the file system
 #    isdir - test if argument is a directory
 #    isfile – test if argument is a file
+# sys –
+#   exit – exit, returning a final status code
+#   stderr – the standard error message stream
 # xml.dom.minidom -
 #    parsestring - parses a string representation of an XML file
 #    topretty - pretty-prints a parsed XML string
@@ -33,6 +36,7 @@
 #    XMLSchema - class to validate an XML document against XML Schema
 #
 import os
+import sys
 import xml
 from xml.dom import minidom as MINIDOM
 from xml.etree import ElementTree as ET

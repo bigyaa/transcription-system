@@ -117,6 +117,7 @@ NO_LOGFILE_CONFIG = {
 
 ALLOWED_MODEL_TYPES = ['tiny', 'base', 'small', 'medium', 'large']
 WHISPER_CONFIG = {
+    'audio_path':'AudioDispatcher/audio',
     'batch_size': 1,
     'configxml': "AudioDispatcher/config/dev_config.xml",
     'compute_type': 'int8',
@@ -126,7 +127,8 @@ WHISPER_CONFIG = {
     'hf_token': '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',
     'model_size': 'small',
     'output_dir': 'AudioDispatcher/transcriptions/',
-    'enable_logfile': False,
+    'enable_logfile': True,
+    'logfile': 'AudioDispatcher/logs'
 }
 
 

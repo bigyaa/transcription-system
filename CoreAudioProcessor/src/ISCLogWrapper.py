@@ -19,7 +19,7 @@
 #   -.  ISCLogWrapper sets up logging according to the configuration provided and applies the LogFormatter.
 # ---------------------------------------------------------------------------------------------------------------------
 #   last updated: 3 March 2024
-#   authors: Ruben Maharjan, Bigya Bajarcharya, Mofeoluwa Jide-Jegede, Phil Pfeiffer
+#   authors: Ruben Maharjan, Bigya Bajarcharya, Phil Pfeiffer
 # *************************************************************************************************************************
 
 # ***********************************************
