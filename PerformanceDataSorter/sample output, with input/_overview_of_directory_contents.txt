@@ -1,0 +1,19 @@
+This directory contains files that illustrate the operation of sort transcription performance data.xsl.
+As of 27 June 2024, it contains the following files and directories:
+
+-.  _overview_of_directory_contents.txt - this file
+-.  audio_logs.xml -
+      a file generated from a run of AudioDispatcher over recordings from the 2010-2019 and 2022 storytelling festivals,
+      -.  using WhisperX's-- really, Whisper's-- small, medium, and large language models
+      -.  created by combining the 33 performance data logs generated from these runs,
+          using the procedure given in collapsing peformance data into one xml document.txt
+-.  bad_segment_pct-bad_segment_count.xml -
+      the result from sorting audio_logs.xml using the command
+          transform -xsl:"sort transcription performance data.xsl" \
+              -s:audio_logs.xml -o:bad_segment_pct-bad_segment_count.xml \
+              primary_key=bad_segment_percentage secondary_key=total_segment_count
+-.  recording_size-bad_segment_count.xml -
+      the result from sorting audio_logs.xml using the command
+          transform -xsl:"sort transcription performance data.xsl" \
+              -s:audio_logs.xml -o:recording_size-bad_segment_count.xml \
+              primary_key=recording_size secondary_key=bad_segment_percentage

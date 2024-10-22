@@ -1,0 +1,21 @@
+This directory contains files for the WhisperXSegmentMerger, an application that collapses sequences of
+utterances from a given speaker, as recorded in an output from the CoreApplicationProcessor, into 
+individual, longer sequences-- with optional logging of anomalies-- to user-specified directories.
+
+As of 18 May 2024, it contains the following files and directories:
+
+-.  _overview_of_directory_contents.txt - this file
+-.  main.py - the application's main module
+-.  src - a directory of supporting source files for WhisperXSegmentMerger
+-.  config - a directory that contains a default config file for WhisperXSegmentMerger, with a config file schema
+-.  logs - the default directory for capturing WhisperXSegmentMerger's logs
+
+-.  WhisperXSegmentMerger ReadMe.docx - a reasonably detailed help document for the WhisperXSegmentMerger
+
+-.  Donald Davis.txt - a CoreAudioProcessor-style transcript for a Donald Davis performance
+-.  Donald Davis transcript.txt - the updated transcript, produced by WhisperXSegmentMerger
+-.  logs\Donald Davis log.txt - log produced from transcribing Davis' performance
+
+-.  Motoko.txt - a CoreAudioProcessor-style transcript for a Motoko performance
+-.  Motoko transcript.txt - the updated transcript, produced by WhisperXSegmentMerger
+-.  logs\Motoko log.txt - log produced from transcribing Davis' performance

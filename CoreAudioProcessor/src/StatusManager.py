@@ -10,7 +10,7 @@
 #   -.  The module stands alone because of the need for cross-module management of program status messages,
 #          particularly before applicationPreparser.py's logging has been enabled
 # -----------------------------------------------------------------------------------------------------------------
-#   last updated:  3 March 2024
+#   last updated:  20 May 2024
 #   author: Phil Pfeiffer
 # *****************************************************************************************************************
 
@@ -41,14 +41,14 @@ import time
 
 err_to_str = lambda e: '' if str(e) is None else str(e)
 
-my_generic_message = lambda message, show=False: f'{threading.current_thread().name}'+' '+time.ctime()+f"{': ' if show else ''}{message}"
+my_generic_message = lambda message, show=False: ((f'{threading.current_thread().name}'+' '+time.ctime()+': ') if show else '') + message
 
 def statusmsg( message, show_thread_and_time=False ):
-  return my_generic_message( f'{statusmsg.filename} {message}', show_thread_and_time )
+  return my_generic_message( f'{statusmsg.filename}{message}', show_thread_and_time )
 statusmsg.filename = ''
 
 def errmsg( syndrome, show_thread_and_time=False ):
-  return my_generic_message( f'?? {errmsg.filename} {syndrome}', show_thread_and_time )
+  return my_generic_message( f'?? {errmsg.filename}{syndrome}', show_thread_and_time )
 errmsg.filename = ''
 
 
@@ -94,6 +94,18 @@ class ExitStatus(object):
     return ExitStatus.status
   @staticmethod
   def missing_default_file():                  
+    ExitStatus.status = max(WARNING, ExitStatus.status)
+    return ExitStatus.status
+  @staticmethod
+  def whisperX_segment_speaker_error():                  
+    ExitStatus.status = max(WARNING, ExitStatus.status)
+    return ExitStatus.status
+  @staticmethod
+  def whisperX_segment_timeframe_error():                  
+    ExitStatus.status = max(WARNING, ExitStatus.status)
+    return ExitStatus.status
+  @staticmethod
+  def whisperX_segment_content_error():                  
     ExitStatus.status = max(WARNING, ExitStatus.status)
     return ExitStatus.status
   @staticmethod

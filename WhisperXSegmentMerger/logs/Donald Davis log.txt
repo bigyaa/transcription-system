@@ -1,0 +1,2 @@
+[2024-05-18 02:27:22.396] [MainThread] [ERROR   ] [SegmentMerger.py:117] Format error in E:\2024 spring\_ISC project\WhisperXSegmentMerger\Donald Davis.txt at line 328: improper format ([1841.584 - 1841.904] ? Inochi no mizu.)
+

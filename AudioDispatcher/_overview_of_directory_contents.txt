@@ -1,0 +1,17 @@
+This directory contains files for the AudioDispatcher, an application that walks a directory tree of recordings,
+repeatedly calling CoreAudioProcessor.py to transcribe and optionally diarize each recording, writing outputs
+-- optionally, including logs of its performance-- to user-specified directories.
+
+As of 18 May 2024, it contains the following files and directories:
+
+-.  _overview_of_directory_contents.txt - this file
+-.  main.py - the application's main module
+-.  src - a directory of supporting source files for AudioDispatcher
+-.  config - a directory that contains a default config file for AudioDispatcher, with a config file schema
+-.  logs - the default directory for capturing AudioDispatcher's logs
+
+-.  AudioDispatcher ReadMe.docx - a reasonably detailed help document for the AudioDispatcher
+
+-.  test_config.xml - a config file for testing a user-specified alternative to the default config file 
+-.  audio - a sample directory of test files to transcribe and diarize
+-.  transcriptions - AudioDispatcher output, generated from the files in the audio directory tree 

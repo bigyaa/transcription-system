@@ -1,0 +1,29 @@
+<!--
+  Last updated 30 March 2024 - Phil Pfeiffer
+  -. alternate config file for the dispatcher, if present, must be specified on command line - not configurable
+-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="config">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="extensions"             type="xs:string"  minOccurs="0"/>
+        <xs:element name="python"                 type="xs:string"  minOccurs="0"/>
+        <xs:element name="audio_processor"        type="xs:string"  minOccurs="0"/>
+        <xs:element name="processor_config_file"  type="xs:string"  minOccurs="0"/>
+        <xs:element name="enable_logging"         type="xs:string"  minOccurs="0"/>
+        <xs:element name="user_logs_dir"          type="xs:string"  minOccurs="0"/>
+        <xs:element name="summary_log_name"       type="xs:string"  minOccurs="0"/>
+        <xs:element name="detailed_log_name"      type="xs:string"  minOccurs="0"/>
+        <xs:element name="performance_log_name"   type="xs:string"  minOccurs="0"/>
+        <xs:element name="batch_size"             type="xs:string"  minOccurs="0"/>
+        <xs:element name="compute_type"           type="xs:string"  minOccurs="0"/>
+        <xs:element name="device"                 type="xs:string"  minOccurs="0"/>
+        <xs:element name="enable_diarization"     type="xs:string"  minOccurs="0"/>
+        <xs:element name="hf_token"               type="xs:string"  minOccurs="0"/>
+        <xs:element name="model_size"             type="xs:string"  minOccurs="0"/>
+        <xs:element name="output_dir"             type="xs:string"  minOccurs="0"/>
+        <xs:element name="enable_overwrite"       type="xs:string"  minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

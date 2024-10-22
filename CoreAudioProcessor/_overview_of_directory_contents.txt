@@ -1,0 +1,17 @@
+This directory contains files for the CoreAudioProcessor, an application that transcribes and optionally diarizes 
+a user-specified recording, writing outputsoutputs-- optionally, including logs of its performance-- 
+to user-specified directories.
+
+As of 19 May 2024, it contains the following files and directories:
+
+-.  _overview_of_directory_contents.txt - this file
+-.  main.py - the application's main module
+-.  src - a directory of supporting source files for AudioDispatcher
+-.  config - a directory that contains a default config file for AudioDispatcher, with a config file schema
+-.  logs - the default directory for capturing AudioDispatcher's logs
+
+-.  CoreAudioProcessor ReadMe.docx - a reasonably detailed help document for the CoreAudioProcessor
+
+-.  transcription_config.xml - a config file for testing a user-specified alternative to the default config file 
+-.  sample.mp3 - a sample test file to transcribe and diarize
+-.  sample.txt - CoreAudioProcessor output, generated from sample.mp3

@@ -1,0 +1,17 @@
+<!--
+  Last updated 4 April 2024 - Phil Pfeiffer
+  -.  alternate config file for the processor, if present, must be specified on command line - not configurable
+-->
+<config>
+    <!-- batch_size -->
+    <!-- compute_type -->
+    <!-- device -->
+    <!-- enable_diarization -->
+    <!-- hf_token -->
+    <!-- model_size -->
+    <!-- output_dir -->
+    <enable_overwrite>False</enable_overwrite>
+    <enable_logfile>True</enable_logfile>    
+    <!-- logfile_dir -->    
+    <!-- logfile_name -->    
+</config>

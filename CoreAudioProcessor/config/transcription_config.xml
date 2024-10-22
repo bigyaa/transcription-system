@@ -1,11 +1,18 @@
+<!--
+  Last updated 17 May 2024 - Phil Pfeiffer
+  -.  audio input required on command line - not configurable
+  -.  alternate config file, if present, must be on command line - not configurable
+-->
 <config>
     <!-- batch_size -->
-    <compute_type>int8</compute_type>
-    <device>cpu</device>
+    <!-- compute_type -->
+    <!-- device -->
     <!-- enable_diarization -->
-    <!-- enable_logging -->    
-    <hf_token>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</hf_token>
-    <!-- logfile -->    
-    <model_size>medium</model_size>
-    <output_dir>transcriptions</output_dir>
+    <!-- enable_logfile -->    
+    <hf_token>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</hf_token>
+    <!-- model_size -->
+    <!-- output_dir -->
+    <!-- enable_overwrite -->     
+    <!-- logfile_dir -->    
+    <!-- logfile_name -->    
 </config>

@@ -1,0 +1,682 @@
+[1.636 - 8.502] SPEAKER_04  Donald Davis is a master story crafter.
+[10.303 - 24.435] SPEAKER_04 He builds his work on a foundation of lived experience and personal story, but he brings those experiences and those stories to a level
+[26.603 - 30.348] SPEAKER_04  where they are full of art and full of heart.
+[30.508 - 31.969] SPEAKER_04 Please welcome Donald Davis.
+[42.243 - 43.103] SPEAKER_00  Oh, thank you.
+[44.484 - 45.024] SPEAKER_00 Thank you.
+[46.584 - 47.385] SPEAKER_00 We are here.
+[47.405 - 49.885] SPEAKER_00 Isn't that a wonderful thing?
+[50.005 - 50.565] SPEAKER_00 Yeah.
+[51.446 - 57.087] SPEAKER_01 I've actually been here all week for more than a week doing shows as the teller in residence.
+[57.547 - 63.389] SPEAKER_01 And one of the things I noticed during the week, you know, for the last two years, the trains haven't run.
+[67.085 - 75.635] SPEAKER_01  And so all week this week, they've been running them up and down, you know, to get them all warmed up again, be sure that they're running real well.
+[75.995 - 82.783] SPEAKER_01 And they told us they had a new piece of equipment that if a cell phone rings, it calls another train to come.
+[85.615 - 87.556] SPEAKER_01  So, boy, that'll shut them down now, won't it?
+[87.636 - 88.237] SPEAKER_01 Yeah.
+[88.957 - 90.958] SPEAKER_01 But thank you so much for being here.
+[91.278 - 92.079] SPEAKER_01 I've missed you.
+[92.119 - 94.28] SPEAKER_01 We've missed being together as listeners.
+[94.681 - 98.343] SPEAKER_01 It's wonderful for us to be able to work together once again.
+[98.363 - 101.465] SPEAKER_01 I was born... Thank you.
+[104.867 - 108.869] SPEAKER_01  I was born right across these mountains in Waynesville, North Carolina.
+[109.889 - 115.291] SPEAKER_01 And when I was born, I had hair and I had three cowlicks.
+[117.092 - 119.553] SPEAKER_01 I had sort of a double crown in the back.
+[119.613 - 121.294] SPEAKER_01 It went that way and that way.
+[121.694 - 126.236] SPEAKER_01 And then up here where I used to have hair in the front, I had another cowlick that went like that.
+[127.85 - 135.253] SPEAKER_01  And so my mama would just take the scissors and a little comb, and she'd just cut it off and cut it off and cut it off and cut it off.
+[135.473 - 136.654] SPEAKER_01 It just went every which way.
+[137.915 - 154.302] SPEAKER_01 And then the summer when I was six years old, when I was getting ready to start school, one Saturday morning, my mama said to my daddy, she said, Joe, take him to the barbershop and get him a store-bought haircut to start school with.
+[156.055 - 165.042] SPEAKER_01  And we started out the door, and the last thing my mama said as we went out the door, she said to my daddy, don't let Jim Caldwell cut it.
+[168.304 - 171.927] SPEAKER_01 Well, we got in the car, and we went down into Hazelwood and went in the barber shop.
+[172.007 - 175.009] SPEAKER_01 Now, all the barbers were Caldwells.
+[175.97 - 180.113] SPEAKER_01 Mr. Jim, he was the owner of the shop, and he was old.
+[180.514 - 184.757] SPEAKER_01 And then the other three barbers were actually his three nephews.
+[185.799 - 187.94] SPEAKER_01  There was Jarvis and J.R.
+[188.26 - 192.141] SPEAKER_01 and Herschel, and they had learned to cut hair in the Second World War.
+[193.321 - 198.882] SPEAKER_01 And so then they'd come back, and they'd join Mr. Jim there in the barbershop, and there they were.
+[199.162 - 202.723] SPEAKER_01 And when we got there, they were all busy, so we had to sit down and wait a little bit.
+[204.124 - 213.466] SPEAKER_01 Now, when I started watching what was happening in there, I realized why my mama said, don't let Mr. Jim cut it.
+[215.697 - 227.226] SPEAKER_01  See, you've got to remember, this was like 1950, and we did not know anything about things like Parkinson's disease or Alzheimer's.
+[227.666 - 232.049] SPEAKER_01 All we knew was when people got old, you got hardened into the arteries.
+[234.671 - 239.555] SPEAKER_01 And then some people got what the other old people call the palsy.
+[241.776 - 245.019] SPEAKER_01 And Mr. Jim was one of those that had the palsy.
+[246.812 - 251.174] SPEAKER_01  And he reached over and he picked up that clipper, and here it came through the air.
+[252.414 - 254.155] SPEAKER_01 And it's heading towards somebody's head.
+[254.215 - 257.036] SPEAKER_01 It hit about three times going across through there.
+[258.176 - 260.757] SPEAKER_01 Then it came back from the other side like that.
+[261.838 - 266.78] SPEAKER_01 Not long ago, we were riding around somewhere, and outside the mall, there were a whole bunch of teenagers out there.
+[267.04 - 272.122] SPEAKER_01 And I started looking at their hair, and I thought, you know, if Mr. Jim were cutting hair today, he'd make a fortune.
+[274.223 - 275.283] SPEAKER_01 It'd just be beautiful.
+[276.991 - 291.507] SPEAKER_01  Well, we kept watching and watching and watching, and finally it was Herschel who finished up on the person he was cutting, and he shook out that sheet, and the man got down, and he turned to my daddy and said, Joe, it's your boy next.
+[292.609 - 293.57] SPEAKER_01 Send him up here.
+[293.95 - 296.253] SPEAKER_01 He can be my special customer.
+[298.086 - 300.827] SPEAKER_01  And I started up toward that big Coke and barber chair.
+[301.208 - 310.832] SPEAKER_01 And then Herschel pulled out this special appliance that they have in barber shops to show little boys that they're not big enough to be there.
+[313.393 - 314.354] SPEAKER_01 It was a plank.
+[315.815 - 319.276] SPEAKER_01 You know, that laid across the arms of that Coke and barber chair.
+[319.617 - 326.64] SPEAKER_01 So you sat on the plank and then you put your feet down in the seat because you weren't tall enough to get your hair cut like a big person.
+[328.41 - 331.793] SPEAKER_01  Well, at that time, a haircut cost 60 cents.
+[333.294 - 338.998] SPEAKER_01 And Herschel gave me a nice haircut, my first professional haircut ever.
+[339.439 - 344.823] SPEAKER_01 My daddy paid him 60 cents, and we proudly, I even had smelly stuff on me.
+[346.504 - 349.207] SPEAKER_01 And then we proudly went back home.
+[350.748 - 355.812] SPEAKER_01 Since we walked in the door, my mama said, I thought you took him to get his haircut.
+[357.728 - 359.889] SPEAKER_01  My daddy said, I did, doesn't it look good?
+[361.35 - 363.471] SPEAKER_01 And she said, did you pay for that?
+[366.874 - 373.197] SPEAKER_01 Now what I did not know was, what I did know was, my dad was 18 years older than my mama.
+[374.238 - 378.581] SPEAKER_01 But what I didn't know was that my mama and Herschel were the same age.
+[380.001 - 382.363] SPEAKER_01 They had grown up in school together.
+[382.823 - 385.585] SPEAKER_01 He had been scared of her since they were little kids.
+[388.174 - 391.824] SPEAKER_01  And she said to my daddy, let's go get in the car.
+[394.477 - 405.847] SPEAKER_01  And we drove back into town to the barbershop, and we went inside, and my mother circled Herschel like a buzzard while she made him keep cutting hair off.
+[406.147 - 407.988] SPEAKER_01 She'd say, you missed one over there.
+[408.169 - 409.249] SPEAKER_01 You missed one over here.
+[409.41 - 411.231] SPEAKER_01 You got that side longer than this side.
+[411.511 - 412.712] SPEAKER_01 Get it on down in the back.
+[412.912 - 414.474] SPEAKER_01 Get the rest of that cowlick off.
+[414.714 - 420.078] SPEAKER_01 Around and around and around and around and around till it was cut down to the bone.
+[424.918 - 429.34] SPEAKER_01  And after that, my daddy never got to take me to the barbershop again.
+[431.56 - 432.721] SPEAKER_01 My mama took me.
+[434.601 - 449.927] SPEAKER_01 And it was so embarrassing, especially, you know, when you got to be like 8 years old and 9 years old and 10 years old and you go to the barbershop and there are your friends, you know, by themselves getting their hair cut and there's my mama with me.
+[452.423 - 455.886] SPEAKER_01  And she circles Herschel and supervises, you know, every time.
+[458.168 - 462.791] SPEAKER_01 By then, I knew clearly that women did not belong in the barbershop.
+[464.813 - 469.697] SPEAKER_01 Because there were two signs in there that, in essence, said no women.
+[471.538 - 474.34] SPEAKER_01 One of those signs said, no spitting.
+[476.782 - 478.964] SPEAKER_01 And the other one said, no profanity.
+[480.31 - 483.592] SPEAKER_01  And I thought, if that doesn't mean no women, I don't know what it means.
+[486.254 - 487.955] SPEAKER_01 But that didn't stop my mama.
+[488.055 - 489.496] SPEAKER_01 She was always there.
+[491.638 - 494.7] SPEAKER_01 Well, it kept going on and it kept going on and it kept going on.
+[495.02 - 501.705] SPEAKER_01 Up until the sixth grade, when I went to school, I went to school at the same place my mother taught.
+[503.018 - 505.48] SPEAKER_01  So my little brother and I had to go with her in the morning.
+[505.86 - 508.262] SPEAKER_01 I could hear her voice through the walls all day long.
+[508.602 - 510.723] SPEAKER_01 And then we had to go home with her in the afternoon.
+[511.144 - 522.171] SPEAKER_01 So I was absolutely thrilled when I got to the end of the sixth grade and the next year I got to go down the street to the junior high school.
+[523.772 - 528.375] SPEAKER_01 Now my mom was one of those teachers who had to be the first one to get there in the morning.
+[529.736 - 532.018] SPEAKER_01 You know, and the last one to leave in the afternoon.
+[533.41 - 537.113] SPEAKER_01  So she would let me out at junior high school before the door was unlocked.
+[538.715 - 541.357] SPEAKER_01 And then in the afternoon, they were all ready to leave.
+[541.397 - 545.28] SPEAKER_01 And I'd have to go out and sit on the steps and wait until my mama finally got there.
+[545.641 - 550.405] SPEAKER_01 And when it turned into October and beyond, it was cold out there.
+[552.026 - 555.229] SPEAKER_01 And I fussed about that because I didn't have any hair to start with.
+[557.887 - 571.776] SPEAKER_01  And my mother's solution was she knitted me this homemade big old wool toboggan hat to pull down over my head so I wouldn't freeze while I was waiting for her.
+[573.457 - 574.458] SPEAKER_01 And it was warm.
+[575.038 - 578.3] SPEAKER_01 And my mother was born congenitally cold.
+[579.661 - 581.062] SPEAKER_01 And our house had no heat.
+[582.509 - 589.851] SPEAKER_01  So when I would wear that hat in the house, she thought it was a great idea and had no question about it.
+[591.251 - 592.832] SPEAKER_01 But you know why I really wore it?
+[593.412 - 595.452] SPEAKER_01 I wore it so my hair could sneak out.
+[598.633 - 609.876] SPEAKER_01 I'd get up in the morning, put that hat on, wear it in the house all day long, wear it to school, wear it back home, wear it until I went to bed, and she did not notice I was getting hair.
+[614.264 - 622.468] SPEAKER_01  Well, one day she picked me up at school, and for some reason, it must have been a warm day, we start off in the car, and I pull the hat off.
+[624.129 - 632.313] SPEAKER_01 And she slammed on the brakes, and she turned and said, Who are you, and how did you get in my car?
+[635.575 - 636.915] SPEAKER_01 I said, Mom, it's me.
+[637.035 - 638.936] SPEAKER_01 She said, You're no child of mine.
+[640.137 - 641.958] SPEAKER_01 I never had anything that looked like this.
+[644.608 - 646.17] SPEAKER_01  You look like a sheep dog.
+[648.752 - 652.796] SPEAKER_01 She says, I have got to get your hair cut, but we can't do it today.
+[653.077 - 654.618] SPEAKER_01 I have to run by the drugstore.
+[654.638 - 656.14] SPEAKER_01 I have to run by the doctor's office.
+[656.16 - 657.461] SPEAKER_01 I have about three errands to do.
+[657.721 - 659.443] SPEAKER_01 I said, Mama, Mama, listen, listen.
+[661.085 - 662.666] SPEAKER_01 I am 13 years old.
+[664.308 - 666.25] SPEAKER_01 I know how to get my hair cut.
+[667.523 - 673.988] SPEAKER_01  Why don't you give me the money and let me out at the barbershop and you can go do all your errands.
+[674.368 - 676.429] SPEAKER_01 You won't even have to come back and get me.
+[676.91 - 679.772] SPEAKER_01 I will walk home when Herschel gets finished.
+[681.413 - 684.715] SPEAKER_01 And she said, well, we'll try it once.
+[687.357 - 690.059] SPEAKER_01 Now, haircuts have gone up to 90 cents by now.
+[691.581 - 698.364] SPEAKER_01  And she gave me a dollar bill and she told me when Herschel finished to say, how much is it?
+[698.825 - 702.446] SPEAKER_01 And when he said 90 cents, tell him to keep the change.
+[704.787 - 708.809] SPEAKER_01 So she let me out there at the barbershop and she went on off to do all her errands.
+[709.15 - 711.731] SPEAKER_01 And I went inside and I waited for my turn to come.
+[713.288 - 718.63] SPEAKER_01  Well, in a little while, Herschel finished whoever he was working on, and he looked at me, and he said, It's your turn now.
+[719.13 - 722.852] SPEAKER_01 By now, I was tall enough I didn't have to sit on the plank anymore.
+[724.573 - 730.035] SPEAKER_01 And I got up in the chair, and he looked at me, and he said, Where's your mama?
+[735.117 - 736.638] SPEAKER_01 I said, I am 13 years old.
+[739.022 - 744.047] SPEAKER_01  I guess I'm old enough to come and get my hair cut without my mama.
+[745.668 - 761.462] SPEAKER_01 And Herschel said, he said, well, big boy, how do you want your hair cut?
+[763.484 - 766.026] SPEAKER_01 Now, I need to ask you a question at this moment.
+[767.861 - 776.85] SPEAKER_01  When you were growing up, did your mother happen to have a list of people with whom you were not supposed to associate?
+[779.093 - 779.973] SPEAKER_01 Oh, mine did.
+[780.074 - 782.116] SPEAKER_01 It was more than one page long, too.
+[784.238 - 788.102] SPEAKER_01 But at the top of that list was a boy named Miles Chafin.
+[789.605 - 792.227] SPEAKER_01  Now, Miles Chafin lived right up the road from us.
+[792.567 - 798.19] SPEAKER_01 He actually lived with his grandparents because both his parents were in military service.
+[798.53 - 801.532] SPEAKER_01 And they would come home from time to time, you know, on a leave.
+[801.892 - 804.814] SPEAKER_01 But his permanent home was there with his grandparents.
+[805.134 - 810.577] SPEAKER_01 And my mother said that was the source of all the trouble because he was spoiled.
+[812.506 - 823.376] SPEAKER_01  And by the time we were about eight years old, Miles Chafin was the first kid my age I ever knew who had his own guitar.
+[825.537 - 828.16] SPEAKER_01 He thought he was little Hank Williams.
+[830.061 - 837.428] SPEAKER_01 And whenever we'd have some kind of little talent show or program at school, here he'd come to school bringing that guitar.
+[838.564 - 846.15] SPEAKER_01  And he'd be wearing cowboy boots and blue jeans and a western shirt and a little vest and a cowboy hat.
+[847.37 - 862.962] SPEAKER_01 And he'd come out on the stage with the guitar and he'd start playing on the guitar and making very obvious, outlandish, inappropriate eye contact with mothers in the audience.
+[869.611 - 871.613] SPEAKER_01  And then he'd start singing.
+[872.433 - 874.415] SPEAKER_01 Hey, good looking.
+[876.757 - 878.978] SPEAKER_01 What you got cooking?
+[878.998 - 882.121] SPEAKER_01 How's about cooking something?
+[882.181 - 884.643] SPEAKER_01 He was an evil, evil boy.
+[888.606 - 893.509] SPEAKER_01 Well, when we got to the seventh grade, Miles Chafin got converted.
+[895.271 - 899.354] SPEAKER_01 He got converted from Hank Williams to Elvis Presley.
+[902.85 - 907.333] SPEAKER_01  And as far as my mama was concerned, that's about as deep a hole as you can dig.
+[910.416 - 912.017] SPEAKER_01 His hair grew way out.
+[912.277 - 917.921] SPEAKER_01 He actually dyed his hair black, dyed it himself with ripped clothing dye right there at home.
+[922.216 - 930.068] SPEAKER_01  And then he got this big pompadour, you know, hairdo that came way up, and it was sort of shaved off like a duck tail across the back.
+[930.388 - 934.334] SPEAKER_01 And then he'd walk around and practice curling his lip back all the time.
+[936.738 - 939.981] SPEAKER_01  And then when we had a little talent show at school, you know what they'd do?
+[940.261 - 941.562] SPEAKER_01 They'd get a card table.
+[941.862 - 949.428] SPEAKER_01 You know how you can let two legs down and then stand it up so the front stands up like that so you couldn't see him from here down?
+[949.688 - 953.431] SPEAKER_01 Because he was Elvis Presley from one end to the other.
+[953.491 - 953.891] SPEAKER_01 Yeah.
+[958.635 - 962.858] SPEAKER_01 Well, when Herschel said, how do you want your hair cut, big boy?
+[965.74 - 966.281] SPEAKER_01 I said...
+[967.329 - 969.03] SPEAKER_01  do you know Miles Chafin?
+[973.094 - 976.136] SPEAKER_01 And Herschel said, hee, hee, hee.
+[981.02 - 984.143] SPEAKER_01 I said, I think he's got a real nice haircut.
+[985.404 - 987.306] SPEAKER_01 Now, I don't want mine dyed black.
+[987.386 - 989.728] SPEAKER_01 I'd just like it to stay the same color it is.
+[989.808 - 994.652] SPEAKER_01 But the more it could look, I think that's the way I'd really like for it to look.
+[996.613 - 1002.996] SPEAKER_01  Well, Herschel didn't cut any off except to sort of slab it off, you know, like a duck tail in the back.
+[1003.376 - 1011.82] SPEAKER_01 He could have picked some hair up off of the floor and stuck it on there because he started laying the wax to it, you know, and the butch wax and the grease and the butch wax.
+[1012.14 - 1019.424] SPEAKER_01 And he got it all built up, and then he got this metal silver comb and heated it up with a Zippo lighter.
+[1021.545 - 1025.988] SPEAKER_01  And he would sizzle through my hair, and he'd pull it up and let it pop back.
+[1026.449 - 1029.511] SPEAKER_01 It would sizzle up and pop back and sizzle up.
+[1030.111 - 1034.534] SPEAKER_01 He kept working on it, and then finally he said, I believe we've got it.
+[1036.116 - 1037.517] SPEAKER_01 You want to look in the mirror?
+[1038.798 - 1041.239] SPEAKER_01 I said, no, sir, I know you know what you're doing.
+[1044.822 - 1046.123] SPEAKER_01 And I started to walk home.
+[1048.513 - 1052.897] SPEAKER_01  Now I knew that the little town of Waynesville was a friendly place to live.
+[1054.538 - 1060.363] SPEAKER_01 But I did not have an idea how friendly it was till I was walking home that day.
+[1062.525 - 1073.335] SPEAKER_01 Cars would just slow down and they'd roll the window down and lean out and blow the horn and wave and
+[1076.423 - 1082.147] SPEAKER_01  I finally got home and went in the house and I looked in the mirror.
+[1085.969 - 1095.576] SPEAKER_01 And it was many years later that I understood what I felt at that moment when I heard George W. Bush say, mistakes were made.
+[1104.813 - 1107.774] SPEAKER_01  And I thought, how am I going to live till tomorrow?
+[1109.294 - 1111.715] SPEAKER_01 When she gets home, I'll be done for.
+[1113.836 - 1115.196] SPEAKER_01 I thought, well, what am I going to do?
+[1115.236 - 1116.076] SPEAKER_01 What am I going to do?
+[1116.116 - 1117.277] SPEAKER_01 And then I thought, wait a minute.
+[1117.597 - 1118.857] SPEAKER_01 My mama's doing errands.
+[1118.917 - 1120.658] SPEAKER_01 She's doing errands all over the place.
+[1120.998 - 1123.198] SPEAKER_01 She hadn't even thought about fixing supper yet.
+[1124.099 - 1125.139] SPEAKER_01 I know what I'll do.
+[1125.839 - 1128.44] SPEAKER_01 I will fix supper before she gets home.
+[1129.645 - 1134.686] SPEAKER_01  And she will be so tickled that she will not even notice my hair.
+[1137.807 - 1138.828] SPEAKER_01 Well, I got busy.
+[1138.928 - 1143.009] SPEAKER_01 We always had a frozen ground beef in the freezer.
+[1143.269 - 1146.39] SPEAKER_01 I thought, you know, you can thaw that and cook it at the same time.
+[1146.63 - 1150.411] SPEAKER_01 You know, just put it frozen in the pan and keep turning it over while you go.
+[1151.716 - 1155.457] SPEAKER_01  I put some onions in there and put some salt and pepper on it, and I was on the way.
+[1155.897 - 1158.897] SPEAKER_01 I got some potatoes and peeled the potatoes and cut them up.
+[1159.237 - 1161.078] SPEAKER_01 I was going to make mashed potatoes.
+[1161.398 - 1162.758] SPEAKER_01 And then I went in the basement.
+[1162.798 - 1166.859] SPEAKER_01 I got a quarter of the beans we had canned, you know, out of the garden that summer.
+[1167.179 - 1168.259] SPEAKER_01 It was going to be good.
+[1169.699 - 1175.3] SPEAKER_01 And I was just working away on the stove, working away, when my mama came in the door.
+[1177.281 - 1178.921] SPEAKER_01 And she could just see my back.
+[1181.638 - 1197.251] SPEAKER_01  And she thought someone had broken into our house because they were starving and they were actually going to cook the food and eat it before they left.
+[1199.853 - 1207.439] SPEAKER_01 And then I turned around and she screamed and jumped about that high in the air.
+[1208.84 - 1212.523] SPEAKER_01  And before her feet hit the floor, she was furious.
+[1215.466 - 1219.97] SPEAKER_01 But the good thing was, she wasn't mad at me.
+[1226.596 - 1228.878] SPEAKER_01 She was mad at Herschel.
+[1231.541 - 1235.144] SPEAKER_01 And she looked at me and she pointed a loaded finger at me.
+[1237.122 - 1239.824] SPEAKER_01  And she said, go get in the car.
+[1242.925 - 1247.488] SPEAKER_01 And I got in the car and we drove back down into town and we got to the barber shop.
+[1247.908 - 1248.889] SPEAKER_01 We were too late.
+[1249.009 - 1250.29] SPEAKER_01 They were already closed.
+[1253.311 - 1256.733] SPEAKER_01 So we got back in the car and I thought, well, we're going back home.
+[1256.933 - 1257.734] SPEAKER_01 We're going back home.
+[1257.974 - 1261.296] SPEAKER_01 And then all of a sudden I realized, wait, we're not going toward home.
+[1263.211 - 1266.805] SPEAKER_01  I didn't know where we were going because I didn't know where Hershel lived.
+[1272.042 - 1275.204] SPEAKER_01  But we went straight to his house on Howell Mill Road.
+[1275.524 - 1280.667] SPEAKER_01 And we did not park in the front and ring the doorbell like polite visitors.
+[1280.807 - 1281.227] SPEAKER_01 Uh-uh.
+[1281.627 - 1284.309] SPEAKER_01 My mama drove right down the driveway.
+[1284.569 - 1285.65] SPEAKER_01 We got out of the car.
+[1285.97 - 1288.231] SPEAKER_01 She did not even knock on the back door.
+[1288.311 - 1290.312] SPEAKER_01 She just swung that kitchen door open.
+[1290.652 - 1291.973] SPEAKER_01 And we marched in there.
+[1292.293 - 1295.155] SPEAKER_01 He and his wife were just sitting down to eat supper.
+[1295.475 - 1300.178] SPEAKER_01 When my mama came in the door, his wife jumped up and backed up against the wall just trembling.
+[1303.772 - 1306.634] SPEAKER_01  And my mama aimed that finger at him and said, fix it.
+[1311.336 - 1327.106] SPEAKER_01 And I spent about the next hour with my head in the kitchen sink while Herschel used two green bottles of grease-cutting detergent and emptied a 120-gallon hot water tank, getting all that grease and wax out of my hair.
+[1329.966 - 1335.63] SPEAKER_01  And then he had to get up in the top of a closet and he found some old clippers he had stuffed up in there.
+[1336.11 - 1345.737] SPEAKER_01 And I sat there in the kitchen chair with my mama circling like a buzzard while he cut every bit of my hair right down to the bone.
+[1348.799 - 1357.766] SPEAKER_01 Now back when I'd gotten my hair cut to start with, at the end of it, I'd said to Herschel, how much do I owe you?
+[1359.662 - 1362.044] SPEAKER_01  and he had said, it's on the house.
+[1373.371 - 1380.796] SPEAKER_01 So the one good thing I was thinking about at that moment was, even after all I've been through, I'm still a dollar ahead.
+[1384.739 - 1388.982] SPEAKER_01 Well, about that time, Herschel got finished, and my mama looked at him and said, Herschel,
+[1389.827 - 1391.388] SPEAKER_01  Give him his money back.
+[1398.151 - 1409.977] SPEAKER_01 And without a pause, Herschel reached in his pocket, pulled out his billfold, and gave me another dollar.
+[1414.219 - 1416.941] SPEAKER_01 And I was $2 a head for the day right then.
+[1420.043 - 1424.385] SPEAKER_01  My mama never, ever had to take me to the barbershop again.
+[1424.765 - 1426.285] SPEAKER_01 She knew she didn't have to.
+[1428.366 - 1429.767] SPEAKER_01 She had cured both of us.
+[1431.927 - 1433.988] SPEAKER_01 I'd go in there and I'd wait my turn.
+[1434.048 - 1435.089] SPEAKER_01 I'd get my hair cut.
+[1435.569 - 1436.969] SPEAKER_01 I'd say, how much do I owe you?
+[1436.989 - 1438.45] SPEAKER_01 And hers would say, not a thing.
+[1441.851 - 1446.833] SPEAKER_01 Every time you come in here, I get to remember that look on Lucille's face.
+[1450.29 - 1452.592] SPEAKER_01  And that's worth a dollar any time.
+[1455.575 - 1468.267] SPEAKER_01 All through high school, every time, every time I needed a dollar, I'd say, Mama, I need to go get my hair cut.
+[1471.169 - 1473.231] SPEAKER_01 I got haircuts by the week, you know.
+[1473.291 - 1476.014] SPEAKER_01 I just filling up with the money like that.
+[1479.412 - 1486.217] SPEAKER_01  Well, the last time I saw Herschel, my dad was 93 years old.
+[1487.518 - 1490.7] SPEAKER_01 It was in the last couple of months of his life.
+[1491.121 - 1496.204] SPEAKER_01 He was in a nursing care center just for about six months, and I went to visit.
+[1496.505 - 1499.527] SPEAKER_01 And while I was there visiting, Herschel came.
+[1501.107 - 1503.009] SPEAKER_01  The barber shop was long gone.
+[1503.089 - 1504.149] SPEAKER_01 It was long closed.
+[1504.21 - 1505.41] SPEAKER_01 The barbers all retired.
+[1505.791 - 1511.255] SPEAKER_01 But Herschel was going around to visit his old customers who couldn't get out.
+[1511.595 - 1515.659] SPEAKER_01 You know, shut in at home or in a nursing center or retirement home.
+[1516.239 - 1517.6] SPEAKER_01 And he was cutting their hair.
+[1519.222 - 1521.984] SPEAKER_01 And he had come to give my daddy his haircut.
+[1523.519 - 1528.483] SPEAKER_01  And he cut Daddy's hair, and we visited, and we talked, and we visited, and we talked.
+[1528.783 - 1530.204] SPEAKER_01 We had a wonderful time.
+[1530.584 - 1533.726] SPEAKER_01 I probably hadn't seen him for 30 years.
+[1535.488 - 1538.309] SPEAKER_01 He got ready to go, and my dad said, Herschel, I need to pay you.
+[1539.71 - 1541.091] SPEAKER_01 He said, oh, no, I've been paid.
+[1544.754 - 1547.016] SPEAKER_01 My dad said, well, I didn't give you any money.
+[1547.056 - 1548.397] SPEAKER_01 He said, no, Donald paid me.
+[1550.438 - 1552.92] SPEAKER_01 Daddy said, well, I didn't see him give you any money either.
+[1554.431 - 1555.932] SPEAKER_01  Herschel said he didn't have to.
+[1557.333 - 1558.714] SPEAKER_01 He paid me by being here.
+[1560.996 - 1576.868] SPEAKER_01 He said, you see, I bet it's been close to 40 years since I remembered that look on Lucille's face.
+[1580.123 - 1585.31] SPEAKER_01  And now I'm going to be thinking about that for the next month at least.
+[1586.932 - 1589.956] SPEAKER_01 And that is worth a haircut any time.
+[1590.036 - 1591.258] SPEAKER_01 Thank you.
+[1626.192 - 1629.234] SPEAKER_04  Do I get to use Donald Davis's microphone?
+[1635.237 - 1642.141] SPEAKER_04 What Donald knows better than most of us is that laughter is a sacred thing.
+[1643.142 - 1643.922] SPEAKER_04 Thank you, Donald.
+[1652.567 - 1655.169] SPEAKER_04 If you have never seen Motoko before,
+[1656.641 - 1659.863] SPEAKER_04  then you don't know yet that she speaks many languages.
+[1661.304 - 1667.929] SPEAKER_04 Japanese, English, music, and movement among them.
+[1670.35 - 1681.878] SPEAKER_04 She can be mischievous, eloquent, elegant, funny, and terrifying.
+[1682.058 - 1684.0] SPEAKER_04 Please welcome Motoko.
+[1690.231 - 1690.711] SPEAKER_03  Thank you.
+[1690.751 - 1693.092] SPEAKER_03 Thank you, Mulberry.
+[1693.172 - 1693.632] SPEAKER_03 Wonderful.
+[1693.752 - 1695.173] SPEAKER_03 Thank you so much.
+[1695.433 - 1695.953] SPEAKER_03 Thank you.
+[1696.033 - 1697.114] SPEAKER_03 And thank you, Donald.
+[1697.274 - 1698.254] SPEAKER_03 Thank you, Mulberry.
+[1700.275 - 1702.516] SPEAKER_02 I got this haircut last week.
+[1705.217 - 1710.96] SPEAKER_02 And my 35-year-old son looked at me and said, gosh, you look so Asian.
+[1716.064 - 1719.705] SPEAKER_02  And this is the exact haircut I had when I was eight.
+[1721.886 - 1728.908] SPEAKER_02 But the point is that my son still has not forgiven me for the mushroom haircut I used to force upon him.
+[1730.568 - 1732.469] SPEAKER_02 You know which haircut I'm talking about.
+[1733.129 - 1735.57] SPEAKER_02 It's also called the salad bowl cut.
+[1737.33 - 1743.792] SPEAKER_02 So you put the salad bowl on your child's head, and you trim what's sticking out.
+[1746.042 - 1748.345] SPEAKER_02  Well, it is an honor to be here.
+[1749.046 - 1755.494] SPEAKER_02 When the pandemic began and all my jobs were canceled, I said, Zoom telling?
+[1756.115 - 1756.495] SPEAKER_02 Never.
+[1757.591 - 1762.712] SPEAKER_02  Then I did it every other day for two years.
+[1763.833 - 1766.434] SPEAKER_02 I also said, virtual background?
+[1766.874 - 1767.274] SPEAKER_02 Never.
+[1768.374 - 1772.955] SPEAKER_02 And now I have 500 of them on my computer to choose from.
+[1773.076 - 1777.417] SPEAKER_02 They are vital to my survival during the pandemic.
+[1778.477 - 1787.504] SPEAKER_02  Another vital thing that has been vital for my survival during the pandemic is folktales.
+[1788.225 - 1798.173] SPEAKER_02 And I like to start this with a folktale because folktales have been around for hundreds and hundreds of years.
+[1798.613 - 1800.734] SPEAKER_02  They are gifts from our ancestors.
+[1801.114 - 1808.135] SPEAKER_02 They are the wisdoms of people who a long time ago crystallized into gems, right?
+[1808.716 - 1816.678] SPEAKER_02 And I hope to be a part of this so that these folktales will exist hundreds and hundreds of years from now.
+[1817.918 - 1823.679] SPEAKER_02 I'd like to tell you my favorite folktale from Japan, and it's called Water of Life.
+[1824.119 - 1826.0] SPEAKER_02 Everybody say Water of Life, please.
+[1827.677 - 1828.097] SPEAKER_02  Very good.
+[1828.137 - 1829.878] SPEAKER_02 But you have to say that in Japanese.
+[1832.279 - 1835.061] SPEAKER_02 In Japanese, it's inochi no mizu.
+[1835.081 - 1837.522] SPEAKER_02 Inochi no mizu.
+[1837.602 - 1837.822] SPEAKER_02 Good.
+[1838.282 - 1839.683] SPEAKER_02 Inochi no mizu.
+[1841.584 - 1841.904] ? Inochi no mizu.
+[1842.024 - 1842.484] SPEAKER_02 Perfect.
+[1842.564 - 1843.985] SPEAKER_02 And that means water of?
+[1844.705 - 1845.126] SPEAKER_02 Life.
+[1846.086 - 1848.627] SPEAKER_02 But it's a song, so I would like you to sing.
+[1848.787 - 1850.088] SPEAKER_02 You don't have to sing loudly.
+[1850.948 - 1851.729] SPEAKER_02 Sing softly.
+[1851.789 - 1852.429] SPEAKER_02 Sing like this.
+[1853.37 - 1855.771] SPEAKER_02 Inochi no mizu.
+[1860.066 - 1860.947] SPEAKER_02  Oh, that's beautiful.
+[1860.967 - 1862.008] SPEAKER_02 Inochi no mizu.
+[1862.028 - 1863.409] SPEAKER_02 Inochi no mizu.
+[1863.569 - 1864.009] SPEAKER_02 Good.
+[1867.652 - 1869.073] SPEAKER_02 And that means water of?
+[1869.794 - 1870.074] SPEAKER_02 Life.
+[1870.474 - 1871.735] SPEAKER_02 So that is your part.
+[1871.755 - 1874.818] SPEAKER_02 I would love for you to sing that every time I go like this.
+[1875.218 - 1879.201] SPEAKER_02 But just to give you more of a fair warning, this is what we're going to do.
+[1879.581 - 1882.564] SPEAKER_02 We're going to clap our hands together three times.
+[1883.084 - 1885.487] SPEAKER_02  Then we're going to start the song right away.
+[1886.488 - 1891.273] SPEAKER_02 I'm going to sing my part, and then you sing.
+[1891.433 - 1895.097] SPEAKER_02 Actually, you're going to sing your part first, and I'm going to go ahead and sing my part.
+[1895.357 - 1896.859] SPEAKER_02 So please don't wait for two seconds.
+[1897.179 - 1897.499] SPEAKER_02 OK?
+[1897.82 - 1898.12] SPEAKER_02 Ready?
+[1898.28 - 1898.821] SPEAKER_02 Three claps.
+[1900.902 - 1904.385] SPEAKER_02  And one more clap at the end.
+[1904.465 - 1905.226] SPEAKER_02 Beautiful.
+[1925.331 - 1938.934] SPEAKER_02  Once upon a time, a long time ago in Japan, there lived an old couple, an old man and an old woman who lived in this little village right at the foot of a mountain.
+[1939.934 - 1941.835] SPEAKER_02 The husband's name was Masa.
+[1942.035 - 1942.815] SPEAKER_02 Everybody say Masa.
+[1942.855 - 1943.035] SPEAKER_02 Masa.
+[1944.275 - 1945.956] SPEAKER_02 And the wife's name was Yoshi.
+[1946.096 - 1946.596] SPEAKER_02 Say Yoshi.
+[1946.616 - 1946.716] SPEAKER_02 Yoshi.
+[1947.876 - 1952.726] SPEAKER_02  And both Masa and Yoshi were very poor, so they lived a simple life.
+[1953.267 - 1956.835] SPEAKER_02 But their lives were sweet because they loved each other very much.
+[1956.935 - 1958.879] SPEAKER_02 Everybody, please make a heart with your hands.
+[1960.168 - 1971.794] SPEAKER_02  the old man, Masa, would always say, oh, my dear wife, Yoshi, I am the luckiest man in the whole world because I have been married to you for 50 years.
+[1972.534 - 1979.938] SPEAKER_02 And at this point, I just hope that when we die, we will die exactly at the same time so that we can go to heaven together.
+[1981.107 - 1987.508] SPEAKER_02  And his wife, Yoshi, will blush and say, oh, my dear sweet husband, I feel exactly the same way.
+[1988.069 - 1990.349] SPEAKER_02 And I hope to be your wife in heaven, too.
+[1991.189 - 1993.77] SPEAKER_02 And both of them will go, muah.
+[1995.59 - 1998.571] SPEAKER_02 Of course, if you are children, you will all be saying, eww.
+[2000.231 - 2002.592] SPEAKER_02 But we have a mature audience here, so that's great.
+[2003.902 - 2005.843] SPEAKER_02  Well, that was the way those people were.
+[2006.804 - 2014.469] SPEAKER_02 Well, it just so happened, though, that Masa and Yoshi had a very greedy and mean neighbor who was also his landlord.
+[2015.089 - 2016.27] SPEAKER_02 His name was Kichi.
+[2016.49 - 2017.051] SPEAKER_02 Say Kichi.
+[2018.172 - 2024.556] SPEAKER_02 And Kichi was the reason why Masa and Yoshi were so poor because Kichi was always raising their rent.
+[2024.876 - 2025.616] SPEAKER_02 I mean, every year.
+[2026.097 - 2033.482] SPEAKER_02 He would even spy on them, you know, look through their windows to see if Masa and Yoshi had anything he could take away from them.
+[2034.322 - 2039.704] SPEAKER_02  Kichi loved money more than anything else, so he had piles of money in his house.
+[2040.364 - 2045.605] SPEAKER_02 But he did not have any family, and he didn't have any friends.
+[2046.925 - 2051.767] SPEAKER_02 Well, one day, the old man Masa went up the mountain to get some firewood.
+[2052.427 - 2059.029] SPEAKER_02 But as he started to climb up the hill, he felt this pain in his neck and this ache in his back.
+[2059.589 - 2059.989] SPEAKER_02 He said,
+[2061.667 - 2063.571] SPEAKER_02  I am getting very old after all.
+[2064.192 - 2067.438] SPEAKER_02 But I must do this to take good care of my dear wife.
+[2068.199 - 2070.984] SPEAKER_02 And he kept climbing up the rocky hill.
+[2071.485 - 2072.106] SPEAKER_02 Y'all ready?
+[2072.406 - 2072.987] SPEAKER_02 Three claps.
+[2075.265 - 2094.536] SPEAKER_02  Inochi no mizu ojiisan ga Inochi no mizu mitsuketa Inochi no mizu obasan ni Inochi no mizu ageyou
+[2096.638 - 2105.862] SPEAKER_02  Suddenly, Masa heard some squeaky noises and saw something brown and furry jumping around fiercely in the bushes nearby.
+[2106.722 - 2110.844] SPEAKER_02 And he realized it was some kind of animal caught in the hunter's trap.
+[2111.736 - 2112.997] SPEAKER_02  So he was curious.
+[2113.057 - 2121.18] SPEAKER_02 He walked over there to open up the bushes and saw that it was a beautiful, golden-colored fox caught in a trap.
+[2122.02 - 2130.904] SPEAKER_02 She was a mother fox he could see because her little babies, three of them, were running around her frantically, not knowing what to do.
+[2131.944 - 2138.027] SPEAKER_02 But as Masa came closer, the three baby foxes ran away and disappeared behind the trees.
+[2139.229 - 2141.33] SPEAKER_02  the mother fox stopped jumping around.
+[2141.85 - 2145.372] SPEAKER_02 She just looked up at Masa with her sad brown eyes.
+[2146.452 - 2155.656] SPEAKER_02 Masa felt so sorry for the fox, he said, I am going to set you free because you must live and take care of your babies.
+[2156.917 - 2163.98] SPEAKER_02 And he stepped onto the metal hinge of the trap, and it opened up, and the mother fox was free.
+[2166.035 - 2168.255] SPEAKER_02  But she was badly hurt.
+[2168.916 - 2171.236] SPEAKER_02 One of her hind legs was all smashed up.
+[2172.056 - 2176.877] SPEAKER_02 She began to hobble away, leaving a thin trail of blood right behind her.
+[2177.637 - 2181.818] SPEAKER_02 Pretty soon, the three baby kids came out of the bushes to join her.
+[2182.678 - 2189.26] SPEAKER_02 But you see, Masa was worried that the mother folks may not make it, so he too decided to follow them.
+[2189.52 - 2191.48] SPEAKER_02 I mean, for a while, at a distance.
+[2192.506 - 2195.687] SPEAKER_02  The mother fox was moving very, very slowly.
+[2196.307 - 2199.249] SPEAKER_02 She seemed to be getting weaker and weaker.
+[2200.869 - 2214.955] SPEAKER_02 Well, they led Masa through trees and brambles higher and higher up the mountain and deeper and deeper into the forest until they came to this little spring of water among some moss-covered rocks.
+[2215.635 - 2220.737] SPEAKER_02 Masa, hiding behind a tree, saw the mother fox take a drink from that spring.
+[2221.903 - 2224.906] SPEAKER_02  Then something strange happened, you see.
+[2225.346 - 2229.37] SPEAKER_02 When she finished drinking, the mother fox was no longer weak.
+[2229.93 - 2231.812] SPEAKER_02 I mean, she looked strong and healthy.
+[2232.593 - 2239.019] SPEAKER_02 And she and her little babies quickly climbed up the hill and disappeared behind the rocks in a flash.
+[2240.04 - 2243.463] SPEAKER_02 Her hind legs seemed to have been completely better.
+[2245.057 - 2251.48] SPEAKER_02  So Masa was glad he was relieved, and he realized he was thirsty, too, after this long climb.
+[2252.161 - 2255.302] SPEAKER_02 So he walked over to the spring and take a sip.
+[2255.882 - 2257.643] SPEAKER_02 Everybody take a sip with me, please.
+[2262.306 - 2266.628] SPEAKER_02 And you see, he was amazed at how great this water tasted.
+[2267.148 - 2270.109] SPEAKER_02 I mean, it was cool and clear, as sweet as pear juice.
+[2270.69 - 2272.371] SPEAKER_02 He went ahead and took another sip.
+[2272.491 - 2272.751] SPEAKER_02 Ready?
+[2276.579 - 2282.423] SPEAKER_02  And he felt so much better, I mean, more refreshed than he had felt in years.
+[2283.404 - 2288.187] SPEAKER_02 And when he stood up, he realized that this pain in his neck was gone.
+[2288.988 - 2291.289] SPEAKER_02 This ache in his back was gone, too.
+[2291.89 - 2297.894] SPEAKER_02 He felt so strong and healthy, he started to collect some wood, some kindlings, right then and there.
+[2298.595 - 2302.137] SPEAKER_02 And he made himself a big bundle of wood in no time.
+[2303.058 - 2305.8] SPEAKER_02 And when he lifted the whole thing up onto his shoulder,
+[2306.54 - 2312.521] SPEAKER_02  He was surprised how light it felt, and he ran down the mountain to go home.
+[2313.522 - 2313.962] SPEAKER_02 Ready?
+[2314.182 - 2314.782] SPEAKER_02 Three claps.
+[2316.743 - 2331.026] SPEAKER_02 Inochi no mizu ojiisan ga Inochi no mizu mitsuketa Inochi no mizu obasan ga
+[2332.148 - 2336.772] SPEAKER_02  Inochi no mizu ageyou.
+[2338.453 - 2341.015] SPEAKER_02 Wife, look how much firewood I got for you.
+[2341.615 - 2346.019] SPEAKER_02 Masa shouted as he ran into the house, and he almost bumped right into Yoshi.
+[2346.799 - 2351.142] SPEAKER_02 Yoshi went, and she looked really frightened.
+[2351.723 - 2354.305] SPEAKER_02 In a trembling voice, she said, hoo, hoo.
+[2354.821 - 2356.823] SPEAKER_02  Who are you and what do you want?
+[2357.423 - 2358.584] SPEAKER_02 What are you saying, Yoshi?
+[2358.604 - 2359.025] SPEAKER_02 It's me.
+[2359.505 - 2360.026] SPEAKER_02 Stay back.
+[2360.766 - 2364.41] SPEAKER_02 I don't know who you are, but my husband will be here any minute.
+[2365.19 - 2366.732] SPEAKER_02 What are you saying, Yoshi?
+[2367.112 - 2368.213] SPEAKER_02 I am your husband.
+[2368.573 - 2369.454] SPEAKER_02 I mean, hello.
+[2370.015 - 2371.936] SPEAKER_02 Don't you know who I am?
+[2372.947 - 2380.517] SPEAKER_02  But just then, Masa took a glimpse of his own face in a bucket of water nearby, and it was his turn to go .
+[2383.1 - 2387.505] SPEAKER_02 Because you see, what he saw was not his old wrinkled face,
+[2388.126 - 2396.494] SPEAKER_02  but a handsome-looking young man, about 20 years old, with smooth skin, strong muscles, and shining eyes.
+[2397.755 - 2398.716] SPEAKER_02 This is me?
+[2399.297 - 2400.217] SPEAKER_02 What happened to me?
+[2400.938 - 2402.46] SPEAKER_02 It must have been the water.
+[2402.98 - 2404.241] SPEAKER_02 It was a magic spring.
+[2404.742 - 2406.303] SPEAKER_02 Wife, you must believe me.
+[2406.663 - 2408.886] SPEAKER_02 The water up on the mountain made me young.
+[2410.194 - 2418.416] SPEAKER_02  His wife looked at him suspiciously up and down and said, Well, you are wearing my husband's clothes.
+[2419.757 - 2426.119] SPEAKER_02 And you kind of look like my husband when we first got married 50 years ago.
+[2426.799 - 2428.539] SPEAKER_02 Masa, is this really you?
+[2429.22 - 2429.96] SPEAKER_02 Yes, it's me.
+[2430.38 - 2433.321] SPEAKER_02 And now you must come with me and drink the same water.
+[2434.041 - 2435.521] SPEAKER_02 Ah, you don't run fast enough.
+[2435.661 - 2437.282] SPEAKER_02 Here, I will carry you.
+[2439.622 - 2444.308] SPEAKER_02  And he picked her right up and started to run back up the mountain.
+[2445.81 - 2451.737] SPEAKER_02 Well, it did take them a while to find the magic spring again, but they did find it.
+[2452.137 - 2455.522] SPEAKER_02 And when Yoshi took a few sips of the magic water, ready?
+[2459.181 - 2464.344] SPEAKER_02  the water turned her into a beautiful 18-year-old girl.
+[2465.144 - 2474.029] SPEAKER_02 Her hair was long and shiny, her skin was soft and smooth, and both Masa and Yoshi were so happy, they hugged and kissed 1,000 times.
+[2474.289 - 2477.83] SPEAKER_02 Okay, everybody say, ew.
+[2477.971 - 2478.071] SPEAKER_02 Ew.
+[2481.312 - 2481.933] SPEAKER_02 Ready?
+[2482.053 - 2482.573] SPEAKER_02 Three claps.
+[2484.483 - 2489.265] SPEAKER_02  Inochi no mizu, the old man found a spring.
+[2489.705 - 2494.428] SPEAKER_02 Inochi no mizu, what a delightful thing.
+[2494.868 - 2499.41] SPEAKER_02 Inochi no mizu, he gave his wife some too.
+[2499.89 - 2504.372] SPEAKER_02 Inochi no mizu, a dream come true.
+[2506.353 - 2510.755] SPEAKER_02 And now, Masa and Yoshi were a happy young couple.
+[2511.892 - 2517.537] SPEAKER_02  But it did not take very long for their greedy neighbor, Kichi, to find out what happened.
+[2518.238 - 2533.672] SPEAKER_02 He came right over one day and made Masa and Yoshi tell him exactly where the spring was, saying, ah, if what you say is true, I can put all the water in bottles and sell them and make lots more money.
+[2534.593 - 2535.914] SPEAKER_02 You all think it's a good idea?
+[2538.192 - 2542.255] SPEAKER_02  Well, Kichi went up the mountain right next day to look for the spring.
+[2542.936 - 2544.897] SPEAKER_02 And it took him all day to find it.
+[2545.217 - 2554.204] SPEAKER_02 But when he finally found it, you see, the water looked so cool and inviting, he said, hmm, maybe I should take one sip to make sure if it works.
+[2554.764 - 2555.545] SPEAKER_02 And he took a sip.
+[2555.905 - 2556.245] SPEAKER_02 Ready?
+[2558.747 - 2564.271] SPEAKER_02 And you see, the water tasted so great, he said, hmm, maybe I should take just one more sip.
+[2567.9 - 2572.003] SPEAKER_02  Just one more, just one more.
+[2572.023 - 2576.005] SPEAKER_02 Definitely just one more.
+[2576.065 - 2576.445] SPEAKER_02 Who cares?
+[2576.465 - 2582.749] SPEAKER_02 And because he was greedy, he did not know when to stop.
+[2584.082 - 2587.604] SPEAKER_02  Well, Old Man Kichi did not come home that night.
+[2588.064 - 2593.147] SPEAKER_02 So by next morning, Masa and Yoshi were worried, so they went up the mountain to look for him.
+[2593.827 - 2599.15] SPEAKER_02 But when they came to the magic spring, they did not see Old Man Kichi.
+[2599.651 - 2607.695] SPEAKER_02 What they saw instead was a baby, a cute little baby boy wrapped in Kichi's clothes.
+[2610.459 - 2619.446] SPEAKER_02  Well, Masa and Yoshi took the baby home to take care of him, and they raised him as if he was their own son.
+[2620.266 - 2620.867] SPEAKER_02 And guess what?
+[2621.207 - 2624.429] SPEAKER_02 This time, Kichi did not grow up to be greedy and mean.
+[2624.929 - 2629.693] SPEAKER_02 He turned out to be gentle and kind, just the way his parents were to him.
+[2630.473 - 2632.455] SPEAKER_02 And that's the end of that one.
+[2632.475 - 2635.377] SPEAKER_02 Thank you.
+[2642.898 - 2643.819] SPEAKER_02  Thank you.
+[2644.959 - 2651.943] SPEAKER_02 Well, I'd like to tell you a story about the most important sport in Japan.
+[2652.724 - 2657.427] SPEAKER_02 What do you suppose are the three most important sports in Japan?
+[2658.539 - 2659.48] SPEAKER_02  Oh, that's very good, yes.
+[2660.06 - 2663.683] SPEAKER_02 The most important sports in Japan is sumo wrestling.
+[2663.743 - 2664.723] SPEAKER_02 Everybody say sumo.
+[2664.783 - 2665.824] SPEAKER_02 Sumo.
+[2665.864 - 2666.224] SPEAKER_02 Very good.
+[2666.244 - 2668.186] SPEAKER_02 The second most important sport is?
+[2668.906 - 2669.667] SPEAKER_02 Baseball.
+[2669.727 - 2670.607] SPEAKER_02 Baseball.
+[2670.707 - 2672.909] SPEAKER_02 We all love Shohei Otani, I think.
+[2673.609 - 2674.93] SPEAKER_02 And the third one is the?
+[2675.791 - 2676.111] SPEAKER_02 Soccer.
+[2676.131 - 2676.971] SPEAKER_02 Soccer, right?
+[2677.932 - 2684.516] SPEAKER_02 Yes, I always tell children if they're good at playing soccer, they should go to Japan and be a professional.
+[2684.556 - 2688.039] SPEAKER_02 We have super women's team and pretty good men's team as well.
+[2691.007 - 2694.188] SPEAKER_02  But sumo wrestling, how many of you have seen it on YouTube?
+[2695.228 - 2714.233] SPEAKER_02 Sumo wrestling means that those great, big, each person weighing somewhere between 300 pounds and 600 pounds muscles and fat wrestling each other in this arena.
+[2715.553 - 2719.674] SPEAKER_02 Sumo wrestling, in sumo wrestling, do they punch?
+[2720.706 - 2720.907] SPEAKER_02  No.
+[2721.087 - 2721.669] SPEAKER_02 Do they kick?
+[2722.33 - 2722.511] SPEAKER_02 No.
+[2722.631 - 2723.453] SPEAKER_02 Do they scratch?
+[2723.954 - 2724.135] SPEAKER_02 No.
+[2724.255 - 2724.837] SPEAKER_02 Do they bite?
+[2725.962 - 2729.704] SPEAKER_02  No, they're not supposed to do anything like that.
+[2730.524 - 2736.286] SPEAKER_02 So it's very different from the American style wrestling that you may sometimes watch on television.
+[2737.006 - 2740.788] SPEAKER_02 Those people, sumo wrestlers, are not supposed to use bad language.
+[2741.508 - 2743.869] SPEAKER_02 They're not supposed to say anything whatsoever.
+[2744.57 - 2748.631] SPEAKER_02 And they're not supposed to hit each other overhead with a chair or anything like that.
+[2749.451 - 2750.632] SPEAKER_02 They have strict rules.
+[2750.812 - 2755.414] SPEAKER_02 If you broke just one rule just one time, you'll be disqualified forever.
+[2756.77 - 2766.918] SPEAKER_02  So as you may know, sumo wrestlers are mostly not wearing all that much, except they're wearing these things just around their waist, and it's called mawashi.
+[2767.639 - 2768.64] SPEAKER_02 Everybody say mawashi.
+[2768.66 - 2768.8] SPEAKER_02 Mawashi.
+[2769.861 - 2772.803] SPEAKER_02 Which in English, I guess, is a loincloth.
+[2773.043 - 2774.024] SPEAKER_02 Say loincloth.
+[2775.545 - 2778.948] SPEAKER_02 A loincloth is a combination of belt and underwear.
+[2779.548 - 2782.351] SPEAKER_02 So you could look strong and decent at the same time.
+[2783.562 - 2785.563] SPEAKER_02  A loincloth could be blue.
+[2785.643 - 2786.423] SPEAKER_02 It could be green.
+[2786.523 - 2789.404] SPEAKER_02 It could be red, orange, yellow, purple, black, white, gold, silver.
+[2789.484 - 2790.524] SPEAKER_02 It could be any color.
+[2792.144 - 2796.245] SPEAKER_02 Well, so sumo wrestling started.
+[2796.445 - 2798.906] SPEAKER_02 Like I said, it's very different from American wrestling.
+[2799.306 - 2806.288] SPEAKER_02 It started about 1,000 years ago as part of a celebration for the rice harvest.
+[2807.268 - 2809.69] SPEAKER_02  And to this day, it's all about two things.
+[2810.23 - 2813.312] SPEAKER_02 One, sumo wrestling is about respect.
+[2813.793 - 2813.953] SPEAKER_02 Okay?
+[2814.573 - 2816.394] SPEAKER_02 And two, self-control.
+[2817.155 - 2817.495] SPEAKER_03 Okay?
+[2817.815 - 2820.938] SPEAKER_02 So that's how the tradition lives on in Japan.
+[2821.838 - 2828.983] SPEAKER_02 When those people wrestle, the referee and the audience would say these words that I would love for you to learn and say with me.
+[2829.103 - 2829.724] SPEAKER_02 Say it like this.
+[2830.484 - 2831.245] SPEAKER_02 Hakkeyoi.
+[2831.265 - 2832.125] SPEAKER_02 Hakkeyoi.
+[2834.827 - 2836.088] SPEAKER_02 Nokotta nokotta.
+[2839.89 - 2840.931] SPEAKER_02  means go for it.
+[2843.012 - 2847.976] SPEAKER_02 means stay inside the ring, because if you step out of the ring, you lose.
+[2849.457 - 2857.723] SPEAKER_02 So here's my favorite sumo wrestling story, and it's called the Sumo Mice and the Power Rice.
+[2860.59 - 2870.744] SPEAKER_02  Once upon a time, a long time ago in Japan, there lived an old couple, an old man and an old woman who loved each other very much.
+[2870.984 - 2872.526] SPEAKER_02 Wait a minute, didn't I say this before?
+[2874.673 - 2882.098] SPEAKER_02  Do you know why so many folk tales from Japan start with once upon a time there was an old couple?
+[2882.118 - 2887.362] SPEAKER_02 I can just tell you half a dozen stories like that, but do you know why?
+[2888.383 - 2895.388] SPEAKER_02 Because long time ago, it was the grandparents' responsibility to tell stories to children.
+[2895.908 - 2899.11] SPEAKER_02  Because the parents are busy outside the house working, right?
+[2899.471 - 2904.414] SPEAKER_02 So it fell upon the grandparents' shoulders to always tell the children stories.
+[2904.834 - 2910.778] SPEAKER_02 And then, naturally, because they were the storytellers, they want to put themselves in the stories, right?
+[2910.858 - 2912.159] SPEAKER_02 It only makes sense, right?
+[2912.499 - 2918.123] SPEAKER_02 So that's why most of the stories have either very old people or very young people or animals.
+[2920.845 - 2921.726] SPEAKER_02 Yeah, so that's why.
+[2921.866 - 2922.206] SPEAKER_02 Anyway.
+[2923.787 - 2937.534] SPEAKER_02  Once upon a time, there was an old couple, an old man and an old woman who loved each other very much, and they were kind and hardworking, but they were also very, very poor.
+[2938.315 - 2939.975] SPEAKER_02 They never had enough money.
+[2940.516 - 2943.017] SPEAKER_02 They often did not have enough food to eat.
+[2943.637 - 2946.959] SPEAKER_02 They lived in this little shack at the edge of a forest.
+[2948.302 - 2953.207] SPEAKER_02  But you see, the old couple were not the only people who lived in that tiny shack.
+[2953.827 - 2955.409] SPEAKER_02 A mouse lived in their ceiling.
+[2956.15 - 2959.413] SPEAKER_02 And at night, the mouse would come down into the kitchen to nibble things.
+[2960.153 - 2963.216] SPEAKER_02 But the old couple were so kind, they didn't even mind.
+[2963.897 - 2970.784] SPEAKER_02 As often as they could, they would leave scraps of food, you know, crumbs and stuff in the kitchen for the mouse to eat.
+[2972.182 - 2992.891] SPEAKER_02  Well, one day, the old man was at the back of the house trying to find some tools when he heard these tiny, squeaky voices saying, So the old man found a crack in the wall, and he peeked outside.
+[2993.632 - 2998.434] SPEAKER_02 And there he saw two mice sumo wrestling in his backyard.
+[3000.972 - 3004.154] SPEAKER_02  One of the mice was big and fat and strong.
+[3004.854 - 3009.016] SPEAKER_02 He obviously came from some rich house where there was plenty of food.
+[3009.837 - 3012.518] SPEAKER_02 The other mouse was the old couple's mouse.
+[3013.178 - 3015.039] SPEAKER_02 He was skinny and weak.
+[3015.94 - 3021.363] SPEAKER_02 So as the old man watched them, the big mouse kept pushing the skinny mouse onto the ground.
+[3022.263 - 3024.464] SPEAKER_02 But the skinny mouse never gave up.
+[3025.085 - 3029.367] SPEAKER_02 He kept challenging the big mouse, trying to wrestle better each time.
+[3030.771 - 3034.874] SPEAKER_02  So when the old man saw this, he felt sorry for his own mouse, right?
+[3035.694 - 3039.317] SPEAKER_02 So that night, he told a story to his wife, the old woman.
+[3040.078 - 3042.139] SPEAKER_02 Then the old woman had an idea.
+[3042.639 - 3051.986] SPEAKER_02 She said, why don't we make sweet, delicious rice cakes for our mouse to eat so that he will grow fatter and stronger?
+[3053.243 - 3061.546] SPEAKER_02  So together, they went and bought a little bit of sweet rice, and they steamed it, and they pounded it until it was very soft.
+[3062.306 - 3065.968] SPEAKER_02 And they made sweet, sticky, delicious rice cakes.
+[3066.868 - 3070.889] SPEAKER_02 They made each rice cake small so that it would be easier for the mouse to eat.
+[3071.67 - 3075.471] SPEAKER_02 They put them all on the plate and left them in their cupboard.
+[3077.432 - 3080.213] SPEAKER_02 The next morning, all the rice cakes were gone.
+[3081.497 - 3087.383] SPEAKER_02  So the old couple kept making the rice cakes and feeding the mouse every night for one week.
+[3088.284 - 3105.32] SPEAKER_02 A week later, the old man again heard the tiny squeaky voices saying, So this time, he quickly called over the old woman, and together they peeked through the wall.
+[3106.357 - 3110.181] SPEAKER_02  And this time, the two mice were well matched in their strengths.
+[3110.682 - 3112.864] SPEAKER_02 I mean, they were just as strong as each other.
+[3113.465 - 3116.107] SPEAKER_02 And they were having a great time wrestling each other.
+[3117.008 - 3119.07] SPEAKER_02 The rich mouse was getting tired, though.
+[3119.11 - 3119.511] SPEAKER_02 He said, .
+[3122.363 - 3125.605] SPEAKER_02  How come you got so much stronger in just one week?
+[3126.165 - 3128.306] SPEAKER_02 What kind of special training have you done?
+[3128.846 - 3129.887] SPEAKER_02 I mean, what's going on?
+[3130.727 - 3134.89] SPEAKER_02 That's because my old couple has been feeding me power rice cakes.
+[3135.65 - 3137.351] SPEAKER_02 The poor mouse said proudly.
+[3137.891 - 3140.553] SPEAKER_02 The rich mouse said, power rice cakes?
+[3140.993 - 3141.773] SPEAKER_02 Are you serious?
+[3142.334 - 3143.334] SPEAKER_02 That sounds great.
+[3143.774 - 3146.276] SPEAKER_02 Can I come over tonight and join you for dinner?
+[3148.368 - 3151.929] SPEAKER_02  And when the old couple heard this, they could not stop giggling.
+[3152.649 - 3155.81] SPEAKER_02 And that night, they made twice as many rice cakes.
+[3156.79 - 3168.073] SPEAKER_02 And also, the old woman made two sets of loin cloth out of scraps of red cloth, and they left them with the rice cakes in the cupboard.
+[3169.834 - 3175.015] SPEAKER_02 The next morning, the old couple again heard the tiny squeaky voices saying, .
+[3182.234 - 3188.079] SPEAKER_02  Well, this time, the two mice were full of energy, and they looked great in their loincloths.
+[3189.781 - 3196.066] SPEAKER_02 The rich mouse said, man, those rice cakes were delicious, and these loincloths make us look so cool.
+[3197.734 - 3201.798] SPEAKER_02  The poor mouse said, yeah, I know, but I feel a little bad.
+[3201.818 - 3204.06] SPEAKER_02 The rich mouse said, why?
+[3204.3 - 3205.401] SPEAKER_02 Why do you feel bad?
+[3206.042 - 3211.407] SPEAKER_02 The poor mouse said, well, it's because I know my old couple does not have a lot of money.
+[3212.067 - 3215.47] SPEAKER_02 I don't think they can afford to keep feeding us like this.
+[3216.431 - 3218.072] SPEAKER_02  The rich mouse said, money?
+[3218.592 - 3221.234] SPEAKER_02 Do you mean those hard, shiny, golden things?
+[3222.015 - 3224.816] SPEAKER_02 My old man has plenty of them in his storehouse.
+[3225.377 - 3230.3] SPEAKER_02 He has so much money he complains every day that he doesn't even know what to do with it.
+[3231.4 - 3238.725] SPEAKER_02 So maybe tonight you and I can walk back to my house and carry some money back to your old couple's house.
+[3240.399 - 3252.609] SPEAKER_02  So you see, the next morning, the kind old couple found plenty of gold coins in their cupboard, just enough for them to open up their own rice cake shop.
+[3254.63 - 3257.653] SPEAKER_02 And they made delicious rice cakes for everyone.
+[3258.453 - 3262.637] SPEAKER_02 And they all lived happily ever after.
+[3274.349 - 3275.25] SPEAKER_02  Thank you.
+[3275.83 - 3277.271] SPEAKER_02 You guys are such a good sport.
+[3277.992 - 3285.218] SPEAKER_02 Sometimes when I tell that story to children, they would say, like, you know, but isn't that stealing?
+[3285.938 - 3289.981] SPEAKER_02 And of course it is, and we talk about it, you know.
+[3290.642 - 3293.144] SPEAKER_02 And yes, of course, stealing is bad.
+[3293.664 - 3304.732] SPEAKER_02  But another question that I want them to think about is, how come that this old couple were so poor, even though they are nice people?
+[3305.092 - 3310.796] SPEAKER_02 And how come the neighbor was so rich that he had so much money he didn't know what to do with?
+[3311.136 - 3314.058] SPEAKER_02 So what makes that discrepancy the gap?
+[3315.139 - 3320.243] SPEAKER_02 And things like that with this story would turn their attention to those things.
+[3321.807 - 3326.991] SPEAKER_02  Oh, yeah, another thing that they always ask me is, can girls sumo wrestle?
+[3327.992 - 3331.214] SPEAKER_02 And the answer now is yes.
+[3331.914 - 3339.54] SPEAKER_02 They don't do professional sumo wrestling, but there are many amateur women sumo wrestlers.
+[3339.62 - 3344.263] SPEAKER_02 And those women are big and strong and have pretty good amateur careers.
+[3344.783 - 3346.685] SPEAKER_02 In fact, there is even an American
+[3347.165 - 3362.149] SPEAKER_02  a women's small federation or something like that out on the West Coast, I think either Oregon or Washington State, because it's important for American girls who are big to have athletic skills and confidence and things like that.
+[3363.329 - 3368.291] SPEAKER_02 Well, I wanted to finish this by singing you a song.
+[3369.58 - 3378.848] SPEAKER_02  that I have written at the beginning of the pandemic as a special message to all the children in this pandemic time.
+[3379.609 - 3380.71] SPEAKER_02 And the song goes like this.
+[3383.343 - 3386.025] SPEAKER_02  I've noticed you've been helpful.
+[3386.665 - 3388.867] SPEAKER_02 You always wash your hands.
+[3389.587 - 3394.471] SPEAKER_02 Thank you for your patience as grown-ups make some plans.
+[3395.151 - 3405.559] SPEAKER_02 Today you read a story and told it to your dad and gave your sister ice cream when she was feeling sad.
+[3406.12 - 3411.024] SPEAKER_02 We keep each other safe to get us through each day.
+[3411.864 - 3416.286] SPEAKER_02  A little love and courage will help us find a way.
+[3416.687 - 3422.13] SPEAKER_02 So I thank you for doing the best that you can do.
+[3422.77 - 3427.573] SPEAKER_02 We'll get through this together and make your dreams come true.
+[3428.652 - 3433.575] SPEAKER_02  Today you told a funny joke and made your brother smile.
+[3434.176 - 3438.759] SPEAKER_02 You also Skyped your grandma and listened for a while.
+[3439.619 - 3442.041] SPEAKER_02 It's OK to feel worried.
+[3442.381 - 3444.383] SPEAKER_02 It's normal to feel scared.
+[3445.023 - 3447.264] SPEAKER_02  Grown-ups are not perfect.
+[3447.464 - 3449.865] SPEAKER_02 We're also unprepared.
+[3450.265 - 3455.187] SPEAKER_02 We keep each other safe to get us through each day.
+[3455.207 - 3460.228] SPEAKER_02 A little love and courage will help us find a way.
+[3460.629 - 3466.131] SPEAKER_02 So I thank you for doing the best that you can do.
+[3466.791 - 3471.713] SPEAKER_02 We'll get through this together and make your dreams come true.
+[3472.933 - 3477.597] SPEAKER_02  Dawn will come to brighten even the darkest night.
+[3478.337 - 3482.981] SPEAKER_02 To keep us all safe and well, we must keep up this fight.
+[3483.701 - 3488.325] SPEAKER_02 To our heroes and sheroes, we owe our greatest debt.
+[3489.205 - 3493.908] SPEAKER_02  Lessons that they taught us we never will forget.
+[3494.289 - 3499.152] SPEAKER_02 We keep each other safe to get us through each day.
+[3499.172 - 3504.135] SPEAKER_02 A little love and courage will help us find a way.
+[3504.535 - 3510.039] SPEAKER_02 So I thank you for doing the best that you can do.
+[3510.659 - 3515.483] SPEAKER_02 We'll get through this together and make your dreams come true.
+[3519.105 - 3520.506] SPEAKER_02  Thank you, everyone.
+[3520.566 - 3524.707] SPEAKER_02 Thank you, and enjoy the rest of the festival.
+[3552.848 - 3553.843] SPEAKER_04  Thank you, Modico.

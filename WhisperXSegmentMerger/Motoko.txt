@@ -1,0 +1,1151 @@
+[0.309 - 1.83] SPEAKER_02  begin for the evening.
+[2.711 - 4.472] SPEAKER_02 There is a wise philosopher.
+[4.492 - 6.953] SPEAKER_02 His name is Bruce Springsteen.
+[8.855 - 12.277] SPEAKER_02 And he said, you can't start a fire without a spark.
+[13.338 - 17.68] SPEAKER_02 And we've got that spark to start our show tonight.
+[18.701 - 19.722] SPEAKER_02 Now, in my opinion...
+[21.227 - 30.773] SPEAKER_02  What we have imported to the United States of America from Japan, well, there are three that are absolutely the best of everything.
+[31.113 - 37.397] SPEAKER_02 And they are Honda automobiles, sushi, and MotoCo.
+[43.382 - 47.744] SPEAKER_02  Motoko is such an artist at presenting her stories.
+[47.804 - 53.507] SPEAKER_02 They have such precision that you feel like you're at a Japanese tea ceremony.
+[54.888 - 63.512] SPEAKER_02 She has been described as demure and gentle and quiet and kind, and she is all of those things, that's true.
+[64.532 - 72.396] SPEAKER_02 But as I have met her and worked with her over the years, I've also learned that she is tougher than woodpecker lips.
+[78.573 - 86.719] SPEAKER_02  So I'm going to ask you if you will do something for me, if you will help me say welcome to her in Japanese.
+[87.96 - 92.423] SPEAKER_02 Now, I know if you talk Southern like I do, it's going to be a little hard, but here's how you do it.
+[92.463 - 94.325] SPEAKER_02 You say yokoso.
+[94.345 - 95.625] SPEAKER_02 All right, ready, go.
+[96.166 - 97.747] SPEAKER_02 Yokoso.
+[98.087 - 98.768] SPEAKER_02 Yokoso.
+[98.908 - 99.468] SPEAKER_02 Motoso.
+[99.568 - 100.069] SPEAKER_02 Motoko.
+[112.811 - 116.635] SPEAKER_06  And good evening, everyone.
+[118.196 - 120.759] SPEAKER_06 It is a pleasure and honor to be here.
+[122.38 - 127.826] SPEAKER_06 How many of you have never done anything against your parents' wishes?
+[130.899 - 133.921] SPEAKER_06  Now, that's the biggest lie I told today.
+[134.242 - 136.944] SPEAKER_06 Maybe I should be in a liar's contest, right?
+[138.645 - 149.273] SPEAKER_06 As you may know, I grew up in Osaka, Japan, and I came to Massachusetts as an exchange student to University of Massachusetts in the mid-'80s.
+[150.294 - 155.08] SPEAKER_06  And my parents had a mixed feeling about me coming to America.
+[155.581 - 161.788] SPEAKER_06 They wanted me to get good education, but they thought America would be a dangerous and scary country.
+[162.956 - 166.699] SPEAKER_06  So the day I left, my father saw me off at the airport.
+[167.099 - 170.421] SPEAKER_06 But right before I went through the gate, my father pulled me aside.
+[170.602 - 171.662] SPEAKER_06 He said, Motoko.
+[172.263 - 172.743] SPEAKER_06 What, Dad?
+[173.444 - 176.706] SPEAKER_06 You may go to America and get good education.
+[177.246 - 180.709] SPEAKER_06 But remember, no drugs and no men.
+[182.75 - 183.391] SPEAKER_06 OK, Dad.
+[183.871 - 188.855] SPEAKER_06 And I hopped on the airplane and came to UMass that was then called Zoo Mass.
+[190.822 - 193.503] SPEAKER_06  where I met my future ex-husband.
+[198.365 - 204.168] SPEAKER_06 But I didn't do any drugs, so I thought one promise kept out of two was better than none.
+[206.269 - 207.689] SPEAKER_06 So here's my story.
+[209.47 - 217.634] SPEAKER_06 Once upon a time, a long time ago in Japan, there was a young woman who was about to get married.
+[218.516 - 220.098] SPEAKER_06  Her name was Chiyo.
+[220.518 - 221.519] SPEAKER_06 Everybody say Chiyo.
+[222.821 - 230.308] SPEAKER_06 Chiyo was about to marry this young farmer who lived in a faraway village all the way across the big river.
+[231.469 - 240.078] SPEAKER_06 But the night before her wedding, Chiyo's mother called to her and made her sit right in front of her and said, listen, Chiyo.
+[241.09 - 244.672] SPEAKER_06  Once you marry, you belong to your husband's family.
+[245.133 - 247.754] SPEAKER_06 You cannot just come back here whenever you want to.
+[248.215 - 249.235] SPEAKER_06 Do you understand this?
+[250.176 - 253.038] SPEAKER_06 Yes, mother, she offered timidly.
+[253.917 - 254.938] SPEAKER_06  Now listen, Chiyo.
+[255.758 - 261.141] SPEAKER_06 Always obey your husband and treat your mother-in-law with utmost respect.
+[261.861 - 266.043] SPEAKER_06 Think of her as your own mother and don't ever be rude.
+[266.823 - 271.385] SPEAKER_06 If you did anything rude, you would embarrass me and put this family to shame.
+[271.666 - 272.266] SPEAKER_06 Do you hear me?
+[273.306 - 274.247] SPEAKER_05 Yes, mother.
+[276.556 - 279.258] SPEAKER_06  Chiyo and the farmer were married the next day.
+[279.919 - 286.545] SPEAKER_06 And as it turned out, her husband was kind and hardworking, her mother-in-law gentle and generous.
+[287.225 - 300.417] SPEAKER_06 So Chiyo started to work hard, cooking meals, cleaning the house, doing the wash, feeding the chickens and the pigs, and taking very good care of her elderly mother-in-law.
+[302.11 - 313.394] SPEAKER_06  But as days and weeks passed, the mother-in-law began to notice that Chiyo was often tired and even sick.
+[314.075 - 319.317] SPEAKER_06 Many a time, she would ask her, my dear Chiyo, are you feeling all right?
+[319.957 - 322.118] SPEAKER_06 Is there anything I could do for you?
+[322.958 - 327.34] SPEAKER_06 But every time, Chiyo would say, oh, my dear mother-in-law, I am fine.
+[327.84 - 329.261] SPEAKER_06 Please do not worry about me.
+[330.675 - 338.926] SPEAKER_06  And yet, as weeks and months passed, Chiyo began to look more and more sickly and finally began to look pale.
+[340.402 - 343.265] SPEAKER_06  One day, the mother-in-law could not take it any longer.
+[343.745 - 349.011] SPEAKER_06 She said, my dear Chiyo, you have been such a perfect daughter-in-law.
+[349.431 - 352.454] SPEAKER_06 I care about you as if you're my own daughter.
+[353.195 - 356.438] SPEAKER_06 If there's anything wrong, you must tell me, please.
+[357.419 - 360.962] SPEAKER_06 Oh, my dear mother-in-law, I am so sorry to worry you like this.
+[361.663 - 362.283] SPEAKER_06 It's nothing.
+[362.504 - 363.144] SPEAKER_06 I am fine.
+[363.885 - 364.405] SPEAKER_06 It's just...
+[366.845 - 370.927] SPEAKER_06  I just cannot tell you because this might offend you badly.
+[372.107 - 373.928] SPEAKER_06 Nothing would offend me.
+[373.948 - 375.948] SPEAKER_06 Chiyo, please tell me.
+[377.109 - 379.39] SPEAKER_06 Now Chiyo's face turned beet red.
+[379.87 - 384.131] SPEAKER_06 She shifted this way and that and seemed to hesitate a great deal.
+[385.071 - 394.915] SPEAKER_06 Finally, she said, well, it's just sometimes I have this urge to pass wind.
+[396.366 - 397.907] SPEAKER_06  Oh, I know that is so terrible.
+[397.927 - 401.17] SPEAKER_06 That is why I have been holding it in.
+[402.47 - 402.811] SPEAKER_06 What?
+[403.451 - 405.192] SPEAKER_06 Do you mean gas?
+[406.133 - 407.294] SPEAKER_06 Is that it, Chiyo?
+[407.474 - 409.575] SPEAKER_06 Oh, I am so sorry, my dear mother-in-law.
+[409.595 - 410.796] SPEAKER_06 Please forget what I said.
+[411.117 - 412.638] SPEAKER_06 I'll be fine just the way I am.
+[413.258 - 414.559] SPEAKER_06 No, no, Chiyo.
+[416.3 - 417.681] SPEAKER_06 Don't be ridiculous.
+[418.101 - 419.683] SPEAKER_06 Come on, we are family.
+[420.103 - 422.164] SPEAKER_06 You can pass gas if you like.
+[423.065 - 424.846] SPEAKER_06 Go ahead and let it go.
+[428.095 - 428.816] SPEAKER_06  Are you sure?
+[428.836 - 433.604] SPEAKER_06 Oh, with your kind permission then, I think I will.
+[434.345 - 436.469] SPEAKER_06 Excuse me, my dear mother-in-law.
+[437.671 - 442.932] SPEAKER_06  And Chiyo stood up, lifted her kimono, and let it go.
+[444.413 - 448.034] SPEAKER_06 What followed was a tempest of biblical magnitude.
+[449.434 - 450.934] SPEAKER_06 The roof was gone.
+[451.434 - 452.735] SPEAKER_06 The walls crumbled.
+[453.175 - 454.955] SPEAKER_06 The furniture broke into bits.
+[455.375 - 456.756] SPEAKER_06 The mother-in-law flew off.
+[457.316 - 464.638] SPEAKER_06 The chickens, the pigs, and the neighbor's children, they all swirled around all over the village.
+[466.918 - 472.04] SPEAKER_06  When the farmer came home, he was amazed at this colossal destruction.
+[473.2 - 475.56] SPEAKER_06 Then his neighbor brought his mother home.
+[475.641 - 478.461] SPEAKER_06 He had found the woman in a tree ten miles down the road.
+[480.162 - 482.442] SPEAKER_06 But luckily, the mother wasn't hurt.
+[483.063 - 484.543] SPEAKER_06 Mom, what is this?
+[484.583 - 485.603] SPEAKER_06 What happened to our house?
+[486.263 - 490.205] SPEAKER_06 Well, son, it's your wife and her gas.
+[490.765 - 491.985] SPEAKER_06 She's been holding in.
+[492.845 - 493.105] SPEAKER_06 What?
+[493.786 - 494.766] SPEAKER_06 Where is Tio now?
+[495.819 - 497.18] SPEAKER_06  Oh, I don't know.
+[497.82 - 499.161] SPEAKER_06 She must have run away.
+[499.641 - 501.522] SPEAKER_06 Son, you must go and find her.
+[502.723 - 506.965] SPEAKER_06 So the young farmer ran down the road that led to Chiyo's home village.
+[507.566 - 511.728] SPEAKER_06 He caught up with her just in time, right before the big river.
+[512.449 - 513.509] SPEAKER_06 Chiyo, where are you going?
+[513.909 - 515.01] SPEAKER_06 You must come home with me.
+[515.751 - 516.851] SPEAKER_06 No, never.
+[518.052 - 521.354] SPEAKER_06 How can I ever go back after what I have done?
+[522.649 - 525.573] SPEAKER_06  Oh, Chiyo, it's all right, don't worry.
+[526.093 - 527.235] SPEAKER_06 I can fix the house.
+[527.735 - 530.579] SPEAKER_06 Trust me, everything will be all right.
+[535.184 - 541.772] SPEAKER_06 Well, after that, they decided to hold once a week special occasion for Chiyo.
+[544.617 - 557.007] SPEAKER_06  So once every week, they would open up the Shoji screen doors, they removed the furniture, they evacuated the chickens and the pigs, and they tied the neighbors' children to trees.
+[559.308 - 563.071] SPEAKER_06 And the grown-ups would hug the poles, and Chiyo would let go.
+[565.453 - 568.335] SPEAKER_06  And now they have made it into a weekly ritual.
+[568.695 - 574.759] SPEAKER_06 There was hardly any more damage to the house, and Tio felt much better, and so did everybody else.
+[575.98 - 580.223] SPEAKER_06 But before I say they lived happily ever after, there's a little bit more.
+[581.468 - 589.972] SPEAKER_06  One day, Chiyo was hurrying home from the marketplace when she came upon a group of people gathered around a tall pear tree.
+[590.592 - 596.475] SPEAKER_06 Now, all those people were finely dressed, but amongst them, she saw a little boy crying.
+[597.195 - 600.797] SPEAKER_06 So Chiyo went over there to inquire what was going on.
+[601.737 - 610.061] SPEAKER_06 Well, our prince here would love to eat some of those delicious pears, but we cannot get to them, one of the ladies said.
+[610.831 - 613.952] SPEAKER_06  Well, it was an unusually tall and slender tree.
+[614.412 - 616.333] SPEAKER_06 All the fruit were well out of reach.
+[616.994 - 624.917] SPEAKER_06 And yet the trunk and the branches of the tree were so thin and delicate, you could not climb the tree without breaking and ruining it.
+[625.737 - 629.719] SPEAKER_06 But I really, really want those pears, the little prince wailed.
+[630.512 - 632.854] SPEAKER_06  Well, perhaps I can get them for you.
+[633.594 - 634.495] SPEAKER_06 Really, you could?
+[634.635 - 638.277] SPEAKER_06 Please, please, if you did, my father will give you a big reward.
+[638.978 - 639.718] SPEAKER_06 Well, all right.
+[640.278 - 645.502] SPEAKER_06 But first, all of you must walk over there and hold tight onto the fence.
+[649.025 - 661.397] SPEAKER_06  Well, by this time, Chiyo had gained such control over her power that the gentle wind shook the tree just so, and all the ripe fruits landed on the ground.
+[662.278 - 665.361] SPEAKER_06 Wow, you're amazing, the little boy cried.
+[666.301 - 673.528] SPEAKER_06 And of course, the boy's father, the king, rewarded Chiyo handsomely for the kind deed she did for his son.
+[674.409 - 681.753] SPEAKER_06  And after that, Chiyo began to discover more and more creative usages for her newfound power.
+[682.814 - 690.638] SPEAKER_06 Like when the emperor in the capital city wanted to demolish his old palace in order to build a new one, Chiyo was there.
+[693.24 - 697.342] SPEAKER_06 When they flew Japan's first hot air balloon, Chiyo was there.
+[699.088 - 709.157] SPEAKER_06  and eventually Chiyo's name became famous throughout the country and Chiyo and her family lived happily ever after.
+[716.923 - 720.226] SPEAKER_06 May this story gently uplift your spirits.
+[732.462 - 734.344] SPEAKER_02  I told you, she's a gas, isn't she?
+[738.187 - 743.952] SPEAKER_02 So the next storyteller we got coming up here was also imported to the United States.
+[745.854 - 753.28] SPEAKER_02 Things were kind of rough for her back when she was just a four-year-old Cuban refugee feral child.
+[754.821 - 759.745] SPEAKER_02 She was plunked down, speaking very little English,
+[761.255 - 766.098] SPEAKER_02  in the Bible buckle of America, Decatur, Georgia.
+[767.159 - 768.059] SPEAKER_02 Now that's scary.
+[768.94 - 771.481] SPEAKER_02 I'm a southerner and I can say that is scary.
+[772.742 - 773.963] SPEAKER_02 Decatur, Georgia?
+[775.124 - 789.853] SPEAKER_02 But you know, once she got her southern legs underneath her, and once she got her drawl perfected, everything that girl touched, everything that she took into her heart and her mind, well,
+[791.201 - 792.442] SPEAKER_02  She got the Midas touch.
+[793.803 - 795.344] SPEAKER_02 It all turned to gold.
+[797.146 - 804.791] SPEAKER_02 I got a list of things that when she put her mind to it, it was gold.
+[805.452 - 812.337] SPEAKER_02 So there's storytelling, there's publishing, there's keynoting, there's workshopping, there's marrying.
+[813.818 - 816.08] SPEAKER_02 Well, not everybody gets it right the first time.
+[817.734 - 818.394] SPEAKER_02  Or the second.
+[819.455 - 821.336] SPEAKER_02 But the third time's a charm, right?
+[823.037 - 823.558] SPEAKER_02 Amen.
+[826.059 - 828.201] SPEAKER_02 There he is, the golden guy back there.
+[829.382 - 830.903] SPEAKER_02 And it went on.
+[830.943 - 834.365] SPEAKER_02 I mean, mothering, she got that perfect three times in a row.
+[835.225 - 839.288] SPEAKER_02 Grandmothering, cooking, mentoring, sponsoring.
+[839.948 - 843.311] SPEAKER_02 The list goes on and on and on, but I'm not going to.
+[844.42 - 845.44] SPEAKER_02  I'm just going to say this.
+[845.56 - 857.205] SPEAKER_02 Those of us who don't have the uniqueness, the talent, the charm, the beauty that she has, well, we get just a little bit jealous every now and then.
+[859.206 - 863.567] SPEAKER_02 And if we had our way about it, we'd just send Will Smith up here to slap her.
+[866.769 - 867.369] SPEAKER_02 I'm kidding.
+[868.369 - 869.67] SPEAKER_02 We love you, Carmen.
+[870.43 - 872.971] SPEAKER_02 Ladies and gentlemen, welcome her to the stage, Carmen Deedy.
+[891.178 - 892.399] SPEAKER_10  God has a sense of humor.
+[899.325 - 901.527] SPEAKER_02 We didn't plan it.
+[901.647 - 903.068] SPEAKER_10 We didn't even know.
+[905.31 - 906.852] SPEAKER_10 We didn't just buy the same shirt.
+[907.272 - 908.513] SPEAKER_10 We wore it to the same festival.
+[908.713 - 909.994] SPEAKER_10 We didn't just wear it to the same festival.
+[910.215 - 911.195] SPEAKER_10 We wore it the same night.
+[913.898 - 915.099] SPEAKER_10 You look right cute in it.
+[917.407 - 918.336] SPEAKER_10  So the verger...
+[919.878 - 920.158] SPEAKER_10  At St.
+[920.178 - 926.924] SPEAKER_10 Paul's Cathedral, and those of you who may not be familiar with all things Anglican, the verger is basically an elevated custodian.
+[928.465 - 929.746] SPEAKER_10 The verger had worked at St.
+[929.766 - 932.428] SPEAKER_10 Paul's Cathedral for several years and was highly regarded.
+[932.448 - 934.049] SPEAKER_10 He was hardworking and a good person.
+[935.45 - 943.236] SPEAKER_10 Well, one day, there was a visiting cardinal, and there was a note left on the man's coat.
+[943.877 - 946.239] SPEAKER_10 Now, the note said, do not touch this coat.
+[946.559 - 947.62] SPEAKER_10 Well, the verger had...
+[948.14 - 952.102] SPEAKER_10  He picked it up, looked at the note, and then took it away and hung it up.
+[954.022 - 957.804] SPEAKER_10 See, the problem was he couldn't read.
+[959.305 - 970.969] SPEAKER_10 So when there was a last-minute search for this coat, well, you know, fall guy, the poor verger lost his job.
+[972.51 - 974.711] SPEAKER_10 Don't look all broken up about this, people, okay?
+[976.246 - 976.446] SPEAKER_10  Right?
+[976.686 - 977.627] SPEAKER_10 Like you've never been there.
+[978.527 - 980.068] SPEAKER_10 The one at the bottom of the totem pole.
+[980.909 - 986.151] SPEAKER_10 And he didn't want to tell anybody that he had lost his job because he couldn't read.
+[988.192 - 989.513] SPEAKER_10 And so he stepped out of St.
+[989.553 - 993.635] SPEAKER_10 Paul's Cathedral and he patted himself down like a good Brit.
+[993.795 - 994.676] SPEAKER_10 He was looking for tobacco.
+[995.977 - 998.438] SPEAKER_10 Like you've never walked out of a church and had a smoke.
+[1000.279 - 1001.82] SPEAKER_10 See, you want to laugh, but you don't want to laugh.
+[1003.17 - 1006.453] SPEAKER_10  And he's looking around and he's thinking, wait a minute.
+[1007.414 - 1013.359] SPEAKER_10 He observes that there's not a single tobacconist within a good ten minute walk.
+[1014.079 - 1016.602] SPEAKER_10 Being an enterprising man, he thought, well then.
+[1017.022 - 1018.043] SPEAKER_10 He had saved a little money.
+[1018.083 - 1019.024] SPEAKER_10 He'd newly married.
+[1019.044 - 1019.664] SPEAKER_10 He had a wife.
+[1019.704 - 1022.306] SPEAKER_10 But both of them were thrifty.
+[1022.927 - 1023.667] SPEAKER_10 This is going somewhere.
+[1023.748 - 1025.149] SPEAKER_10 Stay with me as far as you'd like to.
+[1026.98 - 1029.141] SPEAKER_10  He started a little tobacconist stand outside of St.
+[1029.181 - 1029.782] SPEAKER_10 Paul's Cathedral.
+[1029.802 - 1030.682] SPEAKER_10 Who was going to stop him?
+[1031.583 - 1033.003] SPEAKER_10 He made brisk business.
+[1034.004 - 1040.067] SPEAKER_10 Evidently, you know, the confession of sin and the committing of sin, they just bounce back and forth and back and forth and back and forth and back and forth.
+[1041.548 - 1043.629] SPEAKER_10 One turned to five, five turned to ten.
+[1044.55 - 1045.23] SPEAKER_10 Children came.
+[1045.75 - 1047.291] SPEAKER_10 It could now be easily afforded.
+[1047.792 - 1049.493] SPEAKER_10 By the time that he was an old man...
+[1050.553 - 1055.839] SPEAKER_10  London was littered with his tobacconist shop, and he was a very wealthy man.
+[1056.099 - 1058.522] SPEAKER_10 He let his sons take care of all of his business.
+[1059.603 - 1064.288] SPEAKER_10 But one day, he was called to the Bank of England.
+[1065.048 - 1066.39] SPEAKER_10 The Bank of England.
+[1068.803 - 1070.845] SPEAKER_10  he was taken to the president's office.
+[1071.526 - 1074.65] SPEAKER_10 The man looked at this wee little man now.
+[1074.71 - 1080.617] SPEAKER_10 He's quite aged and frail, and he says, do you have any idea how much money we have in this bank?
+[1080.677 - 1081.778] SPEAKER_10 I only deal with your sons.
+[1082.919 - 1085.883] SPEAKER_10 He said, oh, no, I'd let the boys take care of that.
+[1086.937 - 1092.201] SPEAKER_10  He said, but you understand, you're one of the 20 wealthiest men in all of England.
+[1093.282 - 1093.723] SPEAKER_10 That much?
+[1093.743 - 1095.224] SPEAKER_10 I said, yes.
+[1096.305 - 1097.245] SPEAKER_10 And I've brought some papers.
+[1097.406 - 1099.828] SPEAKER_10 They're things I want to discuss with you, not with your sons.
+[1100.148 - 1101.809] SPEAKER_10 I think they're investments you could make.
+[1101.849 - 1102.83] SPEAKER_10 If you would just look them over.
+[1102.95 - 1103.33] SPEAKER_10 Oh, boy.
+[1104.692 - 1107.514] SPEAKER_10 He stepped back and said, no, no.
+[1108.154 - 1109.375] SPEAKER_10 He said, just for a moment.
+[1110.056 - 1112.078] SPEAKER_10 Just read them, please.
+[1112.098 - 1112.638] SPEAKER_10 That's your leisure.
+[1114.98 - 1115.861] SPEAKER_10 And he was an honest man.
+[1117.572 - 1120.393] SPEAKER_10  He was a little embarrassed, but he said, I can't read.
+[1121.413 - 1121.553] SPEAKER_10 What?
+[1122.673 - 1123.313] SPEAKER_10 I can't read?
+[1125.334 - 1126.914] SPEAKER_10 Good God, man, you can't read?
+[1126.934 - 1129.134] SPEAKER_10 And you're one of the wealthiest men in England?
+[1129.895 - 1131.935] SPEAKER_10 Can you imagine what you would be if you could read?
+[1131.955 - 1133.275] SPEAKER_10 And he said, yes, I'd be Virgil at St.
+[1133.295 - 1133.916] SPEAKER_10 Paul's Cathedral.
+[1143.958 - 1145.338] SPEAKER_10 Question, not your fate.
+[1147.09 - 1148.71] SPEAKER_10  All right, 10 minutes.
+[1154.792 - 1155.272] SPEAKER_10 My mother.
+[1158.073 - 1160.214] SPEAKER_10 Yeah, yeah, easy for you to say.
+[1161.194 - 1161.854] SPEAKER_10 She's so funny.
+[1163.215 - 1163.755] SPEAKER_10 So my mom.
+[1164.943 - 1167.244] SPEAKER_10  This is many years ago, many years ago.
+[1168.084 - 1183.449] SPEAKER_10 I show up at the house and I'm hoping that she's cooking because she could just, oh my goodness, whether it was savory or sweet, whether it was arroz con leche or arroz con pollo, oh, you'd walk in that kitchen and I mean, even the wallpaper was like scratch and sniff.
+[1186.411 - 1191.612] SPEAKER_10 But that day, the stove was cold, the woman was hot, and my father had gone to hide in the garden.
+[1192.373 - 1193.133] SPEAKER_10 I said, what's going on here?
+[1195.255 - 1196.536] SPEAKER_10  I want to change the wallpaper.
+[1196.696 - 1200.519] SPEAKER_10 And I looked around and I saw that she had started to peel the old Magnolia wallpaper off the wall.
+[1201.859 - 1203.12] SPEAKER_10 The paper of my childhood.
+[1204.301 - 1205.061] SPEAKER_10 Heartless woman.
+[1206.342 - 1208.323] SPEAKER_10 I said, Mom, when are you going to replace it?
+[1208.343 - 1212.326] SPEAKER_10 Oh, it took me a while, but look, she found the exact same Magnolia wallpaper.
+[1214.127 - 1215.168] SPEAKER_10 And I said, oh.
+[1216.212 - 1216.932] SPEAKER_10  All right, fine.
+[1217.013 - 1217.713] SPEAKER_10 You want me to help you?
+[1217.793 - 1220.855] SPEAKER_10 But then, tell you what, I'll help you cook tonight.
+[1221.355 - 1222.616] SPEAKER_10 No, no, no, no, no.
+[1222.736 - 1223.837] SPEAKER_10 Let's just get the paper down.
+[1224.497 - 1226.258] SPEAKER_10 Hand me that spatula thing, okay?
+[1226.338 - 1227.259] SPEAKER_10 It's by the window.
+[1231.241 - 1232.102] SPEAKER_10 The window.
+[1233.102 - 1235.024] SPEAKER_10 Say it with me like you are Cuban, okay?
+[1235.384 - 1236.345] SPEAKER_10 The window.
+[1237.585 - 1238.546] SPEAKER_10 You did not even try.
+[1240.027 - 1240.987] SPEAKER_10 And where are your fingers?
+[1242.088 - 1243.209] SPEAKER_10 The window.
+[1243.891 - 1252.614] SPEAKER_10  Now, I don't know if I was just kind of, you know, hangry and particularly irritable that day, but I turned to her and I said, Mommy, it's not a window.
+[1252.954 - 1254.394] SPEAKER_10 It's a window.
+[1254.595 - 1255.895] SPEAKER_10 How long have you lived in this country?
+[1256.155 - 1256.635] SPEAKER_10 I don't know.
+[1256.695 - 1258.316] SPEAKER_10 Maybe my American daughter can tell me.
+[1260.596 - 1261.417] SPEAKER_10 Ma, seriously.
+[1262.117 - 1262.437] SPEAKER_10 Come on.
+[1263.778 - 1264.818] SPEAKER_10 You know enough English.
+[1265.018 - 1268.079] SPEAKER_10 I know you can say window.
+[1275.001 - 1276.881] SPEAKER_10  And I am not translating once again, okay?
+[1280.522 - 1282.323] SPEAKER_10 Let me tell you something, hija mía.
+[1283.103 - 1284.383] SPEAKER_10 I have left my country.
+[1284.484 - 1286.204] SPEAKER_10 I thought, oh, my God, I know this story so well.
+[1287.264 - 1288.665] SPEAKER_10 Oh, I could do it with her.
+[1288.965 - 1291.266] SPEAKER_10 I mean, we could make a whole song and dance routine out of this.
+[1291.826 - 1293.086] SPEAKER_10 I left my mother.
+[1293.146 - 1294.266] SPEAKER_10 I left my country.
+[1294.286 - 1295.407] SPEAKER_10 I left my language.
+[1296.57 - 1298.936] SPEAKER_10  And now you are going to teach me English.
+[1299.377 - 1300.84] SPEAKER_10 Well, let me tell you something, mijita.
+[1302.764 - 1304.208] SPEAKER_10 If I could say, I would.
+[1325.538 - 1327.839] SPEAKER_02  Apparently it looks better with a scarf here.
+[1336.123 - 1341.546] SPEAKER_02 Now, our next storyteller is not an import to the United States of America.
+[1341.866 - 1347.669] SPEAKER_02 Well, not unless you count that far frozen north land of Michigan.
+[1352.219 - 1356.444] SPEAKER_02  Or as they call it in Game of Thrones, the land of the wildlings.
+[1359.047 - 1365.575] SPEAKER_02 Now, Jeff Doyle says that he comes from a multi-talented, multi-tasking family.
+[1366.075 - 1370.54] SPEAKER_02 He says they can smoke, drink, sweat, and swear all at the same time.
+[1373.104 - 1378.411] SPEAKER_02  His theory of storytelling is that everybody should have fun.
+[1379.292 - 1383.878] SPEAKER_02 And so he's not afraid to be as goofy as he can be to make kids laugh.
+[1384.519 - 1390.466] SPEAKER_02 He's not afraid to be as creepy as he can be to scare the pants off old people.
+[1392.29 - 1401.694] SPEAKER_02  But whatever he does, he does it with optimism, with honesty, and with a smile that will blow out an electrical grid.
+[1402.594 - 1406.236] SPEAKER_02 So ladies and gentlemen, hold on to your Fruit of the Looms.
+[1406.796 - 1408.577] SPEAKER_02 Here he is, Jeff Doyle.
+[1420.202 - 1420.642] SPEAKER_04 All right.
+[1423.41 - 1429.013] SPEAKER_04  Colleen and I upgraded the technology at our house this past year.
+[1429.413 - 1436.196] SPEAKER_04 We got a new computer, I got a new cell phone, and we bought a new car.
+[1437.456 - 1451.663] SPEAKER_04 Now, I don't normally or you wouldn't normally think of a car as high technology, but if you have driven a new car lately or ridden in a new car, those things are loaded with technology.
+[1452.935 - 1454.977] SPEAKER_04  Well, we decided on the model we wanted.
+[1455.017 - 1462.763] SPEAKER_04 We found it online and then we went down to the car lot where we met Buffy, our new car sales person.
+[1462.823 - 1466.727] SPEAKER_04 She was young and perky and cute and eager to sell us a car.
+[1467.608 - 1472.612] SPEAKER_04 She showed us all of those exterior features and why we should have that model.
+[1473.332 - 1479.618] SPEAKER_04 And then she opened the driver's door and she let me get in to the cockpit.
+[1481.058 - 1484.519] SPEAKER_04  which is what it felt like when I climbed down into it.
+[1485.46 - 1494.183] SPEAKER_04 And then Colleen got in the passenger seat, Buffy got in the back, and they closed all the doors, and they said, you are in the cocoon of quietness.
+[1495.884 - 1497.284] ? Wow.
+[1497.825 - 1499.425] SPEAKER_04 And then she showed us all the features.
+[1499.705 - 1501.346] SPEAKER_04 There was a backup camera.
+[1501.806 - 1504.827] SPEAKER_04 It had been a while since we had a new car, and I thought, well, that's good.
+[1504.868 - 1508.229] SPEAKER_04 I won't run over any kids backing out of the driveway.
+[1510.114 - 1517.041] SPEAKER_04  And then above that was the stereo, and it had all this metadata on it.
+[1517.381 - 1529.133] SPEAKER_04 It told you the band, the song, the year it was written, the dog's name, his mother's name, where he lived, what kind of Fruit of the Loom underwear he wore.
+[1530.614 - 1532.275] SPEAKER_04  It was fantastic.
+[1533.196 - 1534.897] SPEAKER_04 And then there was the GPS.
+[1535.437 - 1538.559] SPEAKER_04 It would tell you which way to go, alternate routes.
+[1538.799 - 1544.503] SPEAKER_04 And then when you drove the wrong way, it would change your route and tell you how stupid you are.
+[1546.744 - 1551.107] SPEAKER_04 And then on the dash was a place for, you know, to put your cell phone.
+[1551.687 - 1557.431] SPEAKER_04 And up on the mirror was the satellite communication station.
+[1558.595 - 1560.636] SPEAKER_04  There was a little red button up there.
+[1561.356 - 1565.799] SPEAKER_04 Buffett said, only push that in cases of dire need.
+[1566.819 - 1567.66] SPEAKER_04 Good to know.
+[1569.04 - 1571.602] SPEAKER_04 And then there were buttons and switches all over this thing.
+[1571.862 - 1574.203] SPEAKER_04 I thought I was driving the space shuttle.
+[1575.404 - 1577.645] SPEAKER_04 Well, we made a deal to buy the car.
+[1577.685 - 1583.868] SPEAKER_04 We went into the, signed all the papers, and then she took that to the guy in the other room.
+[1584.868 - 1585.809] SPEAKER_04 Who is this guy?
+[1587.117 - 1589.418] SPEAKER_04  And while she did that, she gave us a survey to fill out.
+[1589.438 - 1590.558] SPEAKER_04 Why did you want a new car?
+[1590.598 - 1593.599] SPEAKER_04 Well, we needed something that got better mileage, and we need a new car.
+[1593.619 - 1599.541] SPEAKER_04 And then there was, you know, the other data, like how many kids you got, and age category.
+[1599.561 - 1601.201] SPEAKER_04 There was 18 to 26, 27 to 37, 38 to 55.
+[1601.241 - 1605.142] SPEAKER_04 And then the last category was baby boomer backslash senior citizen.
+[1618.368 - 1620.23] SPEAKER_04  I looked over at Colleen.
+[1620.61 - 1622.312] SPEAKER_04 Her eyes were all twisted up.
+[1622.572 - 1625.816] SPEAKER_04 She was going to tell Buffy what she could do with that car.
+[1626.136 - 1628.979] SPEAKER_04 I'm looking to see how we sign that, actually.
+[1631.301 - 1633.203] SPEAKER_04 I told Colleen, I said, we already bought the car.
+[1633.403 - 1634.464] SPEAKER_04 Don't worry about it.
+[1635.205 - 1636.666] SPEAKER_04 We gave the survey to Buffy.
+[1636.726 - 1640.67] SPEAKER_04 She came back and she said, Mr. and Mrs. Doyle, have I got a deal for you.
+[1641.736 - 1659.465] SPEAKER_04  Since you checked that box, people of a certain age, we are running a beta test program to see if people in your age category can handle the technology in the new car.
+[1662.206 - 1665.468] SPEAKER_04 I thought Colleen might explode right there next to me.
+[1668.478 - 1675.259] SPEAKER_04  And she said, you get a brand new 5G cell phone for free.
+[1676.769 - 1679.672] SPEAKER_04  Well, I'm kind of cheap and I needed a new cell phone.
+[1679.732 - 1681.613] SPEAKER_04 So I said, okay, what do I got to do?
+[1681.653 - 1685.877] SPEAKER_04 She said, all you got to do is fill out a few surveys every month.
+[1686.818 - 1687.778] SPEAKER_04 So I said, all right.
+[1687.879 - 1690.761] SPEAKER_04 So we took the car and the cell phone home.
+[1690.861 - 1697.527] SPEAKER_04 And the first thing I did was I gave the cell phone to my son and he programmed in the sexy voice.
+[1698.688 - 1699.589] SPEAKER_04 Hello.
+[1701.71 - 1703.332] SPEAKER_04 I kind of like the sexy voice.
+[1704.898 - 1710.548] SPEAKER_04  Colleen was a little irritated about the sexy voice, and I just told her, well, I'm a baby boomer.
+[1710.648 - 1711.67] SPEAKER_04 I can't fix that.
+[1712.03 - 1713.172] SPEAKER_04 I can't correct that.
+[1716.4 - 1729.144] SPEAKER_04  What I was really excited about was that Buffy had told us that the car and the phone act as your personal assistant, and it does hands-free programming.
+[1729.984 - 1737.227] SPEAKER_04 So I waited until I was on taking a long trip, and I was outside of town before I pushed the button.
+[1737.267 - 1743.609] SPEAKER_04 I didn't want to be a distracted driver, and then I pushed the button, and she said, Would you like to turn Star on?
+[1748.189 - 1750.15] SPEAKER_04  I mean, with a voice like that?
+[1750.17 - 1752.232] SPEAKER_04 I mean, who wouldn't want to?
+[1752.532 - 1753.113] SPEAKER_04 Yes.
+[1755.154 - 1757.596] SPEAKER_04 And then she said, name, please.
+[1758.636 - 1759.837] SPEAKER_04 So I said, Jeff.
+[1760.838 - 1768.883] SPEAKER_04 And she must have thought I was speaking a foreign language and that the J was silent because she said, hello, F.
+[1772.312 - 1776.754] SPEAKER_04  But, you know, she was a beta program, and it would be okay, right?
+[1776.774 - 1781.135] SPEAKER_04 And then she said, F, say a command.
+[1784.717 - 1788.418] SPEAKER_04 I've waited my whole life for a woman to say that to me.
+[1788.438 - 1798.562] SPEAKER_04 Well, I wanted to program the number for the office, so I said, program, and she said, number, please.
+[1799.822 - 1800.783] SPEAKER_04 And I said, one.
+[1802.553 - 1805.156] SPEAKER_04  She said, not a valid number.
+[1809.88 - 1810.1] SPEAKER_04 One.
+[1810.74 - 1812.422] SPEAKER_04 Not a valid number.
+[1812.562 - 1812.702] SPEAKER_04 One.
+[1813.002 - 1814.063] SPEAKER_04 Not a valid number.
+[1814.183 - 1814.304] SPEAKER_04 One.
+[1814.524 - 1816.045] SPEAKER_04 Not a valid number.
+[1816.125 - 1816.285] SPEAKER_04 One.
+[1816.345 - 1816.886] SPEAKER_04 Not a valid number.
+[1817.006 - 1817.626] SPEAKER_04 Not a valid number.
+[1817.646 - 1818.047] SPEAKER_04 Not a valid number.
+[1818.587 - 1819.948] SPEAKER_04 Buffy was right.
+[1820.409 - 1821.67] SPEAKER_04 I couldn't do it.
+[1821.97 - 1824.893] SPEAKER_04 I couldn't figure out the technology in the new car.
+[1826.604 - 1832.014] SPEAKER_04  And then she said, it's okay, F. We'll try again later.
+[1832.034 - 1838.927] SPEAKER_04 I mean, like I've never heard that before.
+[1850.205 - 1853.726] SPEAKER_04  And then I drive down the road a little bit, and I think, well, maybe I'm just being old-fashioned.
+[1853.746 - 1855.047] SPEAKER_04 Maybe I don't need a one.
+[1855.327 - 1857.448] SPEAKER_04 So, program, turn our star on.
+[1857.488 - 1858.088] SPEAKER_04 Yes, yes.
+[1859.049 - 1860.009] SPEAKER_04 Number, please.
+[1860.049 - 1860.989] SPEAKER_04 And I say, eight.
+[1861.59 - 1862.45] SPEAKER_04 She says, eight.
+[1863.73 - 1866.251] SPEAKER_04 And the next number is one, so I'm on pins and needles.
+[1866.432 - 1875.275] SPEAKER_04 One, one, zero, zero, two, two, two, two, nine, nine, seven, seven, seven, five, oh, oh, five, five.
+[1876.315 - 1877.416] SPEAKER_04 Number complete.
+[1878.556 - 1879.757] SPEAKER_04 I said, thank you.
+[1881.209 - 1883.811] SPEAKER_04  And she said, no, thank you.
+[1888.434 - 1891.516] SPEAKER_04 I thought we were done, but apparently she wasn't satisfied.
+[1891.536 - 1898.141] SPEAKER_04 And she said, name.
+[1898.181 - 1901.683] SPEAKER_04 Like I said, I was trying to program the number for the office, so I said office.
+[1902.084 - 1903.645] SPEAKER_04 And she said, orifice.
+[1907.268 - 1907.648] SPEAKER_04  Office.
+[1908.529 - 1909.329] SPEAKER_04 Orifice.
+[1910.87 - 1911.13] SPEAKER_04 Office.
+[1911.711 - 1912.111] SPEAKER_04 Orifice.
+[1912.731 - 1913.011] SPEAKER_04 Office.
+[1913.472 - 1913.832] SPEAKER_04 Orifice.
+[1915.693 - 1916.974] SPEAKER_04 Office.
+[1917.454 - 1917.894] SPEAKER_04 Orifice.
+[1918.134 - 1920.356] SPEAKER_04 And then I said, office not orifice.
+[1921.476 - 1923.217] SPEAKER_04 Office not orifice.
+[1924.798 - 1925.178] SPEAKER_04 Office.
+[1925.539 - 1926.699] SPEAKER_04 Office not orifice.
+[1926.879 - 1927.2] SPEAKER_04 Office.
+[1927.62 - 1928.54] SPEAKER_04 Office not orifice.
+[1928.741 - 1929.001] SPEAKER_04 Office.
+[1929.241 - 1929.521] ? Office.
+[1929.641 - 1929.821] SPEAKER_04 Office.
+[1930.021 - 1930.782] SPEAKER_04 Office not orifice.
+[1930.822 - 1931.742] SPEAKER_04 Office not orifice.
+[1932.002 - 1935.665] SPEAKER_04 I rolled down the window.
+[1937.85 - 1958.77] SPEAKER_04  her up off the dash and as I threw her out I said screw it office not orifice and you know what she said screw it office not orifice apparently in all my anger my knuckle hit that little red button
+[1961.841 - 1967.442] SPEAKER_04  Up on the mirror, emergency service contacted.
+[1968.142 - 1969.122] SPEAKER_04 No.
+[1970.463 - 1974.203] SPEAKER_04 It's okay, F. They'll be here soon.
+[1974.223 - 1981.664] SPEAKER_04 F, F, F. I shouldn't have said it.
+[1983.365 - 1990.246] SPEAKER_04 Then a real person came on and said, Mr. Doyle, there's no need to be rude.
+[1995.598 - 2006.663] SPEAKER_04  Luckily, the very expensive cell phone was dangling outside the window because it had a cord shoved up one of its orifices.
+[2015.408 - 2019.389] SPEAKER_04 I'm an expert user of the phone in the car now.
+[2019.57 - 2022.211] SPEAKER_04 I have filled out all of my surveys.
+[2023.988 - 2033.926] SPEAKER_04  But if you hear me this weekend say screw it, Office Not Orifice, don't take offense, I'm just trying to check my voicemail.
+[2052.821 - 2055.803] SPEAKER_02  If you feel a little guilty about laughing at that, you should.
+[2057.504 - 2069.213] SPEAKER_02 But if you had fun, tomorrow at 1 o'clock and 10 on the hill, Jeff is going to be doing a set called Sometimes Naughty.
+[2070.194 - 2071.715] SPEAKER_02 So, yeah, you want more?
+[2071.775 - 2072.615] SPEAKER_02 Go on over there.
+[2074.357 - 2082.503] SPEAKER_02  Okay, our next storyteller, as it turns out, is another immigrant to the United States of America.
+[2083.264 - 2088.888] SPEAKER_02 And she is the ebullient Noah Baum.
+[2089.228 - 2090.449] SPEAKER_02 I think I pronounced that right.
+[2090.489 - 2091.19] SPEAKER_02 Didn't I, Noah?
+[2091.35 - 2091.83] SPEAKER_02 Did I get it?
+[2092.251 - 2092.591] SPEAKER_02 All right.
+[2092.951 - 2094.672] SPEAKER_02 All right, so here's what...
+[2095.615 - 2096.596] SPEAKER_02  I want you to know about her.
+[2097.016 - 2114.185] SPEAKER_02 Noah was born in the city of Jerusalem, and I've been told that if you pronounce Jerusalem correctly, as it would be in Hebrew, then the last two syllables sound like shalom, which of course means peace.
+[2115.276 - 2121.64] SPEAKER_02  And it just so happens that the name Noah also means peace or rest.
+[2122.36 - 2140.571] SPEAKER_02 And so it should be no surprise that a girl named Peace, who was born in a city called Peace, and then who immigrated to the United States and ended up in Washington, D.C., which means perpetual conflict.
+[2143.035 - 2151.819] SPEAKER_02  that she would be inclined to tell stories that build bridges between worlds that have stopped talking to one another.
+[2152.959 - 2154.36] SPEAKER_02 That's exactly who she is.
+[2154.84 - 2161.442] SPEAKER_02 Sometimes she talks about peace with grace, with honesty.
+[2162.663 - 2169.106] SPEAKER_02 She always does it with poignancy, and she always makes us believe that it's possible.
+[2169.786 - 2172.507] SPEAKER_02 Please welcome her to the stage, Noah Baum.
+[2185.123 - 2188.727] SPEAKER_08  This is not me, it's what's left of me after Jeff just killed me.
+[2188.747 - 2192.672] SPEAKER_08 Whoa.
+[2194.394 - 2201.943] SPEAKER_08 Well, I had every reason in the world to be perfectly happy.
+[2203.397 - 2206.799] SPEAKER_08  I had a beautiful baby girl.
+[2207.159 - 2208.62] SPEAKER_08 I had a nice husband.
+[2208.9 - 2211.301] SPEAKER_08 And I was in America.
+[2212.582 - 2214.983] SPEAKER_08 Everybody envied me for going to America.
+[2215.304 - 2217.405] SPEAKER_08 America is the land of dreams.
+[2218.045 - 2222.247] SPEAKER_08 I was sure I was going to be perfectly happy in America.
+[2222.327 - 2224.248] SPEAKER_08 America is going to be so great.
+[2225.909 - 2226.77] SPEAKER_08 And I was miserable.
+[2229.12 - 2230.102] SPEAKER_08  I was miserable.
+[2230.142 - 2234.833] SPEAKER_08 There I was on the couch, actually the futon that we got in a garage sale.
+[2236.622 - 2243.284] SPEAKER_08  Sitting on that couch in our student housing apartment in Davis, California.
+[2244.144 - 2246.485] SPEAKER_08 TV's on, but I'm not really watching.
+[2247.165 - 2251.387] SPEAKER_08 Baby just fell asleep on the futon right next to me.
+[2251.487 - 2258.809] SPEAKER_08 There's the dishes and the laundry and dinner to fix, and I cannot get up from that couch.
+[2260.029 - 2263.41] SPEAKER_08 I'm just feeling so heaviness, such heaviness in my heart.
+[2264.291 - 2264.611] SPEAKER_08 You see,
+[2266.099 - 2281.928] SPEAKER_08  I left Tel Aviv, cosmopolitan, bursting with life, Tel Aviv, Israel, to follow my American husband to this dusty, dry, flat Davis.
+[2284.05 - 2285.991] SPEAKER_08 Davis, California.
+[2288.784 - 2293.786] SPEAKER_08  I left a job teaching drama at a special education school.
+[2294.507 - 2297.888] SPEAKER_08 I was teaching two courses at a teacher's college.
+[2298.429 - 2302.731] SPEAKER_08 I was touring all over Israel as a puppeteer and storyteller.
+[2303.051 - 2306.532] SPEAKER_08 I had friends, family, language, culture.
+[2307.313 - 2309.834] SPEAKER_08 And here, nothing.
+[2311.115 - 2313.816] SPEAKER_08 I'm alone, a foreigner.
+[2315.871 - 2321.975] SPEAKER_08  trying to start all over again, a storyteller in a language not my own.
+[2322.655 - 2325.477] SPEAKER_08 Everything that came naturally is suddenly hard.
+[2325.977 - 2327.918] SPEAKER_08 I'm looking words up in the dictionary.
+[2328.199 - 2329.82] SPEAKER_08 I'm memorizing things.
+[2330.26 - 2339.666] SPEAKER_08 I'm translating from Hebrew, and on top of that, I don't even have time for it because I'm with a baby all day long, and my husband is at the university working on his PhD.
+[2340.767 - 2350.179] SPEAKER_08  and our marriage is on very rocky ground and I just spend my days on that futon wondering, what have I done?
+[2351.62 - 2352.702] SPEAKER_08 Where do I belong?
+[2353.703 - 2355.165] SPEAKER_08 What happened to my career?
+[2355.185 - 2358.289] SPEAKER_08 How can I even be a mother when I'm so messed up?
+[2360.413 - 2374.477] SPEAKER_08  I was 34 years old, and I felt invisible, a lost little girl just wishing somebody would tell me what to do, just fix it for me already.
+[2377.678 - 2384.6] SPEAKER_08 And right there, there was an open magazine on the floor right near my hand.
+[2386.101 - 2387.241] SPEAKER_08 You remember it was a futon?
+[2391.454 - 2399.519] SPEAKER_08  I had recently joined the National Association for the Preservation and Perpetuation of Storytelling.
+[2399.539 - 2401.62] SPEAKER_08 Do you remember that?
+[2404.181 - 2407.783] SPEAKER_08 Today called the National Storytelling Network.
+[2409.284 - 2410.645] SPEAKER_08 It was the monthly magazine.
+[2412.126 - 2414.307] SPEAKER_08 And there was the version of an old folk tale.
+[2415.608 - 2416.928] SPEAKER_08 I didn't pick it up from the floor.
+[2416.948 - 2419.01] SPEAKER_08 I just read it with my eyes.
+[2420.322 - 2425.205] SPEAKER_08  And then I found myself reading it out loud, well, quietly, not to wake the baby.
+[2425.225 - 2427.947] SPEAKER_08 It was about a woman, you see.
+[2429.648 - 2434.591] SPEAKER_08 She was walking out of the village to the hut of the old one at the edge of the village.
+[2434.631 - 2437.253] SPEAKER_08 They said he had magical powers and she needed help.
+[2439.194 - 2441.455] SPEAKER_08 She walked in and bowed in respect.
+[2441.715 - 2444.097] SPEAKER_08 He was sitting, gazing at the fire before him.
+[2445.538 - 2445.938] SPEAKER_08 She said,
+[2447.921 - 2452.945] SPEAKER_08  They said that you could make magic potions to bring the love back into the heart.
+[2454.627 - 2459.831] SPEAKER_08 My husband, it's not been the same since he came back from the war.
+[2461.413 - 2462.033] SPEAKER_08 It's hard.
+[2462.133 - 2463.174] SPEAKER_08 Nothing I do works.
+[2464.175 - 2468.979] SPEAKER_08 Please, can you make me a magic potion to bring the love back into the heart?
+[2471.021 - 2472.022] SPEAKER_08 The old man looked at her.
+[2473.331 - 2473.932] SPEAKER_08  Then he nodded.
+[2473.992 - 2480.137] SPEAKER_08 He said, I can make a magic potion for you, but you'll need to do something.
+[2480.457 - 2481.378] SPEAKER_08 I'll do anything.
+[2483.179 - 2485.961] SPEAKER_08 You'll need to bring me a whisker from a live lion.
+[2487.523 - 2491.366] SPEAKER_08 A whisker from a live lion.
+[2491.726 - 2492.547] SPEAKER_08 But I'm a woman.
+[2492.567 - 2499.032] SPEAKER_08 I'm only a woman.
+[2502.25 - 2507.816] SPEAKER_08  But he already turned his gaze to the fire, and it was clear the interview was over.
+[2507.836 - 2510.479] SPEAKER_08 And so she returned home.
+[2511.96 - 2517.906] SPEAKER_08 And she lay awake all that night, tossing and turning, thinking, how in the world could she do something like this?
+[2518.891 - 2527.354] SPEAKER_08  Yes, you know, she heard that somewhere high up in the mountains above the village, there were lions sometimes.
+[2528.075 - 2533.457] SPEAKER_08 Occasionally you could hear a roar at night, but the sound of the roar was enough to send shivers down her spine.
+[2533.477 - 2537.058] SPEAKER_08 The thought of getting close enough to such a wild thing.
+[2540.599 - 2542.8] SPEAKER_08 But she so wanted things to change.
+[2546.201 - 2547.402] SPEAKER_08 So she got up the next day.
+[2548.982 - 2554.987] SPEAKER_08  She took up a piece of raw meat and she wrapped it in some cloth and she walked out of the village into the mountains.
+[2556.388 - 2559.111] SPEAKER_08 And she walked along the winding paths all that day.
+[2559.131 - 2567.197] SPEAKER_08 She walked for hours until she came to a place where high up on the cliffs she could see the mouth of a dark cave.
+[2568.318 - 2572.502] SPEAKER_08 And not far she could hear the sound of water running in the river.
+[2573.902 - 2581.028] SPEAKER_08  And she thought to herself, if there is a lion that lives up in that cave, he'll have to come to the water at some point.
+[2582.65 - 2584.251] SPEAKER_08 So she lay in the bushes and she waited.
+[2584.711 - 2586.473] SPEAKER_08 And she waited for a very long time.
+[2586.733 - 2589.856] SPEAKER_08 And as the sun began to set, she heard it.
+[2591.738 - 2592.158] SPEAKER_08 A roar.
+[2593.908 - 2599.892] SPEAKER_08  And there she saw a huge line with a black mane coming down from those cliffs.
+[2600.132 - 2603.594] SPEAKER_08 And her heart started to pound so fast and so loud.
+[2603.854 - 2604.374] SPEAKER_08 She got up.
+[2604.594 - 2607.977] SPEAKER_08 She threw that piece of meat as far as she possibly could.
+[2608.037 - 2610.398] SPEAKER_08 She didn't wait to see where it landed.
+[2610.478 - 2613.5] SPEAKER_08 She turned and she ran as fast as she could away from that place.
+[2615.888 - 2623.015] SPEAKER_08  The next day, she took another piece of meat, and she came to that same place, and she lay in the bushes, and she waited.
+[2623.516 - 2637.67] SPEAKER_08 And as the sun began to set, she saw that line come down in the distance, and she got up, and she threw that piece of meat as far as she could, and she forced herself to stand there long enough and see that it landed, and only then she turned and ran back home.
+[2640.68 - 2644.366] SPEAKER_08  And the next day she went to that same place again with another piece of meat.
+[2644.666 - 2651.177] SPEAKER_08 And this time she forced herself to stand there long enough to see that the lion was pouncing on the meat.
+[2651.497 - 2654.302] SPEAKER_08 And then she turned and ran back home.
+[2656.263 - 2663.926] SPEAKER_08  And she came to that place day after day, week after week for six months.
+[2664.607 - 2674.411] SPEAKER_08 And every day she inched her way closer and closer and closer to that lion until by the end of six months, he was eating from her open hand.
+[2675.692 - 2679.133] SPEAKER_08 And it was then that she bent and gently plucked a whisker.
+[2679.153 - 2680.174] SPEAKER_08 Thank you.
+[2681.511 - 2685.094] SPEAKER_08  And she ran, and she burst into the old man's hut.
+[2685.174 - 2685.634] SPEAKER_08 I did it!
+[2685.654 - 2687.596] SPEAKER_08 A whisker from a live lion!
+[2687.616 - 2690.598] SPEAKER_08 He took it and he examined it.
+[2692.58 - 2693.24] SPEAKER_08 Indeed.
+[2694.441 - 2696.042] SPEAKER_08 Tell me, how did you obtain it?
+[2697.023 - 2704.829] SPEAKER_08 And so she told him how she found a place where the lion comes to the water and how she went there day after day for six months until at the end the lion was eating from her hand.
+[2706.09 - 2708.592] SPEAKER_08 The old man listened, and he nodded.
+[2709.733 - 2710.013] SPEAKER_08 And then...
+[2710.731 - 2714.474] SPEAKER_08  Without a word, he threw the whisker into the fire.
+[2715.754 - 2716.555] SPEAKER_08 What are you doing?
+[2716.575 - 2719.157] SPEAKER_08 The magic potion, you promised!
+[2721.138 - 2722.779] SPEAKER_08 He looked at her and smiled.
+[2722.799 - 2736.849] SPEAKER_08 Oh, but a woman, a woman strong enough to tame a lion has no need for a magic potion.
+[2740.58 - 2744.323] SPEAKER_08  And with that, he turned to gaze at the fire.
+[2745.424 - 2747.125] SPEAKER_08 She returned home.
+[2747.145 - 2752.99] SPEAKER_08 And I, I got up from the couch.
+[2755.109 - 2757.69] SPEAKER_08  I knew I had to tell that story.
+[2758.411 - 2762.413] SPEAKER_08 At first, I just walked around that tiny little apartment just talking to myself.
+[2762.693 - 2765.034] SPEAKER_08 I didn't need to look words up in the dictionary.
+[2765.074 - 2766.595] SPEAKER_08 I didn't need to memorize anything.
+[2766.615 - 2768.736] SPEAKER_08 I just told it and told it and told it.
+[2768.896 - 2773.879] SPEAKER_08 And every time I told it, a little bit of the heaviness lifted from my heart.
+[2775.82 - 2779.422] SPEAKER_08 And that little story became my secret talisman.
+[2781.01 - 2790.7] SPEAKER_08  reminding me again and again, especially when times are hard, that I don't need a magic potion to face the challenges in my life.
+[2792.222 - 2792.922] SPEAKER_08 So here it is.
+[2794.084 - 2801.151] SPEAKER_08 I offer it to you, a small whisker, to remind us all that here we are.
+[2802.498 - 2810.62] SPEAKER_08  Here we all are, not because of a magic potion, but because we have tamed many lions.
+[2812.0 - 2819.002] SPEAKER_08 May we continue to tame lions, and may we continue to carry the fire of stories into the world.
+[2820.263 - 2821.703] SPEAKER_08 Thank you for being part of that.
+[2838.533 - 2847.935] SPEAKER_02  Now, if you have always wanted to tell a personal story from your own life, Noah is going to be doing an online workshop, virtual.
+[2848.635 - 2854.496] SPEAKER_02 And you can find out more about it on her website, or there's also some flyers over in the merchandise tent.
+[2855.276 - 2858.897] SPEAKER_02 Her workshop is called Storytelling, Yes, You Can.
+[2859.477 - 2860.417] SPEAKER_02 So take a look for that.
+[2861.737 - 2865.078] SPEAKER_02 Our next storyteller is a guy...
+[2866.28 - 2868.622] SPEAKER_02  that I met back in the 1980s.
+[2869.822 - 2873.164] SPEAKER_02 That was when all of his hair was still on top of his head.
+[2875.066 - 2877.127] SPEAKER_02 His name is Bill Harley.
+[2877.147 - 2879.529] SPEAKER_02 Yeah, I know.
+[2881.81 - 2884.111] SPEAKER_02 Okay, Bill Harley.
+[2884.131 - 2886.873] SPEAKER_02 Ooh, say it with me.
+[2887.434 - 2889.315] SPEAKER_02 Ooh.
+[2889.835 - 2891.976] SPEAKER_02 Yeah, I know the feeling.
+[2893.157 - 2895.539] SPEAKER_02 Every time I see him, he builds up my buttercup.
+[2898.024 - 2903.147] SPEAKER_02  My buttercup's pretty full after this many hours of storytelling today.
+[2903.927 - 2905.949] SPEAKER_02 But we can always use a little more.
+[2907.089 - 2910.451] SPEAKER_02 Bill Harley, well, he's innovative.
+[2910.551 - 2912.592] SPEAKER_02 He's sometimes irreverent.
+[2913.953 - 2916.735] SPEAKER_02 But his storytelling soul is pure.
+[2919.742 - 2926.127] SPEAKER_02  Bill has two Grammys and a whole host of other awards, and I know he's proud of that, and rightly so.
+[2927.007 - 2934.933] SPEAKER_02 But you can tell that what Bill loves most in the world is performing for a live audience.
+[2936.034 - 2939.757] SPEAKER_02 So show him some love, welcome him up here, Bill Harley.
+[2951.314 - 2951.694] SPEAKER_03  Hi, guys.
+[2954.336 - 2954.796] SPEAKER_03 Doing all right?
+[2955.797 - 2956.417] SPEAKER_03 Not done yet.
+[2956.498 - 2957.558] SPEAKER_03 We're just starting.
+[2958.319 - 2960.74] SPEAKER_03 I hate this guitar because I can't plug it in very well.
+[2962.061 - 2962.321] SPEAKER_03 OK.
+[2963.182 - 2968.105] SPEAKER_03 Well, I just would like to thank Motoko and Jeff for lowering the bar.
+[2971.121 - 2975.244] SPEAKER_03  I was sitting back there going, I just don't know if this thing's going to work tonight.
+[2975.465 - 2976.926] SPEAKER_03 And I was like, Monaco finished.
+[2976.986 - 2978.267] SPEAKER_03 I said, yeah, maybe.
+[2978.287 - 2981.41] SPEAKER_03 And Jeff finished and said, I am golden.
+[2981.43 - 2981.71] SPEAKER_03 Anyway.
+[2994.69 - 3009.235] SPEAKER_03  While cleaning out the attic a little while ago, sorting, wondering, choosing what to keep and what to throw, I came upon a box of things from the bedroom of my son, papers, books, and trophies, honors that he'd won.
+[3009.875 - 3017.158] SPEAKER_03 And at the bottom of the box, wrapped in a strap of cotton, I came upon the strangest thing that I had quite forgotten.
+[3017.967 - 3021.17] SPEAKER_03  The sight of this old relic had set my mind aglow.
+[3021.591 - 3025.034] SPEAKER_03 And soon I was remembering those many years ago.
+[3025.775 - 3031.821] SPEAKER_03 My son signed up for Little League, much to his dad's delight, because I played baseball as a kid.
+[3031.861 - 3037.726] SPEAKER_03 And so it seemed but right that my son, too, would follow me upon the diamond's grass.
+[3037.786 - 3041.93] SPEAKER_03 But little did I e'er suspect what soon would come to pass.
+[3043.294 - 3051.978] SPEAKER_03  For on the day his team first met, the coach lined them up and asked if someone there would volunteer to wear the catcher's mask.
+[3052.938 - 3054.419] SPEAKER_03 The other boys did hem and haw.
+[3054.479 - 3055.819] SPEAKER_03 Mine did not hesitate.
+[3056.039 - 3059.581] SPEAKER_03 He raised his hand and said he would, unworried of his fate.
+[3060.101 - 3063.463] SPEAKER_03 Well, it seemed to make some sense to me because I knew my son.
+[3063.483 - 3065.764] SPEAKER_03 He liked to catch.
+[3065.964 - 3066.664] SPEAKER_03 He liked to throw.
+[3066.704 - 3068.585] SPEAKER_03 But he didn't really like to run.
+[3070.171 - 3076.857] SPEAKER_03  Perch behind the plate at home, he wouldn't have to hurry, and his gentle winning ways would soothe the pitcher's worry.
+[3077.738 - 3080.721] SPEAKER_03 So I was proud, yes, that day as we turned to go.
+[3081.181 - 3085.045] SPEAKER_03 But then Coach called out to me, Bill, there's something you should know.
+[3085.566 - 3094.174] SPEAKER_03 If Dylan would wear the glove and mask, the tools of ignorance, it's also true that he must wear a certain something beneath his pants.
+[3095.407 - 3098.349] SPEAKER_03  The boy is just a lad of nine, a bright future growing up.
+[3098.609 - 3101.711] SPEAKER_03 If he's going to sit behind the plate, he needs to wear a cup.
+[3102.792 - 3105.133] SPEAKER_03 A cup, a cup, surely you jest.
+[3105.613 - 3106.634] SPEAKER_03 He's just a boy.
+[3106.654 - 3109.916] SPEAKER_03 A cup does seem like overkill that we need not employ.
+[3111.037 - 3112.618] SPEAKER_03 Dems to rules, the coach replied.
+[3112.698 - 3113.378] SPEAKER_03 You can look him up.
+[3113.939 - 3117.801] SPEAKER_03 We need a man behind the plate, and he needs to wear a cup.
+[3119.364 - 3123.727] SPEAKER_03  So we found ourselves in Megastore, a Roman down the aisle.
+[3124.327 - 3126.249] SPEAKER_03 I told the clerk about our quest.
+[3126.269 - 3127.65] SPEAKER_03 He couldn't help but smile.
+[3127.73 - 3130.792] SPEAKER_03 He said, of course, although that boy, he's just a pup.
+[3131.392 - 3135.535] SPEAKER_03 From the looks of him, a lad so young, he needs a junior cup.
+[3136.715 - 3139.737] SPEAKER_03 He led us past the bats and balls and other sports equipment.
+[3139.777 - 3143.22] SPEAKER_03 He stopped and pointed at the racks, and there's the latest shipment.
+[3144.24 - 3147.663] SPEAKER_03 It was a wee small thing he held up to our sight.
+[3148.723 - 3151.765] SPEAKER_03  about an English muffin size.
+[3151.825 - 3153.786] SPEAKER_03 He said, this just seems right.
+[3154.406 - 3155.327] SPEAKER_03 We paid the bill.
+[3155.347 - 3156.007] SPEAKER_03 We headed home.
+[3156.128 - 3161.391] SPEAKER_03 I come, and the son-in-law had the tools to safely sit behind the plate and protect the family jewels.
+[3163.092 - 3164.753] SPEAKER_03 At home, my wife said, you show them.
+[3164.773 - 3165.533] SPEAKER_03 That's your job.
+[3165.633 - 3166.394] SPEAKER_03 I can't bear it.
+[3166.434 - 3167.895] SPEAKER_03 This whole thing was your idea.
+[3167.955 - 3169.295] SPEAKER_03 You tell them how to wear it.
+[3170.976 - 3171.697] SPEAKER_03 He put it on.
+[3171.737 - 3174.539] SPEAKER_03 It was a curse fashioned by some evil tailor.
+[3174.559 - 3178.241] SPEAKER_03 It was then I knew why catchers did waddle around like sailors.
+[3179.477 - 3182.699] SPEAKER_03  A bow-legged stride, a crabbed gait, the cup did surely ask for.
+[3182.959 - 3186.921] SPEAKER_03 But when he sat behind the plate, he would not face disaster.
+[3188.422 - 3191.984] SPEAKER_03 And so the season did begin with Dylan in the crouch.
+[3192.744 - 3195.206] SPEAKER_03 Of every pitch, a pitcher pitch, I never heard an ouch.
+[3195.546 - 3197.047] SPEAKER_03 Dylan had a steady eye.
+[3197.167 - 3204.271] SPEAKER_03 He caught most balls they pitched, though he sometimes reached there down below to get it where it itched.
+[3205.379 - 3212.722] SPEAKER_03  And though some balls did bounce and bump, he never was abused, and that little piece of plastic ne'er had cause for being used.
+[3214.944 - 3215.664] SPEAKER_03 Until...
+[3218.058 - 3225.983] SPEAKER_03  One final day, the season near its end, it was Dylan's turn to bat against his closest friend.
+[3226.003 - 3229.805] SPEAKER_03 A kid who had a fastball that could leave the batters crying.
+[3230.306 - 3234.028] SPEAKER_03 Only nine that could throw like a Clemens or a Ryan.
+[3234.568 - 3238.851] SPEAKER_03 Dylan grabbed his crotch just like a pro to get it where it itched.
+[3239.551 - 3246.274] SPEAKER_03  stepped into the batter's box, he waited for the pitch, and then his best friend Davey readied through the throw.
+[3246.614 - 3263.841] SPEAKER_03 He went into the windup, he let the baseball go, the birds all chirped, the infield sang, the infield chirped in chatter, and now the leather-covered sphere came hurtling towards the batter, but it didn't cross the rubber plate or bounce there in the dirt.
+[3264.521 - 3268.323] SPEAKER_03 Instead, it hit my darling boy right there where it hurts.
+[3269.605 - 3273.168] SPEAKER_03  Too late to dodge, too late to duck, he took it straight full on.
+[3274.069 - 3278.072] SPEAKER_03 And even as the ball arrived, someone cried, his future's gone.
+[3278.092 - 3283.077] SPEAKER_03 And at the sight of Christ sailed forth, the men all wept and moaned.
+[3283.457 - 3286.92] SPEAKER_03 The dad who served his empire let out a gruesome groan.
+[3287.481 - 3292.065] SPEAKER_03 But even then, the men all wept and gave their empathetic gasps.
+[3293.314 - 3296.817] SPEAKER_03  A shot ran out like cannon fire across the summer's grass.
+[3297.778 - 3304.643] SPEAKER_03 It bounced off the bleachers, roared above the crowd, bounced off the, bounced off, what is it?
+[3304.924 - 3311.069] SPEAKER_03 Bounced off, bounced off the snack bar and sailed into the clouds.
+[3311.509 - 3314.692] SPEAKER_03 The ball burst from the batter's box off the young intrepid hitter.
+[3315.032 - 3317.354] SPEAKER_03 It bounded across the infield towards the shortstop.
+[3317.434 - 3318.115] SPEAKER_03 It did skitter.
+[3318.823 - 3321.343] SPEAKER_03  We all looked at the batter, fearing for the worst.
+[3322.444 - 3326.364] SPEAKER_03 Dylan dropped the bat, stepped from the box, and headed down to first.
+[3327.465 - 3334.906] SPEAKER_03 It took more than a moment for those who watched it there to realize there was no need for a trip to urgent care.
+[3336.526 - 3339.767] SPEAKER_03 Dylan now stood safe at first, a smile upon his fate.
+[3340.647 - 3344.107] SPEAKER_03 He tipped his cat and reached down there to put the cup back in its place.
+[3345.768 - 3347.408] SPEAKER_03 And then a cry sailed forth,
+[3348.944 - 3356.196] SPEAKER_03  And a cry sailed forth, yeah, joyous glad refrain, though some still bent in agony and sympathetic pain.
+[3356.556 - 3359.561] SPEAKER_03 It must be said some women there did neither squirm nor wiggle.
+[3359.621 - 3362.586] SPEAKER_03 Instead of showing sympathy, they only laughed and giggled.
+[3363.868 - 3366.269] SPEAKER_03  And when the game was finished, all was said and done.
+[3366.769 - 3369.831] SPEAKER_03 The men all present stormed the field, each and every one.
+[3370.291 - 3374.053] SPEAKER_03 They surrounded there my darling boy, his praises they did sing.
+[3374.513 - 3378.735] SPEAKER_03 When they asked him how he was, he said, I didn't feel a thing.
+[3379.876 - 3384.138] SPEAKER_03 And so I held that plastic, thinking of my son so brave.
+[3384.678 - 3388.28] SPEAKER_03 And though some things I did throw out, there's one that I did save.
+[3389.349 - 3392.77] SPEAKER_03  To pass on to a grandson should one chance appear.
+[3393.37 - 3396.551] SPEAKER_03 And if he wants to be a catcher, I've got protection here.
+[3397.771 - 3404.773] SPEAKER_03 For the world is filled of dangers, unkindnesses, and hate, and metaphoric fastballs that might debilitate.
+[3405.354 - 3408.315] SPEAKER_03 You never know what's coming or if your number's up.
+[3408.955 - 3413.396] SPEAKER_03 But if you're wise, take my advice and wear some kind of cup.
+[3414.476 - 3414.916] SPEAKER_03 Thank you.
+[3431.264 - 3433.225] SPEAKER_02  Thank you, Emily Dickinson.
+[3435.667 - 3436.348] SPEAKER_02 Mercy.
+[3437.128 - 3439.75] SPEAKER_02 My mama told me there'd be nights like this.
+[3441.491 - 3450.257] SPEAKER_02 Well, our next storyteller, would you all like to take a break before I ask our next storyteller up here?
+[3450.317 - 3451.058] SPEAKER_02 Just take a deep breath.
+[3451.078 - 3452.019] SPEAKER_02 Do you need to stand up?
+[3452.339 - 3452.659] SPEAKER_02 No?
+[3454.0 - 3454.561] SPEAKER_02 No.
+[3454.921 - 3455.261] SPEAKER_02 Tell me.
+[3455.881 - 3456.242] SPEAKER_02 No.
+[3456.382 - 3456.742] SPEAKER_02 All right.
+[3456.782 - 3457.663] SPEAKER_02 Let's keep going then.
+[3459.147 - 3464.05] SPEAKER_02  I want to bring up here to the stage a guy named Ray Christian.
+[3464.25 - 3473.014] SPEAKER_02 And this weekend is the first time I've actually met Ray in person, although he just lives over the mountain in Boone, North Carolina.
+[3473.995 - 3480.879] SPEAKER_02 But I have spent scores of miles with Ray Christian in my earbuds.
+[3482.677 - 3486.919] SPEAKER_02  When I walk every day for the last few months, I have been listening to Ray.
+[3486.959 - 3488.54] SPEAKER_02 I listen to his podcast.
+[3489.26 - 3491.841] SPEAKER_02 I've listened to him on the Moth Radio Hour.
+[3491.861 - 3501.425] SPEAKER_02 And his stories are so powerful and so raw and sometimes it feels like so unvarnished.
+[3502.066 - 3509.549] SPEAKER_02 And yet somehow there's that humor in the stories that I just have to sit down on the curb to catch my breath.
+[3510.939 - 3513.141] SPEAKER_02  And my neighbors think I need an intervention.
+[3514.883 - 3520.65] SPEAKER_02 But really, the only intervention that I need is to hear Ray Christian in person.
+[3522.632 - 3524.233] SPEAKER_02 And we're going to get to do that tonight.
+[3525.094 - 3531.822] SPEAKER_02 Recently, in one of the podcasts that I was listening to, he was being interviewed by a Lutheran pastor.
+[3533.174 - 3540.859] SPEAKER_02  And he was telling this story about when he was a young, 20-year-old, untested, untrained sergeant in the U.S.
+[3540.959 - 3541.2] SPEAKER_02 Army.
+[3542.08 - 3553.608] SPEAKER_02 And he was put in charge of 12 young, untried, dysfunctional recruits who were totally clueless.
+[3555.93 - 3560.173] SPEAKER_02 And the Lutheran pastor said, Jesus had a job like that.
+[3564.511 - 3567.794] SPEAKER_02  And Ray went on to tell this marvelous story.
+[3569.996 - 3576.682] SPEAKER_02 I feel like when I get to hear Ray tell stories in person that I have stepped into a holy place.
+[3577.423 - 3580.986] SPEAKER_02 Please help me welcome him, Ray Christian from Boone, North Carolina.
+[3591.366 - 3595.428] SPEAKER_00  Oh my goodness, when I heard that last story, I immediately started to itch.
+[3598.769 - 3601.991] SPEAKER_00 I'm so self-conscious about it now, I just wanna turn around.
+[3603.652 - 3604.412] SPEAKER_00 How could you not?
+[3606.273 - 3608.974] SPEAKER_00 You got enough energy left to hear the last couple of stories?
+[3609.634 - 3610.415] SPEAKER_00 You still got that?
+[3612.662 - 3613.842] SPEAKER_00  I love this kind of weather.
+[3613.882 - 3618.203] SPEAKER_00 You can't help but think when it gets cool like this that you want to cuddle with somebody you love.
+[3618.963 - 3624.124] SPEAKER_00 If you're sitting beside somebody right now and you're in love with them and you're not touching them, you're wrong.
+[3626.485 - 3628.405] SPEAKER_00 So give yourself a moment to think about that.
+[3630.666 - 3631.906] SPEAKER_00 I used to be a Boy Scout.
+[3633.086 - 3639.227] SPEAKER_00 I was a Boy Scout assigned to a very poor church in a very poor neighborhood.
+[3640.248 - 3641.688] SPEAKER_00 And I was the last kid
+[3642.802 - 3651.525] SPEAKER_00  in the last scout patrol, in the last troop, to pay his fees to attend the big state Boy Scout Jamboree.
+[3652.485 - 3654.706] SPEAKER_00 And I was quite happy about that.
+[3656.127 - 3661.869] SPEAKER_00 Now, when we got to the Jamboree, one of the first activities that we participated in was the swimming test.
+[3662.728 - 3675.111] SPEAKER_00  The swimming test determined what water activities you could participate in, be that canoes, rowboats, hiking around the water, fishing, or even being anywhere near the pool.
+[3676.231 - 3680.853] SPEAKER_00 So I watched hundreds of white Boy Scouts take that swimming test.
+[3681.733 - 3682.693] SPEAKER_00 Some didn't pass.
+[3683.193 - 3684.253] SPEAKER_00 Some did pass.
+[3684.754 - 3686.134] SPEAKER_00 Pretty normal range of people.
+[3687.281 - 3697.212] SPEAKER_00  When it came time for my troop to take the swimming test, and we're all black, about 25 of us, not one of the boys in my troop passed the swim test.
+[3698.274 - 3701.918] SPEAKER_00 Now, I wasn't first to be tested, but I was somewhere near the end.
+[3703.019 - 3706.783] SPEAKER_00 The last activity as part of the swim test was to tread water.
+[3707.401 - 3720.051] SPEAKER_00  The requirements were you had to tread water for two minutes, and they had a big old clock so you could look at it, and all the Scoutmasters who were in charge of the swimming activities would make sure that you were doing it long enough.
+[3720.092 - 3722.594] SPEAKER_00 They would point to you, tell you you could get out of the water.
+[3724.275 - 3727.157] SPEAKER_00 I'm the last kid in the pool treading water.
+[3728.138 - 3729.059] SPEAKER_00 Two minutes pass.
+[3729.599 - 3730.28] SPEAKER_00 I'm looking up.
+[3730.88 - 3731.661] SPEAKER_00 I made it, right?
+[3732.242 - 3733.102] SPEAKER_00 I'm okay, right?
+[3734.503 - 3735.905] SPEAKER_00 Scoutmaster says nothing.
+[3736.877 - 3738.899] SPEAKER_00  Three minutes, I'm still treading water.
+[3739.439 - 3740.24] SPEAKER_00 He says nothing.
+[3740.72 - 3743.302] SPEAKER_00 Five minutes, I'm treading water.
+[3744.363 - 3749.346] SPEAKER_00 Ten minutes, I'm treading water, but now I'm depressed because I'm tired.
+[3750.167 - 3765.418] SPEAKER_00 I don't know how much further I got to go, but our scoutmaster had informed us, you don't say anything disrespectful to any of the other white masters here, not even something that could be interpreted in that way.
+[3766.618 - 3767.658] SPEAKER_00  So I didn't say anything.
+[3768.499 - 3772.861] SPEAKER_00 And in about 15 minutes, I saw two of the Scoutmasters talking to one another.
+[3772.881 - 3774.041] SPEAKER_00 They were kind of animated.
+[3775.002 - 3781.685] SPEAKER_00 And then one of the Scoutmasters looks to me with some frustration in his voice, and he says, OK, get out of the pool.
+[3782.625 - 3783.106] SPEAKER_00 I did it.
+[3784.046 - 3784.766] SPEAKER_00 I passed.
+[3785.247 - 3787.428] SPEAKER_00 I'm the only black kid who's a swimmer.
+[3787.548 - 3789.689] SPEAKER_00 I can participate in the activities now.
+[3791.269 - 3792.69] SPEAKER_00 But that's not the way it worked.
+[3793.956 - 3804.661] SPEAKER_00  Whenever I would go down to participate in the rowing of the boats or participate in the canoes and I wanted to swim, I'd immediately be stopped and told, wait a minute, you don't have a swimmer badge.
+[3805.342 - 3807.623] SPEAKER_00 And I was proud to take it out and show it to them.
+[3807.763 - 3808.343] SPEAKER_00 Yes, I do.
+[3808.623 - 3809.224] SPEAKER_00 I have one.
+[3809.264 - 3813.426] SPEAKER_00 But every time a Scoutmaster would say, you probably made that up.
+[3814.046 - 3816.787] SPEAKER_00 It's probably artificial because no black kids can swim.
+[3817.268 - 3817.868] SPEAKER_00 Get out of here.
+[3819.571 - 3824.237] SPEAKER_00  So I couldn't participate in any of those activities, but I was allowed to go down to the pool.
+[3825.078 - 3831.626] SPEAKER_00 So I went to the pool, and I jumped in, and as soon as I did, all the kids in the pool got out of the pool.
+[3832.707 - 3835.531] SPEAKER_00 Some of the white Scoutmasters were complaining about it.
+[3836.889 - 3850.263] SPEAKER_00  And then I saw one of the scoutmasters get really frantic, and he was yelling and screaming at me, and I thought something dangerous must be going on, because he jumped right in the pool, and I'm thinking, is there a snapping turtle in here, or an alligator, or something?
+[3850.303 - 3851.864] SPEAKER_00 Why is he so frantic like that?
+[3853.466 - 3857.891] SPEAKER_00 But I knew what the answer was when he slapped me in my face and he said, nigga, get out of the pool.
+[3858.872 - 3860.113] SPEAKER_00 Who told you you could be here?
+[3861.368 - 3875.531] SPEAKER_00  As soon as I went to the scoutmaster, our black scoutmaster, to tell him what had happened, he immediately grabbed me by the collar and pulled me to the side and said, don't you say anything, anything, to jeopardize our placement here in this camp.
+[3876.331 - 3883.412] SPEAKER_00 You see, my scoutmaster grew up in the era of Jim Crow, and he figured I might say or do the wrong thing and get one of us killed.
+[3883.712 - 3886.853] SPEAKER_00 He was responding to me out of fear.
+[3888.302 - 3895.747] SPEAKER_00  Well, one of the last activities that was taking place at the jamboree related to water was the prestigious one-mile swim.
+[3895.767 - 3898.309] SPEAKER_00 That was a hard merit badge to get.
+[3898.609 - 3904.293] SPEAKER_00 And if you lived in an urban area or you were from the city, this was a merit badge you probably weren't going to get.
+[3905.154 - 3916.882] SPEAKER_00 And what that required was all of us boys who showed up to take the test to try to get this merit badge, they would assign six of us boys to a rowboat.
+[3918.112 - 3927.839] SPEAKER_00  And so if you got too tired or you couldn't make it, you wanted to give up, all you had to do was put your hand up, scream out, or just grab at the boat, and they would pull you inside.
+[3927.859 - 3934.524] SPEAKER_00 I was the last kid on the last boat to go because none of the boats would let me get on.
+[3936.045 - 3940.388] SPEAKER_00 The last boat had only like four people in it, so they really didn't have a choice.
+[3941.709 - 3943.651] SPEAKER_00 As the rowboats pulled out and they start,
+[3944.673 - 3949.116] SPEAKER_00  We already know that it takes three laps around this huge lake to equal one mile.
+[3950.077 - 3957.721] SPEAKER_00 Now up to that point, I never had a chance to practice because swimming in a pool is not the same as swimming in a lake.
+[3958.462 - 3959.803] SPEAKER_00 The water feels different.
+[3960.103 - 3960.984] SPEAKER_00 It tastes different.
+[3961.024 - 3966.907] SPEAKER_00 It's almost a dangerous, unnatural feel and taste and smell to fresh water.
+[3967.588 - 3970.189] SPEAKER_00 So I had to get used to that like right away.
+[3970.23 - 3971.951] SPEAKER_00 I had like minutes to get used to that.
+[3972.782 - 3987.507] SPEAKER_00  So we start with our first lap around the lake, and I'm already tired, but I've already noticed that the first cluster of boys has already given up, already started reaching for the boats, already started begging to get in.
+[3988.007 - 3992.548] SPEAKER_00 So first lap, half the boys who were participating have already stopped.
+[3994.009 - 4000.411] SPEAKER_00 The second lap occurs, and I'm even more tired, and more boys are getting back in the boats.
+[4001.442 - 4004.062] SPEAKER_00  But I noticed the slick on the water.
+[4004.322 - 4009.223] SPEAKER_00 It's foamy, whitish, kind of yellowish.
+[4010.263 - 4012.604] SPEAKER_00 And I'm not sure what it is until I swim through it.
+[4013.544 - 4014.144] SPEAKER_00 Then I know.
+[4015.064 - 4018.625] SPEAKER_00 This is the taste of the powdered eggs we had for breakfast this morning.
+[4022.326 - 4024.086] SPEAKER_00 Would it help if I said it was a little bacon?
+[4026.286 - 4026.866] SPEAKER_00 Some grits?
+[4029.647 - 4030.127] SPEAKER_00 That wouldn't...
+[4031.884 - 4036.025] SPEAKER_00  side of hash browns that wouldn't change the story at all.
+[4036.906 - 4037.286] SPEAKER_00 Okay.
+[4039.927 - 4045.769] SPEAKER_00 The very final lap, I'm already thinking in my mind, I'm going to give up.
+[4046.849 - 4050.27] SPEAKER_00 And what's encouraging me to give up is what the boys in the boats are saying.
+[4051.351 - 4057.133] SPEAKER_00 Most of the boys who had gotten out of the boats are now starting to say things to me like, get out of the water.
+[4057.893 - 4058.753] SPEAKER_00 You're not going to make it.
+[4059.434 - 4060.214] SPEAKER_00 It's not worth it.
+[4061.001 - 4061.461] SPEAKER_00  Get out.
+[4062.261 - 4063.281] SPEAKER_00 Why waste your time?
+[4063.401 - 4063.821] SPEAKER_00 Get out.
+[4064.042 - 4066.802] SPEAKER_00 And they were reaching to me, putting their hands out.
+[4066.862 - 4067.582] SPEAKER_00 Grab my hand.
+[4067.622 - 4068.202] SPEAKER_00 Get in the boat.
+[4069.703 - 4072.363] SPEAKER_00 The Eagle Scouts were the ones rowing the boats.
+[4073.603 - 4076.344] SPEAKER_00 An Eagle Scout reached a paddle out to me repeatedly.
+[4076.544 - 4077.324] SPEAKER_00 Grab the paddle.
+[4077.984 - 4079.104] SPEAKER_00 Let me pull you in the boat.
+[4080.104 - 4080.964] SPEAKER_00 And I wouldn't do it.
+[4081.104 - 4084.605] SPEAKER_00 And it was just this chime of boys going, get out of the water.
+[4084.665 - 4085.545] SPEAKER_00 Get out of the water.
+[4085.605 - 4086.425] SPEAKER_00 Get out of the water.
+[4087.446 - 4089.326] SPEAKER_00 Now I'm at the point where I'm so tired
+[4090.316 - 4091.597] SPEAKER_00  I can't even see straight.
+[4092.398 - 4095.08] SPEAKER_00 So I close my eyes really, really tightly.
+[4095.12 - 4097.902] SPEAKER_00 And I'm just stroking, stroking, stroking.
+[4097.942 - 4099.324] SPEAKER_00 My arms are like spaghetti.
+[4099.844 - 4103.667] SPEAKER_00 And at some point, I feel one of my feet touch the bottom.
+[4105.148 - 4109.632] SPEAKER_00 Then all of a sudden, with my eyes closed tightly, I felt all these hands and arms on me.
+[4109.672 - 4114.436] SPEAKER_00 And immediately, what I'm thinking is, these white boys are pulling me out of the water.
+[4115.597 - 4116.338] SPEAKER_00 I can't make it.
+[4117.363 - 4127.29] SPEAKER_00  But when I opened my eyes, I saw what looked like a thousand little brown and black fingers grabbing me, and they pulled me out the water, and they were tossing me up in the air.
+[4131.252 - 4132.553] SPEAKER_00 So I wasn't the fastest.
+[4133.774 - 4134.935] SPEAKER_00 I wasn't the best looking.
+[4136.316 - 4138.137] SPEAKER_00 I wasn't the last one to ever do it.
+[4138.958 - 4145.682] SPEAKER_00 But on that day, in that place, at that time, one little black kid was first.
+[4146.323 - 4146.623] SPEAKER_00 Thank you.
+[4166.516 - 4169.278] SPEAKER_02  You're going to want to hear more of Ray this weekend, aren't you?
+[4171.039 - 4181.166] SPEAKER_02 Well, I am about to introduce to you now a storyteller that I've had the pleasure of introducing more times than I can count over the years.
+[4182.947 - 4187.651] SPEAKER_02 And I've called her many different things over those years, and some of them she's liked.
+[4189.932 - 4191.774] SPEAKER_02 And some of them, not so much.
+[4193.134 - 4194.616] SPEAKER_02 To me, she will always be...
+[4197.156 - 4198.617] SPEAKER_02  Lizard Breath Elizabeth.
+[4200.698 - 4206.062] SPEAKER_02 I think that's what I first called her maybe 35 years ago when I met her.
+[4207.182 - 4222.672] SPEAKER_02 But I also think of her as Mother Earth, the Yellow Rose of Texas, the Diva of Dallas, the Shaman of Storytelling, Southern Goddess, Soul Reviver,
+[4224.292 - 4227.855] SPEAKER_02  Mentor, giver, friend.
+[4229.256 - 4244.109] SPEAKER_02 There's no one else I can think of who exemplifies better that scripture in the Gospel of Matthew that says, and I paraphrase, I was hungry and you fed me biscuits and gravy.
+[4247.492 - 4250.715] SPEAKER_02 I was naked and you gave me the shirt off your own back.
+[4252.358 - 4264.641] SPEAKER_02  I was a stranger, and you took me into your circle of love, and you told me stories, stories that made me say, Lord, have mercy.
+[4264.841 - 4266.601] SPEAKER_02 I am not alone in this world.
+[4268.042 - 4272.703] SPEAKER_02 Please help me welcome the divine Miss E, Elizabeth Ellis.
+[4272.723 - 4276.664] SPEAKER_07 I love you.
+[4281.167 - 4282.808] SPEAKER_07  Lord, love a duck.
+[4284.77 - 4288.332] SPEAKER_07 Who could possibly live up to that?
+[4289.533 - 4290.593] SPEAKER_07 My gracious.
+[4293.615 - 4299.299] SPEAKER_07 E. Lizard Breath was my son Scooter's perpetual name for me.
+[4300.38 - 4303.682] SPEAKER_07 Every time I hear anybody say it, it makes me think of him.
+[4308.243 - 4317.491] SPEAKER_07  My new boss at the Dallas Public Library said that we were no longer allowed to take the books before the patrons got them.
+[4318.772 - 4325.938] SPEAKER_07 It used to be that one of the few perks working at the library was that you got first crack at the brand new books.
+[4326.538 - 4327.639] SPEAKER_07 But that was over.
+[4328.039 - 4328.48] SPEAKER_07 Gone.
+[4332.443 - 4333.244] SPEAKER_07 Except that the...
+[4334.67 - 4339.514] SPEAKER_07  bookshelf where the new books were processed was right beside the back door.
+[4342.897 - 4346.1] SPEAKER_07 I see that you already can tell that was a poor choice.
+[4348.823 - 4355.909] SPEAKER_07 So one day I took a bestseller off that shelf.
+[4358.374 - 4361.337] SPEAKER_07  Love Story by Eric Siegel.
+[4362.397 - 4364.879] SPEAKER_07 And I stuck it in my bag.
+[4366.541 - 4374.267] SPEAKER_07 Beside it, there was a beautiful new book with lovely colored pictures called Easy to Grow Houseplants.
+[4375.248 - 4376.189] SPEAKER_07 I took it too.
+[4377.71 - 4380.232] SPEAKER_07 Might as well be killed for a sheep as a lamb.
+[4385.06 - 4393.864] SPEAKER_07  After my kids went to bed that night, I read five or six pages in love story.
+[4395.245 - 4396.465] SPEAKER_07 It was really boring.
+[4398.186 - 4405.65] SPEAKER_07 And I couldn't imagine anything stupider than love means never having to say you're sorry.
+[4412.341 - 4417.102] SPEAKER_07  Love had made me have to say I was sorry so many times I couldn't count.
+[4420.483 - 4426.144] SPEAKER_07 So I picked up the book of easy to grow house plants and I opened it up.
+[4426.425 - 4429.605] SPEAKER_07 It did have beautiful colored pictures.
+[4433.486 - 4435.767] SPEAKER_07 I killed one of those back in January.
+[4440.267 - 4442.148] SPEAKER_07  I killed one of those in March.
+[4445.589 - 4447.81] SPEAKER_07 All the leaves fell off of that one.
+[4451.072 - 4452.272] SPEAKER_07 That turned yellow.
+[4453.853 - 4457.395] SPEAKER_07 And that wasn't supposed to be the color that it was.
+[4460.236 - 4462.457] SPEAKER_07 That one, I think it drowned.
+[4466.359 - 4469.22] SPEAKER_07 By the time I reached the last page of that book,
+[4470.805 - 4479.85] SPEAKER_07  I realized that I had killed off at least one of every single thing that was listed in that easy-to-care-for houseplant book.
+[4481.851 - 4484.832] SPEAKER_07 And I had to face the truth about myself.
+[4486.013 - 4487.094] SPEAKER_07 I was a murderer.
+[4489.955 - 4491.276] SPEAKER_07 A serial killer.
+[4492.937 - 4495.278] SPEAKER_07 A serial killer of houseplants.
+[4498.194 - 4505.318] SPEAKER_07  I found the idea so overwhelming that I got up from my chair and I walked out on the patio to get some air.
+[4506.278 - 4512.281] SPEAKER_07 I'd forgotten that my children called that part of our house Mama's Plant Graveyard.
+[4514.302 - 4518.765] SPEAKER_07 There was devastation and destruction every single place I looked.
+[4519.225 - 4522.467] SPEAKER_07 It was so depressing I went back into the house.
+[4523.877 - 4529.32] SPEAKER_07  And in great Southern form, I began to try to rationalize the situation.
+[4530.36 - 4534.182] SPEAKER_07 A Southerner can rationalize anything, believe me.
+[4536.803 - 4539.084] SPEAKER_07 It's their fault that they died, I said.
+[4540.405 - 4541.866] SPEAKER_07 They don't make any noise.
+[4545.868 - 4550.01] SPEAKER_07 If they would learn to meow or bark,
+[4551.229 - 4553.51] SPEAKER_07  I would take much better care of them.
+[4555.131 - 4559.613] SPEAKER_07 It's their own fault that they died because they don't make any noise.
+[4561.374 - 4563.315] SPEAKER_07 They should evolve or die.
+[4563.335 - 4567.157] SPEAKER_07 And they've obviously chosen death.
+[4568.057 - 4569.498] SPEAKER_07 It's their fault, not mine.
+[4571.755 - 4586.505] SPEAKER_07  But there was just enough relationship with reality left that I decided then and there I was never, ever going to have any more houseplants because I didn't want to be responsible.
+[4589.968 - 4595.752] SPEAKER_07 When I bought the house that I live in now, it was surrounded by beautiful flowers.
+[4599.502 - 4608.848] SPEAKER_07  By the time it was time to write the check for the first house payment, every one of them was stone cold dead.
+[4611.77 - 4624.899] SPEAKER_07 You see, in just one month's time, they had all died because I had gone to East Tennessee State to teach a session of summer school that lasted three of those four weeks.
+[4628.359 - 4641.135] SPEAKER_07  And when I came back, they were all in the flower bed going... They were trying to speak, you could tell.
+[4645.293 - 4659.737] SPEAKER_07  Now I'm here to tell you that good Christian people will look you straight in the eye and lie like a rug about whether or not they will water for you while you're gone from home.
+[4661.858 - 4662.798] SPEAKER_07 It's the truth.
+[4667.06 - 4668.24] SPEAKER_07 One way you can tell
+[4670.293 - 4688.789] SPEAKER_07  See, when I came back after being gone for three weeks and I pulled up in my driveway and I opened the door of my car and stepped out, the grass underneath my, the brown grass under my feet squinched and my water, my shoe filled up with water.
+[4690.15 - 4691.812] SPEAKER_07 And I knew what had happened.
+[4693.533 - 4694.234] SPEAKER_07 You do too.
+[4697.048 - 4702.872] SPEAKER_07  The night before, there had been a conversation that went something like this.
+[4703.432 - 4705.113] SPEAKER_07 Oh, my Lord, she's coming home tomorrow.
+[4705.373 - 4707.675] SPEAKER_07 We've got to run over there and water right quick.
+[4709.216 - 4711.357] SPEAKER_07 Too late to do the plants any good.
+[4712.218 - 4723.685] SPEAKER_07 At least they were trying to make an effort, but all the grass was brown, and like I told you, every single flower around the house was dead as a doornail.
+[4725.246 - 4726.527] SPEAKER_07 It was sad to look at,
+[4728.33 - 4730.892] SPEAKER_07  I thought about those people I bought the house from.
+[4731.272 - 4734.334] SPEAKER_07 They must have watered every single solitary day.
+[4736.056 - 4739.538] SPEAKER_07 But I didn't become hysterical over it until the fall.
+[4740.519 - 4746.843] SPEAKER_07 You see, in the fall in Dallas, they tell you that's the time to set out shrubs and trees.
+[4747.924 - 4755.049] SPEAKER_07 And in my backyard, when I had come home from East Tennessee State, there was a silver Canadian maple tree.
+[4756.96 - 4759.181] SPEAKER_07  that the former owners had planted.
+[4759.201 - 4764.402] SPEAKER_07 I'm gonna say that again so you can think about it for a minute.
+[4764.842 - 4770.264] SPEAKER_07 A silver Canadian maple in Dallas, Texas.
+[4772.845 - 4781.727] SPEAKER_07 Nobody with the sense that God gave a graham cracker would plant a Canadian silver maple in Dallas, Texas.
+[4782.668 - 4786.469] SPEAKER_07 Even if you watered every day, the heat would be bound to kill it off.
+[4787.694 - 4799.097] SPEAKER_07  But one day, I opened the Sunday paper, and there was an ad from the very best nursery in Dallas, Calloway's.
+[4800.458 - 4810.92] SPEAKER_07 And it said that they had received a shipment of Canadian silver maple trees, and they were on sale for $50 per trunk inch.
+[4814.349 - 4817.992] SPEAKER_07  And I realized that I had killed off a $350 tree.
+[4818.012 - 4818.453] SPEAKER_07 A $350 tree.
+[4818.473 - 4819.574] SPEAKER_07 You never knew my mother.
+[4819.694 - 4822.737] SPEAKER_07 There was frugal.
+[4822.937 - 4824.058] SPEAKER_07 And there was thrifty.
+[4824.078 - 4825.659] SPEAKER_07 And then there was my mom.
+[4841.73 - 4850.753] SPEAKER_07  And I knew if anything could bring my mother straight up from dead out of the grave, it would be over the idea that I had murdered a $350 tree.
+[4850.773 - 4851.974] SPEAKER_07 I could hear a voice in the back of my mind.
+[4851.994 - 4851.974] ? $350?
+[4852.034 - 4856.035] SPEAKER_07 Do you know what you could do with $350?
+[4856.075 - 4857.075] SPEAKER_07 You could put it in the bank.
+[4857.095 - 4858.076] SPEAKER_07 It would earn interest.
+[4873.281 - 4876.023] SPEAKER_07  $350?
+[4874.822 - 4876.023] SPEAKER_07 Who raised you?
+[4876.043 - 4893.696] SPEAKER_07 You know, when my son Scooter died, I decided that it was a ridiculous thing to get a headstone for somebody who'd lived the kindest life that Scooter had lived.
+[4894.997 - 4896.178] SPEAKER_07 Wild and free.
+[4897.239 - 4902.421] SPEAKER_07  It made much more sense to me to plant a tree in his memory.
+[4906.343 - 4909.684] SPEAKER_07 Next door, there was a beautiful white oak.
+[4910.365 - 4913.546] SPEAKER_07 It looked like the grandfather of all trees.
+[4914.306 - 4922.23] SPEAKER_07 And so I went to Calloway's, and I spent the money to buy a really nice white oak sapling.
+[4924.01 - 4925.111] SPEAKER_07 The hole was dug.
+[4926.167 - 4939.592] SPEAKER_07  I scattered Scooter's ashes in the bottom of that hole and we planted the tree in his memory to give his child a place to come and grieve for him and his sister and I a place to come and remember him.
+[4943.674 - 4947.155] SPEAKER_07 About three weeks later, I looked out my kitchen window.
+[4949.356 - 4952.357] SPEAKER_07 Most of the leaves had fallen off of Scooter's tree.
+[4957.463 - 4959.985] SPEAKER_07  I walked out there and looked at it more closely.
+[4961.545 - 4965.888] SPEAKER_07 It was deader than a doornail, as dead as a scooter.
+[4967.049 - 4976.234] SPEAKER_07 I had always made fun of the kind of people who would go to the pet store and buy another goldfish to replace the goldfish that had died.
+[4976.254 - 4984.339] SPEAKER_07 I thought, what cowards they are that they won't tell their children the truth about what happened to the first goldfish.
+[4986.684 - 4999.389] SPEAKER_07  But when I looked at Scooter's tree, I couldn't bring myself to tell my granddaughter that the tree that we had buried, had planted in her father's memory, had died.
+[5000.349 - 5001.57] SPEAKER_07 I just couldn't do it.
+[5003.11 - 5006.872] SPEAKER_07 And that's why I went back to Calloway's to look for another tree.
+[5007.272 - 5009.473] SPEAKER_07 I had a picture of the one we'd planted.
+[5009.793 - 5011.034] SPEAKER_07 It was on my phone.
+[5011.294 - 5014.475] SPEAKER_07 And I was telling the salesman, it needs to look like this.
+[5015.703 - 5017.304] SPEAKER_07  He thought that was strange.
+[5017.724 - 5020.586] SPEAKER_07 You may think that's strange too, but that's okay.
+[5021.346 - 5025.669] SPEAKER_07 He told me he didn't have another white oak of any description.
+[5026.449 - 5032.373] SPEAKER_07 And so I ended up driving to Lowe's and looking at the trees that were there.
+[5032.993 - 5035.655] SPEAKER_07 And they didn't have any more white oaks either.
+[5036.715 - 5039.257] SPEAKER_07 Who knew that there'd be a run on white oaks?
+[5041.618 - 5046.079] SPEAKER_07  But at Home Depot, I found one white oak left.
+[5046.819 - 5054.62] SPEAKER_07 It wasn't shaped like the tree that had been planted in Scooter's memory until I got the pruning shears out.
+[5056.201 - 5069.403] SPEAKER_07 And looking at the picture and doing a little judicious trimming, by the time my granddaughter arrived on Friday, she never noticed that it was a different tree.
+[5071.246 - 5078.428] SPEAKER_07  So I want to make an apology to all those people that I made fun of because they lied about a dead goldfish.
+[5078.828 - 5081.629] SPEAKER_07 I turned out to be a bigger coward than that.
+[5085.45 - 5090.231] SPEAKER_07 I want to make sure you understand my current relationship with plants.
+[5091.432 - 5093.132] SPEAKER_07 I don't eat in fern bars.
+[5094.572 - 5096.113] SPEAKER_07 I'm afraid to go in there.
+[5097.518 - 5100.179] SPEAKER_07  I'm afraid that you might hear them whispering.
+[5100.48 - 5106.122] SPEAKER_07 If they have developed the ability to speak, they would be passing the word to one another.
+[5106.503 - 5107.663] SPEAKER_07 She's the one.
+[5109.904 - 5111.385] SPEAKER_07 I recognize her.
+[5112.226 - 5115.127] SPEAKER_07 They tell stories about that woman.
+[5116.108 - 5117.828] SPEAKER_07 Kind of like Billy the Kid.
+[5118.529 - 5121.831] SPEAKER_07 She's had so many notches on her gun.
+[5122.571 - 5125.312] SPEAKER_07 She's killed off so many of our tribe.
+[5125.973 - 5126.373] SPEAKER_07 Get her.
+[5129.867 - 5132.569] SPEAKER_07  So I don't want to go to eat in fern bars.
+[5133.029 - 5148.48] SPEAKER_07 I'm afraid if I do, you might find me at a back table somewhere near the patio with long vines wrapped around my neck and my tongue sticking out and my eyes bugged out and my face turning blue.
+[5149.441 - 5153.244] SPEAKER_07 And I'd be face down, probably in a salad.
+[5176.187 - 5178.268] SPEAKER_07  I received an orchid for my birthday.
+[5180.928 - 5181.729] SPEAKER_07 Pray for it.
+[5183.709 - 5185.369] SPEAKER_07 It should be put in hospice.
+[5194.472 - 5199.093] SPEAKER_07 One, two, three.
+[5201.934 - 5205.175] SPEAKER_07 When you see these advertised on TV, don't make fun of them.
+[5205.215 - 5205.735] SPEAKER_07 They really work.
+[5220.54 - 5244.211] SPEAKER_02  well now I know who I can ask to sit my plants when I'm gone next time Elizabeth I'll be calling well ladies and gentlemen that's it that's the end of our show we hope you've had a wonderful evening thanks for coming what what you're kidding that guy really
+[5247.077 - 5251.818] SPEAKER_02  Oh, ladies and gentlemen, I apologize, but there is this, this is ludicrous.
+[5251.858 - 5252.758] SPEAKER_02 You're not going to believe it.
+[5253.338 - 5256.839] SPEAKER_02 But there's this guy, he's been wandering around town for the last week.
+[5258.68 - 5264.661] SPEAKER_02 And he wears flamboyant clothing, like bow ties with flamingos on them.
+[5266.081 - 5268.782] SPEAKER_02 And he thinks he can tell a story.
+[5270.382 - 5272.723] SPEAKER_02 Because, see, he has this rare condition.
+[5274.141 - 5277.443] SPEAKER_02  where he remembers details about everything.
+[5278.384 - 5284.569] SPEAKER_02 Like, he can tell you every detail about his first day of first grade.
+[5285.209 - 5290.733] SPEAKER_02 And he can tell you exactly how many peas and carrots it takes to fill up a hollow table leg.
+[5293.795 - 5298.739] SPEAKER_02 And he can tell you a million ways to make your mother miserable.
+[5300.168 - 5309.516] SPEAKER_02  He can tell you exactly how many steps it takes a mule to get from the top of the Grand Canyon to the bottom of the Grand Canyon.
+[5311.598 - 5312.259] SPEAKER_02 And you know what?
+[5312.459 - 5322.308] SPEAKER_02 Even at his advanced age, when he walks into a room, he remembers why he came in there.
+[5325.962 - 5330.805] SPEAKER_02  All right, here he is, the anchorman, Donald Davis.
+[5356.553 - 5362.014] SPEAKER_01  Thank you for bringing corporate laughter back to life today after we've missed it for these years.
+[5362.114 - 5366.195] SPEAKER_01 It's been so wonderful to stand up here and hear everybody laugh.
+[5366.555 - 5367.716] SPEAKER_01 This is a great thing.
+[5367.856 - 5368.316] SPEAKER_01 Thank you.
+[5373.417 - 5375.078] SPEAKER_01 It was 1963.
+[5375.578 - 5380.459] SPEAKER_01 I'd finished my freshman year in college, and I was headed back for my sophomore year.
+[5381.817 - 5385.8] SPEAKER_01  But when we got back on campus, there was some kind of construction going on.
+[5386.14 - 5387.381] SPEAKER_01 It wasn't a new building.
+[5387.722 - 5392.165] SPEAKER_01 It was a new basement being dug under the end of the main classroom building.
+[5393.466 - 5405.656] SPEAKER_01 You see, IBM had leased to Davidson College a gigantic mainframe computer with the hopes that it would be purchased at the end of the year.
+[5407.168 - 5408.569] SPEAKER_01  It was a monstrous thing.
+[5408.609 - 5411.171] SPEAKER_01 You remember the size of those mainframe computers.
+[5411.592 - 5417.817] SPEAKER_01 They had to build a huge room for it to fit in, and the thing had less computing power than your iPhone.
+[5419.378 - 5425.864] SPEAKER_01 But there was one thing that mainframe computer could do that an iPhone cannot do.
+[5427.485 - 5430.087] SPEAKER_01 It could keep from ringing in the middle of your story.
+[5434.642 - 5437.024] SPEAKER_01  Well, pretty soon they got the thing up and running.
+[5437.085 - 5449.157] SPEAKER_01 They had some people who were, you know, converted from physics and math into teaching computer science and some new people on the faculty who were learning about Fortran and all kinds of stuff.
+[5449.417 - 5457.365] SPEAKER_01 And mythology began to grow about how, oh, when we go to register this year, there will not even be a schedule.
+[5457.705 - 5475.755] SPEAKER_01  You'll just take all the courses offered, and you'll pick exactly what you want to take, and everybody will do that, and then that wonderful, marvelous computer will magically create a perfect schedule that will enable it to all fit and come out exactly right.
+[5477.396 - 5478.917] SPEAKER_01 You think that worked, don't you?
+[5481.323 - 5500.709] SPEAKER_01  Well, another thing happened was the head of student counseling decided that with the help of some of those computer scientists, he could create a program where he could plug in your high school grades and your SAT scores and accurately predict what your grade point average would be.
+[5502.489 - 5506.751] SPEAKER_01 And I am very proud to say that I am one of only 82 students
+[5508.837 - 5511.539] SPEAKER_01  who received an underachiever's letter.
+[5514.162 - 5514.862] SPEAKER_01 I missed.
+[5516.344 - 5527.934] SPEAKER_01 But it turned out okay because he, who was about 45 years old and had about a 22-year-old blonde wife, two weeks later, his wife ran off with the assistant football coach.
+[5529.415 - 5533.178] SPEAKER_01 And a whole bunch of us happily wrote him an underachiever's letter.
+[5539.349 - 5544.835] SPEAKER_01  Well, pretty soon these guys on campus, now in those days at Davidson College, it was a men's college.
+[5544.855 - 5546.396] SPEAKER_01 Well, they said it was a men's college.
+[5546.456 - 5548.138] SPEAKER_01 It was actually a boys' college.
+[5549.8 - 5556.807] SPEAKER_01 And a lot of the guys on campus, some of them came up with this program they invented that was called Five Dates for $5.
+[5559.909 - 5574.44] SPEAKER_01  They marketed it not just to us but to some other campuses around here and there and to a lot of the women's campuses around North Carolina and the north edge of South Carolina where you could pay your $5 and you got this long, long questionnaire.
+[5574.7 - 5579.924] SPEAKER_01 It was the first thing we ever had where you punched out little holes to answer the questions.
+[5580.285 - 5583.847] SPEAKER_01 And then the computer was going to eat it up and give back the answers.
+[5585.408 - 5588.491] SPEAKER_01 And it had all these questions you could lie about.
+[5590.199 - 5593.58] SPEAKER_01  You know, like, what is your level of sexual experience?
+[5595.18 - 5599.481] SPEAKER_01 You know, and do you think you're attractive to the opposite sex?
+[5599.822 - 5608.824] SPEAKER_01 You know, you could just create this entire persona that had nothing to do with reality, and we never realized everybody else was doing exactly the same thing.
+[5611.035 - 5613.698] SPEAKER_01  Well, my friend Bill, Bill was smaller than I was.
+[5613.798 - 5616.862] SPEAKER_01 I sang bass in the chorus and Bill sang tenor in the chorus.
+[5617.162 - 5629.996] SPEAKER_01 We paid our $5 and we went in and we filled out all the questionnaires and we turned it in and we waited to get back our magical list of five perfect dates for $5.
+[5633.117 - 5642.306] SPEAKER_01  Bill and I went over to pick up the results, and when we read them, they were all at schools, you know, that were supposed to be within a couple of hours' drive of where we were.
+[5642.906 - 5649.273] SPEAKER_01 Bill and I each had a date with two different women on the same campus.
+[5650.618 - 5668.753] SPEAKER_01  a little Methodist school about an hour and a half from where we were, and we decided the perfect plan was we would separately contact our two dates and try to make a plan to go at the same time together so we could safely take care of each other.
+[5670.314 - 5675.419] SPEAKER_01 And that way we would meet those first two perfect people on our list.
+[5677.042 - 5678.223] SPEAKER_01  Well, I had a car.
+[5678.604 - 5682.668] SPEAKER_01 I'd worked for three years and saved every penny, bought my first car ever.
+[5683.008 - 5684.229] SPEAKER_01 Bill did not have a car.
+[5684.53 - 5695.701] SPEAKER_01 We got in it on Sunday afternoon, and we drove about an hour and a half, and we got to that campus, and it turned out that my date and his date lived in two different dormitories.
+[5697.133 - 5705.539] SPEAKER_01  And so I took him over to where he was going, and then I showed him where I'd parked the car, and we'd meet back there in about an hour and a half.
+[5705.88 - 5717.349] SPEAKER_01 And then I crossed over the road and went over to the dormitory where I was going, and I went inside and presented this young woman's name, and I waited for her to come downstairs.
+[5719.75 - 5726.856] SPEAKER_01 At this point, telling the story becomes quite difficult because I like to be fair about
+[5729.733 - 5739.704] SPEAKER_01  I don't know how big I was when I was a sophomore in college, but I do know that when I got my driver's license, I weighed 89 pounds.
+[5742.127 - 5746.011] SPEAKER_01 And when my day came down, she was taller than I was.
+[5747.373 - 5749.896] SPEAKER_01 Her shoulders were broader than my shoulders.
+[5751.38 - 5754.201] SPEAKER_01  And we walked out the door and we started to walk.
+[5754.481 - 5759.963] SPEAKER_01 She was going to take me on a walk out around a little lake where we could look at beautiful things.
+[5761.763 - 5768.006] SPEAKER_01 And without my initiating anything, she reached down and she took hold of my hand.
+[5768.626 - 5771.867] SPEAKER_01 And her grip was stronger than mine was.
+[5774.457 - 5783.219] SPEAKER_01  And but then she was telling me about how she was an only child who had grown up on a farm down in eastern North Carolina.
+[5783.619 - 5789.381] SPEAKER_01 And from the time she was born, she had worked side by side with her daddy on the farm.
+[5789.801 - 5800.084] SPEAKER_01 And her two favorite things in this entire world were plowing on top of a tractor all day long up and down a field and castrating hogs.
+[5804.58 - 5818.146] SPEAKER_01  And she reached in her pocket and pulled out her knife and opened it up and showed me the blades she used on the hogs and the blades she used to trim her fingernails.
+[5820.967 - 5826.85] SPEAKER_01 And all of a sudden, the food I'd eaten for the last week was disagreeing with me somewhat terribly.
+[5829.048 - 5830.189] SPEAKER_01  And we kept going.
+[5830.289 - 5832.892] SPEAKER_01 She was pulling me along now, pulling me along.
+[5832.952 - 5836.015] SPEAKER_01 And I thought, what's up there on the other side of that pond?
+[5836.535 - 5837.536] SPEAKER_01 I can't get loose.
+[5837.656 - 5838.717] SPEAKER_01 I don't know what to do.
+[5839.018 - 5851.27] SPEAKER_01 And we went around through there, and she told me the reason she went to college was because her daddy wanted her to find a man to marry who would come home with her and work with her daddy on the farm.
+[5854.246 - 5859.407] SPEAKER_01  Well, about that time, she stopped to look down at me with big eyes.
+[5860.367 - 5867.949] SPEAKER_01 And she said, I never would have guessed that I would have met my future husband on a computer date.
+[5869.969 - 5872.97] SPEAKER_01 And I said, I must apologize to you deeply.
+[5873.95 - 5877.971] SPEAKER_01 But whatever I have eaten has terribly disagreed with me.
+[5879.371 - 5882.512] SPEAKER_01 And I'm afraid I'm going to have to terminate our date.
+[5883.502 - 5885.683] SPEAKER_01  and I'm going to have to go get some relief.
+[5887.905 - 5893.208] SPEAKER_01 And I left her standing there just looking cow-eyed, and I took off.
+[5895.07 - 5903.075] SPEAKER_01 I thought, I will get back over here, and I'll just sit in the car because I always had a book with me, you know, wait until Bill gets through and we'll go.
+[5903.355 - 5907.618] SPEAKER_01 And I went around the corner where that car was, and he was already back in the car.
+[5911.01 - 5924.214] SPEAKER_01  And he was sitting there with that list of five computer dates for $5, gradually ripping it up in one little piece after another, one little piece after another, one little piece after another.
+[5924.634 - 5930.036] SPEAKER_01 And the only thing he said about that date as we rode away was, I'm glad I'm not a Methodist.
+[5936.781 - 5957.136] SPEAKER_01  Well, we kept those little torn up pieces, and we got back to campus, and we got the rest of my list, and we tore it up too, and we put it in a metal trash can, and we said voodoo words while we burned those papers up so they would never, never be readable again, ever, ever, ever, ever, ever.
+[5959.838 - 5964.422] SPEAKER_01 Well, some of you remember several years ago that my late wife, Merle, died.
+[5966.061 - 5970.905] SPEAKER_01  And after her death, people tried to be so kind.
+[5972.786 - 5974.027] SPEAKER_01 Well, some of them did.
+[5976.229 - 5980.852] SPEAKER_01 But once in a while, somebody would come up and they would think they had a great suggestion.
+[5982.374 - 5987.738] SPEAKER_01 They'd say, you know, Donald, they have this thing now called computer dating.
+[5992.253 - 5999.937] SPEAKER_01  And to have, you know, different websites and different things and different things for different ages you could go on and everything like that.
+[6000.477 - 6002.438] SPEAKER_01 Maybe you should try that out.
+[6004.179 - 6013.703] SPEAKER_01 And they had no idea what I really meant when I looked straight at them and said, thank you, but I've already done that.
+[6031.343 - 6034.354] SPEAKER_02  Well, that really is it, the end of our show.

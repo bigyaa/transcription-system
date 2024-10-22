@@ -1,0 +1,30 @@
+Under Windows, using the original GNU UnxUtils package - 
+   see https://sourceforge.net/projects/unxutils/ 
+   with comments at
+     https://superuser.com/questions/168202/difference-between-unxutils-and-gnuwin32
+     and https://archive.org/details/UnxUtils
+- the log files can be coalesced into individual documents as follows:
+
+*.  First, install UnxUtils 
+    -.  copy the distribution's contents to a target directory of your choice 
+        -.  in what follows, I'll assume that the target directory is C:\Program Files (x86)\UnxUtils
+    -.  rename find.exe, so as to avoid conflicts with the Windows "find" utility, which functions like a limited version of grep
+        -.  in what follows, I'll assume that the file in wbin has been renamed to unixfind.exe
+        -.  you should likely rename the wbin-resident sort utility, sort.exe, to unixsort.exe
+    -.  add C:\Program Files (x86)\UnxUtils\usr\local\wbin to your environment's PATH variable
+*.  To collapse a set of data logs to a single XML file,
+    -.  ensure that 
+        -.  all of the log files are in a common directory tree
+        -.  the files' names follow a set pattern
+            -.  in what follows, I assume a regular expression match of audio*.log
+        -.  the path to each of these log files is space-free
+    -.  cd to the root of this directory tree
+    -.  choose a name for the output file 
+        -.  in what follows, I'll assume the name audio_logs.xml
+    -.  run the following commands
+        -.  echo ^<?xml version="1.0" ?^> > audio_logs.xml   # initializes audio_logs.xml
+        -.  echo ^<collected_data^>  >> audio_logs.xml       # opens root element for all performance data
+        -.  unixfind -name "audio*.log" -exec "tail +2 {}" ; >> audio_logs.xml  # collects performance data
+        -.  echo ^</collected_data^> >> audio_logs.xml       # opens root element for all performance data
+        
+        

@@ -1,0 +1,12 @@
+<!--
+  Last updated 17 May 2024 - Phil Pfeiffer
+  -.  input transcript required on command line - not configurable
+  -.  alternate config file, if present, must be on command line - not configurable
+-->
+<config>
+    <!-- output_dir -->
+    <!-- updated_transcript -->     
+    <!-- enable_logfile -->    
+    <!-- logfile_dir -->
+    <!-- logfile_name -->    
+</config>

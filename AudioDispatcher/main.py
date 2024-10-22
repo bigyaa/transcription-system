@@ -5,21 +5,40 @@
 #   Usage:
 #      python main.py --audio_path [path_to_audio_file] --configxml [path_to_config_file] [Other_Arguments]
 #      Arguments and defaults:
-#         -au, --audio_path [path] : Path to the audio file or directory for transcription
-#         -bs, --batch_size [size] :  Batch size for transcription
-#         -cx, --configxml [path] : XML configuration file. Default is 'config/default_config.xml'
-#         -ct, --compute_type : The computation type
-#         -dv, --device : hardware device for diarization.  Defaults to 'cpu'
-#         -el, --enable-logfile : If included, write log messages to log file, as well as console.
-#         -ht, --hf_token [token] : Hugging Face token for model access with diarization.  Defaults to None.
-#         -lf, --logfile [path] : Name of log file to which to write.  Defaults to sys.stderr.
-#         -ms, --model_size [size] : Whisper model size for transcription. Defaults to 'base'.
-#         -od, --output_dir [dir] : Directory to store transcription files. Defaults to 'transcriptions'.
+#
+#         -au,   --audiodir [path]:              Path to the directory tree containing files to transcribe  [required]
+#         -cxds, --config_dispatcher [path]:     XML configuration file for the dispatcher.
+#         -ex,   --extensions:                   List of file extensions to treat as recordings
+#
+#         -el,   --enable_logging:                    If True, write log messages to log file, as well as console.
+#         -ld,   --logfile_dir [path]:                Directory for storing user-visible dispatcher log files. 
+#                                                       special names:
+#                                                         stdout - denotes standard output channel
+#                                                         stderr - denotes standard error channel
+#                                                         null - denotes the null device
+#         -lnsm,  --summary_logfile_name [path]:      Name of dispatcher summary log file
+#         -lndt,  --detailed_logfile_name [path]:     Name of detailed version of log file
+#         -lnpf,  --performance_logfile_name [path]:  Name of performance data log file
+#
+#         -py,   --python:                   Python interpreter.  Defaults to /usr/local/bin/python
+#         -pr,   --audio_processor:          Single-file transcriber and diarizer.  Defaults to CoreAudioProcessor/main.py.
+#         -cxpr, --config_processor [path]:  XML configuration file for the transcriber.
+#
+#         parameters that apply to all files to process in audiodir:
+#         -bs,   --batch_size [size]:        Batch size for transcription
+#         -ct,   --compute_type:             The computation type
+#         -dv,   --device:                   hardware device for diarization - 'cpu' or 'gpgpu'
+#         -ed,   --enable_diarization:       If True, enable diarization as well as transcription
+#         -ht,   --hf_token [token]:         Hugging Face token for model access with diarization.
+#         -ms,   --model_size [size]:        Whisper model size for transcription. 
+#         -od,   --output_dir [dir]:         Directory for storing transcription file outputs.
+#         -ov,   --enable_overwrite:         If True, overwrite existing transcription and diarization, if present.
+#
 #      Outputs:
 #         Processes and transcribes audio files, outputting transcription files in the specified directory.
 #         Application activity and errors are logged.
 # ---------------------------------------------------------------------------------------------------------------------
-#   last updated:  March 4 2024
+#   last updated:  May 16 2024
 #   authors:       Ruben Maharjan, Bigya Bajarcharya, Mofeoluwa Jide-Jegede, Phil Pfeiffer
 # *************************************************************************************************************************
 
@@ -27,6 +46,10 @@
 # imports
 # ***********************************************
 
+# --------------------------------------------------------------------------------------
+#   Python Standard Library
+# --------------------------------------------------------------------------------------
+#
 # sys –
 #   exit – exit, returning a final status code
 
@@ -59,10 +82,10 @@ if __name__ == '__main__':
     # Transcribe the input
     try:
         Transcribe(config, logger)
-        status_msg = STATUS.statusmsg('Processing completed.')
+        status_msg = STATUS.statusmsg(': Processing completed.')
         logger.info(status_msg)
         sys.exit(STATUS.ExitStatus.status)
     except Exception as e:
-        err_msg = STATUS.errmsg(f'?? exiting: {STATUS.err_to_str(e)}')
+        err_msg = STATUS.errmsg(f' ?? exiting: {STATUS.err_to_str(e)}')
         logger.error(err_msg)
         sys.exit(STATUS.ExitStatus.uncertain_error())

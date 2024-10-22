@@ -1,0 +1,18 @@
+<!--
+  Last updated 17 May 2024 - Phil Pfeiffer
+  -.  input transcript required on command line - not configurable
+  -.  alternate config file, if present, must be on command line - not configurable
+-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="config">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="output_dir"          type="xs:string"  minOccurs="0"/>
+        <xs:element name="updated_transcript"  type="xs:string"  minOccurs="0"/>
+        <xs:element name="enable_logfile"      type="xs:string"  minOccurs="0"/>
+        <xs:element name="logfile_dir"         type="xs:string"  minOccurs="0"/>
+        <xs:element name="logfile_name"        type="xs:string"  minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

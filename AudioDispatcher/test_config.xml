@@ -1,0 +1,24 @@
+<!--
+  Last updated 15 March 2024 - Phil Pfeiffer
+  -.  alternate config file for the dispatcher, if present, must be specified on command line - not configurable
+-->
+<config>
+    <!-- extensions -->
+    <python>C:\Program Files\Python312\python.exe</python>
+    <audio_processor>..\CoreAudioProcessor\main.py</audio_processor>
+    <!-- processor_config_file -->
+    <enable_logging>True</enable_logging>
+    <user_logs_dir>logs</user_logs_dir>
+    <summary_log_name>summary.log</summary_log_name>
+    <detailed_log_name>detailed.log</detailed_log_name>
+    <performance_log_name>performance_log.xml</performance_log_name>
+    <!-- batch_size -->
+    <!-- compute_type -->
+    <!-- device -->
+    <enable_diarization>True</enable_diarization>
+    <hf_token>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</hf_token>
+    <!-- logfile -->
+    <model_size>small</model_size>
+    <output_dir>transcriptions</output_dir>
+    <!-- enable_overwrite -->
+</config>

@@ -1,7 +1,7 @@
 <!--
-  Last updated 3 March 2024 - Phil Pfeiffer
+  Last updated 17 May 2024 - Phil Pfeiffer
   -.  audio input required on command line - not configurable
-  -.  alternatte config file, if present, must be on command line - not configurable
+  -.  alternate config file, if present, must be on command line - not configurable
 -->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:element name="config">
@@ -10,12 +10,14 @@
         <xs:element name="batch_size"          type="xs:string"  minOccurs="0"/>
         <xs:element name="compute_type"        type="xs:string"  minOccurs="0"/>
         <xs:element name="device"              type="xs:string"  minOccurs="0"/>
-        <xs:element name="enable_diarization"  type="xs:boolean" minOccurs="0"/>
-        <xs:element name="enable_logging"      type="xs:boolean" minOccurs="0"/>
+        <xs:element name="enable_diarization"  type="xs:string"  minOccurs="0"/>
         <xs:element name="hf_token"            type="xs:string"  minOccurs="0"/>
-        <xs:element name="logfile"             type="xs:string"  minOccurs="0"/>
         <xs:element name="model_size"          type="xs:string"  minOccurs="0"/>
         <xs:element name="output_dir"          type="xs:string"  minOccurs="0"/>
+        <xs:element name="enable_overwrite"    type="xs:string"  minOccurs="0"/>
+        <xs:element name="enable_logfile"      type="xs:string"  minOccurs="0"/>
+        <xs:element name="logfile_dir"         type="xs:string"  minOccurs="0"/>
+        <xs:element name="logfile_name"        type="xs:string"  minOccurs="0"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>

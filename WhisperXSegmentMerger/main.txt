@@ -1,0 +1,75 @@
+# *************************************************************************************************************************
+#   main.py 
+#     Collapse a multi-line WhisperX transcript into a sequence of paragraphs by conflating adjacent utterances 
+#     from a common speaker
+# -------------------------------------------------------------------------------------------------------------------
+#   Usage:
+#      python main.py --rt [path_to_audio_file] --configxml [path_to_config_file] [Other Arguments]
+#      Arguments and defaults:
+#         -tr,  --transcript:            XML transcript to reformat (required)
+#         -cx,  --configxml [path]:      XML configuration file.
+#         -od,  --output_dir [dir]:      Directory to store updated transcript
+#         -of,  --output_file:           Directory in which to store output file - the reformatted transcript
+#         -el,   --enable_logging:       If True, write log messages to log file, as well as console.
+#         -ld,  --logfile_dir [path] :   Name of directory into which to write logfile.
+#         -ln,  --logfile_name [path]:   Name of log file to write.
+#      Outputs:
+#         Reformats output from WhisperX as specified above
+#         If enabled, application activity and errors are logged.
+# ---------------------------------------------------------------------------------------------------------------------
+#   last updated:  May 18, 2024
+#   authors:       Bigya Bajarcharya, Phil Pfeiffer
+# *************************************************************************************************************************
+
+# ***********************************************
+# Imports
+# ***********************************************
+
+# ======================================================================================
+#   Python Standard Library
+# ======================================================================================
+#
+# re -
+#    match - check a string for conformance to a pattern
+# sys –
+#   exit – exit, returning a final status code
+#
+import re
+import sys
+
+# ======================================================================================
+#   custom
+# ======================================================================================
+#
+# StatusManager - supporting definitions for error management
+# MergerConfig -   configuration handler for transcription settings
+#   MergerConfig() - class to manage segment merging logic configuration
+# SegmentMerger -  collapse sequential segments from common speakers into monolithic segments
+#   SegmentMerger() - the segment-collapsing routine
+
+import src.StatusManager as STATUS
+from src.MergerConfig  import MergerConfig
+from src.SegmentMerger import MergeSegments
+
+# ***********************************************
+# program main
+# ***********************************************
+
+if __name__ == '__main__':
+
+    # Configure program execution.
+    config = MergerConfig()
+    logger = config.logger()
+    input_file = config.input_file()
+    output_file = config.output_file()
+
+    # Update the input file
+    try:
+        MergeSegments(input_file, output_file, logger)
+        status_msg = STATUS.statusmsg(': Processing completed.')
+        logger.info(status_msg)
+        sys.exit(STATUS.ExitStatus.status)
+    except Exception as e:
+        err_msg = STATUS.errmsg(f' ?? exiting: {STATUS.err_to_str(e)}')
+        logger.error(err_msg)
+        sys.exit(STATUS.ExitStatus.uncertain_error())

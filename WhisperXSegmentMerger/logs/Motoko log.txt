@@ -1,0 +1,6 @@
+[2024-05-18 02:28:13.985] [MainThread] [ERROR   ] [SegmentMerger.py:117] Format error in E:\2024 spring\_ISC project\WhisperXSegmentMerger\Motoko.txt at line 329: improper format ([1495.884 - 1497.284] ? Wow.)
+
+[2024-05-18 02:28:13.985] [MainThread] [ERROR   ] [SegmentMerger.py:117] Format error in E:\2024 spring\_ISC project\WhisperXSegmentMerger\Motoko.txt at line 439: improper format ([1929.241 - 1929.521] ? Office.)
+
+[2024-05-18 02:28:13.987] [MainThread] [ERROR   ] [SegmentMerger.py:117] Format error in E:\2024 spring\_ISC project\WhisperXSegmentMerger\Motoko.txt at line 988: improper format ([4851.994 - 4851.974] ? $350?)
+

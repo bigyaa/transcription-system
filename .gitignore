@@ -137,3 +137,10 @@ dmypy.json
 
 #scripts
 remove_dependencies.py
+
+#hf_keys
+*/AudioDispatcher/test_config.xml
+*/AudioDispatcher/config/dispatcher_config.xml
+*/AudioDispatcher/src/DEFAULTS.py
+*/CoreAudioProcessor/config/transcription_config.xml
+*/CoreAudioProcessor/src/DEFAULTS.py
