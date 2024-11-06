@@ -16,11 +16,11 @@ Now, the project has evolved into a versatile application accessible to anyone s
 
 1. Clone the repository:
 ```bash 
-git clone https://github.com/rubenmaharjan/isc-transcription.git
+git clone https://github.com/bigyaa/transcription-system.git
 ```
 2. Navigate to the cloned directory:
 ```bash 
-cd isc-transcription
+cd transcription-system
 ```
 3. Install the required packages:
 ```bash 
@@ -39,7 +39,7 @@ To run the transcription process, follow these steps:
 
 3. Run the following command to start the transcription process:
 ```bash
-python main.py
+python3 main.py
 ```
 This will run the transcription process based on the configuration that has been created.
 
